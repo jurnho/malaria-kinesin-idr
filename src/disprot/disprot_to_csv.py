@@ -10,6 +10,7 @@ from ftplib import FTP
 
 __author__ = 'jurn'
 
+namespaces = {'d': 'http://disprot.org/data/version_6.02/disprot_v6.02'}
 
 def is_disordered(position, regions):
     for r in regions:
@@ -32,10 +33,8 @@ PdbChain = namedtuple('PdbChain', ['id', 'chain'])
 def get_pdb(xml_region):
     if (xml_region is None):
         return PdbChain("", "")
-    pdb_id = xml_region.find('d:id',
-                             namespaces={'d': 'http://disprot.org/data/version_6.02/disprot_v6.02'}).text
-    pdb_chain = xml_region.find('d:chain',
-                                namespaces={'d': 'http://disprot.org/data/version_6.02/disprot_v6.02'}).text
+    pdb_id = xml_region.find('d:id', namespaces).text
+    pdb_chain = xml_region.find('d:chain', namespaces).text
     return PdbChain(pdb_id, pdb_chain)
 
 
@@ -146,7 +145,7 @@ def main(options):
                 ["protein_id", "uniprot_id", "name", "position", "residue", "disordered", "type", "pdb id",
                  "pdb chain", "dssp ss", "dssp aa"])
 
-    for xml_protein in root.findall('{http://disprot.org/data/version_6.02/disprot_v6.02}protein'):
+    for xml_protein in root.findall('d:protein', namespaces):
         protein_id = xml_protein.get('id')
         if options["split"]:
             # start a new file
@@ -156,13 +155,12 @@ def main(options):
                     ["protein_id", "uniprot_id", "name", "position", "residue", "disordered", "type", "pdb id",
                      "pdb chain", "dssp ss", "dssp aa"])
         sequence = xml_protein.find(
-                '{http://disprot.org/data/version_6.02/disprot_v6.02}general/{http://disprot.org/data/version_6.02/disprot_v6.02}sequence').text
+                'd:general/d:sequence', namespaces).text
         uniprot_id = xml_protein.find(
-                '{http://disprot.org/data/version_6.02/disprot_v6.02}general/{http://disprot.org/data/version_6.02/disprot_v6.02}uniprot').text
+                'd:general/d:uniprot', namespaces).text
         name = xml_protein.find(
-                '{http://disprot.org/data/version_6.02/disprot_v6.02}general/{http://disprot.org/data/version_6.02/disprot_v6.02}name').text
-        xml_pdbs = xml_protein.findall('d:regions/d:region/d:pdbs/d:pdb',
-                                       namespaces={'d': 'http://disprot.org/data/version_6.02/disprot_v6.02'})
+                'd:general/d:name', namespaces).text
+        xml_pdbs = xml_protein.findall('d:regions/d:region/d:pdbs/d:pdb',namespaces)
         if len(xml_pdbs) > 0:
             first_pdb_xml = xml_pdbs[0]
         else:
@@ -170,19 +168,18 @@ def main(options):
         pdb_entry = get_pdb(first_pdb_xml)
 
         print protein_id
-        xml_regions = xml_protein.findall(
-                '{http://disprot.org/data/version_6.02/disprot_v6.02}regions/{http://disprot.org/data/version_6.02/disprot_v6.02}region')
+        xml_regions = xml_protein.findall('d:regions/d:region', namespaces)
 
         regions = []
         for xml_region in xml_regions:
             # region_id = xml_region.get('id')
-            type = xml_region.find('{http://disprot.org/data/version_6.02/disprot_v6.02}type').text
+            type = xml_region.find('d:type', namespaces).text
             if type == "Ordered":
                 continue
             # print "  " + region_id + ":" + type
-            start = xml_region.find('{http://disprot.org/data/version_6.02/disprot_v6.02}start').text
+            start = xml_region.find('d:start', namespaces).text
             start = int(start)
-            end = xml_region.find('{http://disprot.org/data/version_6.02/disprot_v6.02}end').text
+            end = xml_region.find('d:end', namespaces).text
             end = int(end)
             regions.append({
                 "start": start,
