@@ -133,18 +133,28 @@ def parse_dssp(dssp_data):
     return result
 
 
-def main():
+def main(options):
     xml_file = sys.argv[1]
 
     tree = xml.etree.ElementTree.parse(xml_file)
     root = tree.getroot()
-    csvfile = open("disprot.csv", 'wb')
-    csvwriter = csv.writer(csvfile)
-    csvwriter.writerow(
-            ["protein_id", "uniprot_id", "name", "position", "residue", "disordered", "type", "pdb id", "pdb chain","dssp ss", "dssp aa"])
+
+    if not options["split"]:
+        csvfile = open("disprot.csv", 'wb')
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow(
+                ["protein_id", "uniprot_id", "name", "position", "residue", "disordered", "type", "pdb id",
+                 "pdb chain", "dssp ss", "dssp aa"])
 
     for xml_protein in root.findall('{http://disprot.org/data/version_6.02/disprot_v6.02}protein'):
         protein_id = xml_protein.get('id')
+        if options["split"]:
+            # start a new file
+            csvfile = open(protein_id + "_disprot.csv", 'wb')
+            csvwriter = csv.writer(csvfile)
+            csvwriter.writerow(
+                    ["protein_id", "uniprot_id", "name", "position", "residue", "disordered", "type", "pdb id",
+                     "pdb chain", "dssp ss", "dssp aa"])
         sequence = xml_protein.find(
                 '{http://disprot.org/data/version_6.02/disprot_v6.02}general/{http://disprot.org/data/version_6.02/disprot_v6.02}sequence').text
         uniprot_id = xml_protein.find(
@@ -158,8 +168,7 @@ def main():
         else:
             first_pdb_xml = None
         pdb_entry = get_pdb(first_pdb_xml)
-        # save_as_fasta(protein_id, sequence)
-        # write out a fasta file.
+
         print protein_id
         xml_regions = xml_protein.findall(
                 '{http://disprot.org/data/version_6.02/disprot_v6.02}regions/{http://disprot.org/data/version_6.02/disprot_v6.02}region')
@@ -194,9 +203,28 @@ def main():
                                 disordered_result['type'],
                                 pdb_id, pdb_chain, sse, dssp_aa])
             # print aa
-
+        if options["split"]:
+            csvfile.close()
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) == 1:
+        print "Usage: " + sys.argv[0] + " [--split] DISPROT_XML_FILE"
+        print
+        print "convert the DisProt XML database into a CSV file named disprot.csv"
+        print
+        print "options:"
+        print "  split    instead of writing a single disprot.csv as output, create one csv per protein."
+        print "           Files will be created in the format <protein_id>_disprot.csv"
+        exit(0)
+    else:
+        options = {
+            "split": False
+        }
+        for arg in sys.argv[1:]:
+            if arg == '--split':
+                options['split'] = True
+            else:
+                options['disprot_xml_file'] = arg
+        main(options)
 
 # protein_id, position, residue, disordered Y/N, type
