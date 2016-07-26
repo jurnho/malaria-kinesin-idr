@@ -1,0 +1,95 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00685,Q98157,Viral macrophage inflammatory protein 2,1,M,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,2,D,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,3,T,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,4,K,N,,1VMP,A,,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,5,G,N,,1VMP,A,,G
+DP00685,Q98157,Viral macrophage inflammatory protein 2,6,I,N,,1VMP,A,T,A
+DP00685,Q98157,Viral macrophage inflammatory protein 2,7,L,N,,1VMP,A,T,S
+DP00685,Q98157,Viral macrophage inflammatory protein 2,8,L,N,,1VMP,A,S,W
+DP00685,Q98157,Viral macrophage inflammatory protein 2,9,V,N,,1VMP,A,,H
+DP00685,Q98157,Viral macrophage inflammatory protein 2,10,A,N,,1VMP,A,,R
+DP00685,Q98157,Viral macrophage inflammatory protein 2,11,V,N,,1VMP,A,,P
+DP00685,Q98157,Viral macrophage inflammatory protein 2,12,L,N,,1VMP,A,,D
+DP00685,Q98157,Viral macrophage inflammatory protein 2,13,T,N,,1VMP,A,,K
+DP00685,Q98157,Viral macrophage inflammatory protein 2,14,A,N,,1VMP,A,,a
+DP00685,Q98157,Viral macrophage inflammatory protein 2,15,L,N,,1VMP,A,,b
+DP00685,Q98157,Viral macrophage inflammatory protein 2,16,L,N,,1VMP,A,S,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,17,C,N,,1VMP,A,S,G
+DP00685,Q98157,Viral macrophage inflammatory protein 2,18,L,N,,1VMP,A,,Y
+DP00685,Q98157,Viral macrophage inflammatory protein 2,19,Q,N,,1VMP,A,,Q
+DP00685,Q98157,Viral macrophage inflammatory protein 2,20,S,N,,1VMP,A,,K
+DP00685,Q98157,Viral macrophage inflammatory protein 2,21,G,Y,Disordered - Extended,1VMP,A,S,R
+DP00685,Q98157,Viral macrophage inflammatory protein 2,22,D,Y,Disordered - Extended,1VMP,A,,P
+DP00685,Q98157,Viral macrophage inflammatory protein 2,23,T,Y,Disordered - Extended,1VMP,A,,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,24,L,Y,Disordered - Extended,1VMP,A,,P
+DP00685,Q98157,Viral macrophage inflammatory protein 2,25,G,Y,Disordered - Extended,1VMP,A,G,Q
+DP00685,Q98157,Viral macrophage inflammatory protein 2,26,A,Y,Disordered - Extended,1VMP,A,G,V
+DP00685,Q98157,Viral macrophage inflammatory protein 2,27,S,Y,Disordered - Extended,1VMP,A,G,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,28,W,Y,Disordered - Extended,1VMP,A,E,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,29,H,Y,Disordered - Extended,1VMP,A,E,S
+DP00685,Q98157,Viral macrophage inflammatory protein 2,30,R,Y,Disordered - Extended,1VMP,A,E,S
+DP00685,Q98157,Viral macrophage inflammatory protein 2,31,P,Y,Disordered - Extended,1VMP,A,E,W
+DP00685,Q98157,Viral macrophage inflammatory protein 2,32,D,Y,Disordered - Extended,1VMP,A,E,Y
+DP00685,Q98157,Viral macrophage inflammatory protein 2,33,K,Y,Disordered - Extended,1VMP,A,E,P
+DP00685,Q98157,Viral macrophage inflammatory protein 2,34,C,Y,Disordered - Extended,1VMP,A,E,T
+DP00685,Q98157,Viral macrophage inflammatory protein 2,35,C,Y,Disordered - Extended,1VMP,A,,S
+DP00685,Q98157,Viral macrophage inflammatory protein 2,36,L,Y,Disordered - Extended,1VMP,A,T,Q
+DP00685,Q98157,Viral macrophage inflammatory protein 2,37,G,Y,Disordered - Extended,1VMP,A,T,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,38,Y,Y,Disordered - Extended,1VMP,A,S,a
+DP00685,Q98157,Viral macrophage inflammatory protein 2,39,Q,Y,Disordered - Extended,1VMP,A,S,S
+DP00685,Q98157,Viral macrophage inflammatory protein 2,40,K,Y,Disordered - Extended,1VMP,A,S,K
+DP00685,Q98157,Viral macrophage inflammatory protein 2,41,R,Y,Disordered - Extended,1VMP,A,,P
+DP00685,Q98157,Viral macrophage inflammatory protein 2,42,P,Y,Disordered - Extended,1VMP,A,E,G
+DP00685,Q98157,Viral macrophage inflammatory protein 2,43,L,Y,Disordered - Extended,1VMP,A,E,V
+DP00685,Q98157,Viral macrophage inflammatory protein 2,44,P,Y,Disordered - Extended,1VMP,A,E,I
+DP00685,Q98157,Viral macrophage inflammatory protein 2,45,Q,N,,1VMP,A,E,F
+DP00685,Q98157,Viral macrophage inflammatory protein 2,46,V,N,,1VMP,A,E,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,47,L,N,,1VMP,A,E,T
+DP00685,Q98157,Viral macrophage inflammatory protein 2,48,L,N,,1VMP,A,T,K
+DP00685,Q98157,Viral macrophage inflammatory protein 2,49,S,N,,1VMP,A,T,R
+DP00685,Q98157,Viral macrophage inflammatory protein 2,50,S,N,,1VMP,A,,G
+DP00685,Q98157,Viral macrophage inflammatory protein 2,51,W,N,,1VMP,A,,R
+DP00685,Q98157,Viral macrophage inflammatory protein 2,52,Y,N,,1VMP,A,E,Q
+DP00685,Q98157,Viral macrophage inflammatory protein 2,53,P,N,,1VMP,A,E,V
+DP00685,Q98157,Viral macrophage inflammatory protein 2,54,T,N,,1VMP,A,,b
+DP00685,Q98157,Viral macrophage inflammatory protein 2,55,S,N,,1VMP,A,,A
+DP00685,Q98157,Viral macrophage inflammatory protein 2,56,Q,N,,1VMP,A,B,D
+DP00685,Q98157,Viral macrophage inflammatory protein 2,57,L,N,,1VMP,A,T,K
+DP00685,Q98157,Viral macrophage inflammatory protein 2,58,C,N,,1VMP,A,T,S
+DP00685,Q98157,Viral macrophage inflammatory protein 2,59,S,N,,1VMP,A,S,K
+DP00685,Q98157,Viral macrophage inflammatory protein 2,60,K,N,,1VMP,A,H,D
+DP00685,Q98157,Viral macrophage inflammatory protein 2,61,P,N,,1VMP,A,H,W
+DP00685,Q98157,Viral macrophage inflammatory protein 2,62,G,N,,1VMP,A,H,V
+DP00685,Q98157,Viral macrophage inflammatory protein 2,63,V,N,,1VMP,A,H,K
+DP00685,Q98157,Viral macrophage inflammatory protein 2,64,I,N,,1VMP,A,H,K
+DP00685,Q98157,Viral macrophage inflammatory protein 2,65,F,N,,1VMP,A,H,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,66,L,N,,1VMP,A,H,M
+DP00685,Q98157,Viral macrophage inflammatory protein 2,67,T,N,,1VMP,A,H,Q
+DP00685,Q98157,Viral macrophage inflammatory protein 2,68,K,N,,1VMP,A,H,Q
+DP00685,Q98157,Viral macrophage inflammatory protein 2,69,R,N,,1VMP,A,S,L
+DP00685,Q98157,Viral macrophage inflammatory protein 2,70,G,N,,1VMP,A,,P
+DP00685,Q98157,Viral macrophage inflammatory protein 2,71,R,N,,1VMP,A,,V
+DP00685,Q98157,Viral macrophage inflammatory protein 2,72,Q,N,,1VMP,A,,T
+DP00685,Q98157,Viral macrophage inflammatory protein 2,73,V,N,,1VMP,A,,A
+DP00685,Q98157,Viral macrophage inflammatory protein 2,74,C,N,,1VMP,A,,R
+DP00685,Q98157,Viral macrophage inflammatory protein 2,75,A,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,76,D,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,77,K,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,78,S,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,79,K,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,80,D,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,81,W,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,82,V,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,83,K,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,84,K,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,85,L,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,86,M,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,87,Q,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,88,Q,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,89,L,N,,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,90,P,Y,Disordered - Extended,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,91,V,Y,Disordered - Extended,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,92,T,Y,Disordered - Extended,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,93,A,Y,Disordered - Extended,1VMP,A,,
+DP00685,Q98157,Viral macrophage inflammatory protein 2,94,R,Y,Disordered - Extended,1VMP,A,,

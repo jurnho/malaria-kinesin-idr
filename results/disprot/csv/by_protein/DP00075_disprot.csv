@@ -1,0 +1,766 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00075,P11387,DNA topoisomerase 1,1,M,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,2,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,3,G,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,4,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,5,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,6,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,7,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,8,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,9,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,10,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,11,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,12,I,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,13,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,14,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,15,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,16,F,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,17,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,18,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,19,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,20,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,21,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,22,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,23,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,24,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,25,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,26,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,27,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,28,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,29,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,30,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,31,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,32,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,33,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,34,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,35,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,36,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,37,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,38,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,39,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,40,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,41,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,42,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,43,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,44,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,45,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,46,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,47,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,48,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,49,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,50,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,51,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,52,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,53,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,54,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,55,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,56,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,57,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,58,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,59,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,60,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,61,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,62,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,63,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,64,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,65,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,66,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,67,T,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,68,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,69,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,70,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,71,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,72,G,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,73,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,74,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,75,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,76,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,77,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,78,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,79,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,80,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,81,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,82,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,83,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,84,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,85,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,86,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,87,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,88,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,89,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,90,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,91,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,92,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,93,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,94,V,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,95,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,96,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,97,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,98,G,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,99,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,100,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,101,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,102,I,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,103,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,104,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,105,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,106,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,107,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,108,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,109,G,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,110,F,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,111,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,112,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,113,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,114,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,115,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,116,I,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,117,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,118,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,119,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,120,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,121,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,122,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,123,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,124,G,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,125,Y,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,126,F,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,127,V,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,128,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,129,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,130,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,131,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,132,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,133,I,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,134,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,135,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,136,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,137,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,138,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,139,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,140,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,141,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,142,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,143,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,144,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,145,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,146,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,147,Y,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,148,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,149,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,150,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,151,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,152,I,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,153,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,154,T,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,155,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,156,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,157,T,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,158,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,159,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,160,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,161,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,162,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,163,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,164,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,165,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,166,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,167,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,168,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,169,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,170,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,171,G,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,172,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,173,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,174,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,175,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,176,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,177,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,178,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,179,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,180,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,181,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,182,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,183,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,184,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,185,V,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,186,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,187,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,188,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,189,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,190,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,191,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,192,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,193,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,194,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,195,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,196,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,197,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,198,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,199,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,200,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,201,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,202,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,203,W,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,204,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,205,W,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,206,W,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,207,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,208,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,209,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,210,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,211,Y,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,212,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,213,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,214,G,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,215,I,N,,1A31,A,,I
+DP00075,P11387,DNA topoisomerase 1,216,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,217,W,N,,1A31,A,,W
+DP00075,P11387,DNA topoisomerase 1,218,K,N,,1A31,A,S,K
+DP00075,P11387,DNA topoisomerase 1,219,F,N,,1A31,A,,F
+DP00075,P11387,DNA topoisomerase 1,220,L,N,,1A31,A,E,L
+DP00075,P11387,DNA topoisomerase 1,221,E,N,,1A31,A,E,E
+DP00075,P11387,DNA topoisomerase 1,222,H,N,,1A31,A,E,H
+DP00075,P11387,DNA topoisomerase 1,223,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,224,G,N,,1A31,A,,G
+DP00075,P11387,DNA topoisomerase 1,225,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,226,V,N,,1A31,A,B,V
+DP00075,P11387,DNA topoisomerase 1,227,F,N,,1A31,A,,F
+DP00075,P11387,DNA topoisomerase 1,228,A,N,,1A31,A,,A
+DP00075,P11387,DNA topoisomerase 1,229,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,230,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,231,Y,N,,1A31,A,,Y
+DP00075,P11387,DNA topoisomerase 1,232,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,233,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,234,L,N,,1A31,A,,L
+DP00075,P11387,DNA topoisomerase 1,235,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,236,E,N,,1A31,A,T,E
+DP00075,P11387,DNA topoisomerase 1,237,N,N,,1A31,A,T,N
+DP00075,P11387,DNA topoisomerase 1,238,V,N,,1A31,A,,V
+DP00075,P11387,DNA topoisomerase 1,239,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,240,F,N,,1A31,A,,F
+DP00075,P11387,DNA topoisomerase 1,241,Y,N,,1A31,A,E,Y
+DP00075,P11387,DNA topoisomerase 1,242,Y,N,,1A31,A,E,Y
+DP00075,P11387,DNA topoisomerase 1,243,D,N,,1A31,A,T,D
+DP00075,P11387,DNA topoisomerase 1,244,G,N,,1A31,A,T,G
+DP00075,P11387,DNA topoisomerase 1,245,K,N,,1A31,A,E,K
+DP00075,P11387,DNA topoisomerase 1,246,V,N,,1A31,A,E,V
+DP00075,P11387,DNA topoisomerase 1,247,M,N,,1A31,A,,M
+DP00075,P11387,DNA topoisomerase 1,248,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,249,L,N,,1A31,A,,L
+DP00075,P11387,DNA topoisomerase 1,250,S,N,,1A31,A,,S
+DP00075,P11387,DNA topoisomerase 1,251,P,N,,1A31,A,H,P
+DP00075,P11387,DNA topoisomerase 1,252,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,253,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,254,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,255,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,256,V,N,,1A31,A,H,V
+DP00075,P11387,DNA topoisomerase 1,257,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,258,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,259,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,260,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,261,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,262,K,N,,1A31,A,T,K
+DP00075,P11387,DNA topoisomerase 1,263,M,N,,1A31,A,T,M
+DP00075,P11387,DNA topoisomerase 1,264,L,N,,1A31,A,T,L
+DP00075,P11387,DNA topoisomerase 1,265,D,N,,1A31,A,T,D
+DP00075,P11387,DNA topoisomerase 1,266,H,N,,1A31,A,S,H
+DP00075,P11387,DNA topoisomerase 1,267,E,N,,1A31,A,G,E
+DP00075,P11387,DNA topoisomerase 1,268,Y,N,,1A31,A,G,Y
+DP00075,P11387,DNA topoisomerase 1,269,T,N,,1A31,A,G,T
+DP00075,P11387,DNA topoisomerase 1,270,T,N,,1A31,A,G,T
+DP00075,P11387,DNA topoisomerase 1,271,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,272,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,273,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,274,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,275,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,276,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,277,N,N,,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,278,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,279,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,280,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,281,D,N,,1A31,A,H,D
+DP00075,P11387,DNA topoisomerase 1,282,W,N,,1A31,A,H,W
+DP00075,P11387,DNA topoisomerase 1,283,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,284,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,285,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,286,M,N,,1A31,A,S,M
+DP00075,P11387,DNA topoisomerase 1,287,T,N,,1A31,A,,T
+DP00075,P11387,DNA topoisomerase 1,288,N,N,,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,289,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,290,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,291,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,292,N,N,,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,293,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,294,I,N,,1A31,A,,I
+DP00075,P11387,DNA topoisomerase 1,295,T,N,,1A31,A,,T
+DP00075,P11387,DNA topoisomerase 1,296,N,N,,1A31,A,,N
+DP00075,P11387,DNA topoisomerase 1,297,L,N,,1A31,A,G,L
+DP00075,P11387,DNA topoisomerase 1,298,S,N,,1A31,A,G,S
+DP00075,P11387,DNA topoisomerase 1,299,K,N,,1A31,A,G,K
+DP00075,P11387,DNA topoisomerase 1,300,C,N,,1A31,A,E,C
+DP00075,P11387,DNA topoisomerase 1,301,D,N,,1A31,A,E,D
+DP00075,P11387,DNA topoisomerase 1,302,F,N,,1A31,A,,F
+DP00075,P11387,DNA topoisomerase 1,303,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,304,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,305,M,N,,1A31,A,H,M
+DP00075,P11387,DNA topoisomerase 1,306,S,N,,1A31,A,H,S
+DP00075,P11387,DNA topoisomerase 1,307,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,308,Y,N,,1A31,A,H,Y
+DP00075,P11387,DNA topoisomerase 1,309,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,310,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,311,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,312,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,313,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,314,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,315,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,316,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,317,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,318,Q,N,,1A31,A,S,Q
+DP00075,P11387,DNA topoisomerase 1,319,M,N,,1A31,A,,M
+DP00075,P11387,DNA topoisomerase 1,320,S,N,,1A31,A,,S
+DP00075,P11387,DNA topoisomerase 1,321,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,322,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,323,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,324,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,325,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,326,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,327,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,328,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,329,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,330,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,331,N,N,,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,332,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,333,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,334,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,335,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,336,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,337,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,338,Y,N,,1A31,A,H,Y
+DP00075,P11387,DNA topoisomerase 1,339,G,N,,1A31,A,S,G
+DP00075,P11387,DNA topoisomerase 1,340,F,N,,1A31,A,E,F
+DP00075,P11387,DNA topoisomerase 1,341,C,N,,1A31,A,E,C
+DP00075,P11387,DNA topoisomerase 1,342,I,N,,1A31,A,E,I
+DP00075,P11387,DNA topoisomerase 1,343,M,N,,1A31,A,E,M
+DP00075,P11387,DNA topoisomerase 1,344,D,N,,1A31,A,T,D
+DP00075,P11387,DNA topoisomerase 1,345,N,N,,1A31,A,T,N
+DP00075,P11387,DNA topoisomerase 1,346,H,N,,1A31,A,E,H
+DP00075,P11387,DNA topoisomerase 1,347,K,N,,1A31,A,E,K
+DP00075,P11387,DNA topoisomerase 1,348,E,N,,1A31,A,E,E
+DP00075,P11387,DNA topoisomerase 1,349,R,N,,1A31,A,E,R
+DP00075,P11387,DNA topoisomerase 1,350,I,N,,1A31,A,B,I
+DP00075,P11387,DNA topoisomerase 1,351,A,N,,1A31,A,S,A
+DP00075,P11387,DNA topoisomerase 1,352,N,N,,1A31,A,,N
+DP00075,P11387,DNA topoisomerase 1,353,F,N,,1A31,A,,F
+DP00075,P11387,DNA topoisomerase 1,354,K,N,,1A31,A,B,K
+DP00075,P11387,DNA topoisomerase 1,355,I,N,,1A31,A,,I
+DP00075,P11387,DNA topoisomerase 1,356,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,357,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,358,P,N,,1A31,A,S,P
+DP00075,P11387,DNA topoisomerase 1,359,G,N,,1A31,A,E,G
+DP00075,P11387,DNA topoisomerase 1,360,L,N,,1A31,A,E,L
+DP00075,P11387,DNA topoisomerase 1,361,F,N,,1A31,A,,F
+DP00075,P11387,DNA topoisomerase 1,362,R,N,,1A31,A,,R
+DP00075,P11387,DNA topoisomerase 1,363,G,N,,1A31,A,,G
+DP00075,P11387,DNA topoisomerase 1,364,R,N,,1A31,A,S,R
+DP00075,P11387,DNA topoisomerase 1,365,G,N,,1A31,A,S,G
+DP00075,P11387,DNA topoisomerase 1,366,N,N,,1A31,A,S,N
+DP00075,P11387,DNA topoisomerase 1,367,H,N,,1A31,A,,H
+DP00075,P11387,DNA topoisomerase 1,368,P,N,,1A31,A,T,P
+DP00075,P11387,DNA topoisomerase 1,369,K,N,,1A31,A,T,K
+DP00075,P11387,DNA topoisomerase 1,370,M,N,,1A31,A,T,M
+DP00075,P11387,DNA topoisomerase 1,371,G,N,,1A31,A,T,G
+DP00075,P11387,DNA topoisomerase 1,372,M,N,,1A31,A,,M
+DP00075,P11387,DNA topoisomerase 1,373,L,N,,1A31,A,E,L
+DP00075,P11387,DNA topoisomerase 1,374,K,N,,1A31,A,E,K
+DP00075,P11387,DNA topoisomerase 1,375,R,N,,1A31,A,,R
+DP00075,P11387,DNA topoisomerase 1,376,R,N,,1A31,A,,R
+DP00075,P11387,DNA topoisomerase 1,377,I,N,,1A31,A,,I
+DP00075,P11387,DNA topoisomerase 1,378,M,N,,1A31,A,,M
+DP00075,P11387,DNA topoisomerase 1,379,P,N,,1A31,A,G,P
+DP00075,P11387,DNA topoisomerase 1,380,E,N,,1A31,A,G,E
+DP00075,P11387,DNA topoisomerase 1,381,D,N,,1A31,A,G,D
+DP00075,P11387,DNA topoisomerase 1,382,I,N,,1A31,A,,I
+DP00075,P11387,DNA topoisomerase 1,383,I,N,,1A31,A,E,I
+DP00075,P11387,DNA topoisomerase 1,384,I,N,,1A31,A,E,I
+DP00075,P11387,DNA topoisomerase 1,385,N,N,,1A31,A,E,N
+DP00075,P11387,DNA topoisomerase 1,386,C,N,,1A31,A,,C
+DP00075,P11387,DNA topoisomerase 1,387,S,N,,1A31,A,,S
+DP00075,P11387,DNA topoisomerase 1,388,K,N,,1A31,A,T,K
+DP00075,P11387,DNA topoisomerase 1,389,D,N,,1A31,A,T,D
+DP00075,P11387,DNA topoisomerase 1,390,A,N,,1A31,A,S,A
+DP00075,P11387,DNA topoisomerase 1,391,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,392,V,N,,1A31,A,,V
+DP00075,P11387,DNA topoisomerase 1,393,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,394,S,N,,1A31,A,,S
+DP00075,P11387,DNA topoisomerase 1,395,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,396,P,N,,1A31,A,S,P
+DP00075,P11387,DNA topoisomerase 1,397,P,N,,1A31,A,T,P
+DP00075,P11387,DNA topoisomerase 1,398,G,N,,1A31,A,T,G
+DP00075,P11387,DNA topoisomerase 1,399,H,N,,1A31,A,,H
+DP00075,P11387,DNA topoisomerase 1,400,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,401,W,N,,1A31,A,,W
+DP00075,P11387,DNA topoisomerase 1,402,K,N,,1A31,A,S,K
+DP00075,P11387,DNA topoisomerase 1,403,E,N,,1A31,A,E,E
+DP00075,P11387,DNA topoisomerase 1,404,V,N,,1A31,A,E,V
+DP00075,P11387,DNA topoisomerase 1,405,R,N,,1A31,A,E,R
+DP00075,P11387,DNA topoisomerase 1,406,H,N,,1A31,A,,H
+DP00075,P11387,DNA topoisomerase 1,407,D,N,,1A31,A,,D
+DP00075,P11387,DNA topoisomerase 1,408,N,N,,1A31,A,T,N
+DP00075,P11387,DNA topoisomerase 1,409,K,N,,1A31,A,T,K
+DP00075,P11387,DNA topoisomerase 1,410,V,N,,1A31,A,S,V
+DP00075,P11387,DNA topoisomerase 1,411,T,N,,1A31,A,,T
+DP00075,P11387,DNA topoisomerase 1,412,W,N,,1A31,A,,W
+DP00075,P11387,DNA topoisomerase 1,413,L,N,,1A31,A,S,L
+DP00075,P11387,DNA topoisomerase 1,414,V,N,,1A31,A,E,V
+DP00075,P11387,DNA topoisomerase 1,415,S,N,,1A31,A,E,S
+DP00075,P11387,DNA topoisomerase 1,416,W,N,,1A31,A,E,W
+DP00075,P11387,DNA topoisomerase 1,417,T,N,,1A31,A,E,T
+DP00075,P11387,DNA topoisomerase 1,418,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,419,N,N,,1A31,A,T,N
+DP00075,P11387,DNA topoisomerase 1,420,I,N,,1A31,A,T,I
+DP00075,P11387,DNA topoisomerase 1,421,Q,N,,1A31,A,T,Q
+DP00075,P11387,DNA topoisomerase 1,422,G,N,,1A31,A,,G
+DP00075,P11387,DNA topoisomerase 1,423,S,N,,1A31,A,,S
+DP00075,P11387,DNA topoisomerase 1,424,I,N,,1A31,A,E,I
+DP00075,P11387,DNA topoisomerase 1,425,K,N,,1A31,A,E,K
+DP00075,P11387,DNA topoisomerase 1,426,Y,N,,1A31,A,E,Y
+DP00075,P11387,DNA topoisomerase 1,427,I,N,,1A31,A,E,I
+DP00075,P11387,DNA topoisomerase 1,428,M,N,,1A31,A,,M
+DP00075,P11387,DNA topoisomerase 1,429,L,N,,1A31,A,B,L
+DP00075,P11387,DNA topoisomerase 1,430,N,N,,1A31,A,,N
+DP00075,P11387,DNA topoisomerase 1,431,P,N,,1A31,A,T,P
+DP00075,P11387,DNA topoisomerase 1,432,S,N,,1A31,A,T,S
+DP00075,P11387,DNA topoisomerase 1,433,S,N,,1A31,A,S,S
+DP00075,P11387,DNA topoisomerase 1,434,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,435,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,436,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,437,G,N,,1A31,A,H,G
+DP00075,P11387,DNA topoisomerase 1,438,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,439,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,440,D,N,,1A31,A,H,D
+DP00075,P11387,DNA topoisomerase 1,441,W,N,,1A31,A,H,W
+DP00075,P11387,DNA topoisomerase 1,442,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,443,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,444,Y,N,,1A31,A,H,Y
+DP00075,P11387,DNA topoisomerase 1,445,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,446,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,447,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,448,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,449,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,450,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,451,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,452,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,453,C,N,,1A31,A,H,C
+DP00075,P11387,DNA topoisomerase 1,454,V,N,,1A31,A,H,V
+DP00075,P11387,DNA topoisomerase 1,455,D,N,,1A31,A,H,D
+DP00075,P11387,DNA topoisomerase 1,456,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,457,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,458,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,459,N,N,,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,460,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,461,Y,N,,1A31,A,H,Y
+DP00075,P11387,DNA topoisomerase 1,462,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,463,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,464,D,N,,1A31,A,H,D
+DP00075,P11387,DNA topoisomerase 1,465,W,N,,1A31,A,T,W
+DP00075,P11387,DNA topoisomerase 1,466,K,N,,1A31,A,T,K
+DP00075,P11387,DNA topoisomerase 1,467,S,N,,1A31,A,,S
+DP00075,P11387,DNA topoisomerase 1,468,K,N,,1A31,A,S,K
+DP00075,P11387,DNA topoisomerase 1,469,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,470,M,N,,1A31,A,H,M
+DP00075,P11387,DNA topoisomerase 1,471,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,472,V,N,,1A31,A,H,V
+DP00075,P11387,DNA topoisomerase 1,473,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,474,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,475,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,476,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,477,V,N,,1A31,A,H,V
+DP00075,P11387,DNA topoisomerase 1,478,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,479,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,480,Y,N,,1A31,A,H,Y
+DP00075,P11387,DNA topoisomerase 1,481,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,482,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,483,D,N,,1A31,A,H,D
+DP00075,P11387,DNA topoisomerase 1,484,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,485,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,486,A,N,,1A31,A,,A
+DP00075,P11387,DNA topoisomerase 1,487,L,N,,1A31,A,,L
+DP00075,P11387,DNA topoisomerase 1,488,R,N,,1A31,A,,R
+DP00075,P11387,DNA topoisomerase 1,489,A,N,,1A31,A,,A
+DP00075,P11387,DNA topoisomerase 1,490,G,N,,1A31,A,,G
+DP00075,P11387,DNA topoisomerase 1,491,N,N,,1A31,A,,N
+DP00075,P11387,DNA topoisomerase 1,492,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,493,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,494,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,495,E,N,,1A31,A,T,E
+DP00075,P11387,DNA topoisomerase 1,496,G,N,,1A31,A,T,G
+DP00075,P11387,DNA topoisomerase 1,497,E,N,,1A31,A,T,E
+DP00075,P11387,DNA topoisomerase 1,498,T,N,,1A31,A,S,T
+DP00075,P11387,DNA topoisomerase 1,499,A,N,,1A31,A,,A
+DP00075,P11387,DNA topoisomerase 1,500,D,N,,1A31,A,,D
+DP00075,P11387,DNA topoisomerase 1,501,T,N,,1A31,A,,T
+DP00075,P11387,DNA topoisomerase 1,502,V,N,,1A31,A,,V
+DP00075,P11387,DNA topoisomerase 1,503,G,N,,1A31,A,,G
+DP00075,P11387,DNA topoisomerase 1,504,C,N,,1A31,A,G,C
+DP00075,P11387,DNA topoisomerase 1,505,C,N,,1A31,A,G,C
+DP00075,P11387,DNA topoisomerase 1,506,S,N,,1A31,A,G,S
+DP00075,P11387,DNA topoisomerase 1,507,L,N,,1A31,A,,L
+DP00075,P11387,DNA topoisomerase 1,508,R,N,,1A31,A,B,R
+DP00075,P11387,DNA topoisomerase 1,509,V,N,,1A31,A,G,V
+DP00075,P11387,DNA topoisomerase 1,510,E,N,,1A31,A,G,E
+DP00075,P11387,DNA topoisomerase 1,511,H,N,,1A31,A,G,H
+DP00075,P11387,DNA topoisomerase 1,512,I,N,,1A31,A,,I
+DP00075,P11387,DNA topoisomerase 1,513,N,N,,1A31,A,,N
+DP00075,P11387,DNA topoisomerase 1,514,L,N,,1A31,A,E,L
+DP00075,P11387,DNA topoisomerase 1,515,H,N,,1A31,A,E,H
+DP00075,P11387,DNA topoisomerase 1,516,P,N,,1A31,A,E,P
+DP00075,P11387,DNA topoisomerase 1,517,E,N,,1A31,A,E,E
+DP00075,P11387,DNA topoisomerase 1,518,L,N,,1A31,A,E,L
+DP00075,P11387,DNA topoisomerase 1,519,D,N,,1A31,A,T,D
+DP00075,P11387,DNA topoisomerase 1,520,G,N,,1A31,A,T,G
+DP00075,P11387,DNA topoisomerase 1,521,Q,N,,1A31,A,E,Q
+DP00075,P11387,DNA topoisomerase 1,522,E,N,,1A31,A,E,E
+DP00075,P11387,DNA topoisomerase 1,523,Y,N,,1A31,A,E,Y
+DP00075,P11387,DNA topoisomerase 1,524,V,N,,1A31,A,E,V
+DP00075,P11387,DNA topoisomerase 1,525,V,N,,1A31,A,E,V
+DP00075,P11387,DNA topoisomerase 1,526,E,N,,1A31,A,E,E
+DP00075,P11387,DNA topoisomerase 1,527,F,N,,1A31,A,E,F
+DP00075,P11387,DNA topoisomerase 1,528,D,N,,1A31,A,E,D
+DP00075,P11387,DNA topoisomerase 1,529,F,N,,1A31,A,E,F
+DP00075,P11387,DNA topoisomerase 1,530,L,N,,1A31,A,E,L
+DP00075,P11387,DNA topoisomerase 1,531,G,N,,1A31,A,,G
+DP00075,P11387,DNA topoisomerase 1,532,K,N,,1A31,A,G,K
+DP00075,P11387,DNA topoisomerase 1,533,D,N,,1A31,A,G,D
+DP00075,P11387,DNA topoisomerase 1,534,S,N,,1A31,A,G,S
+DP00075,P11387,DNA topoisomerase 1,535,I,N,,1A31,A,,I
+DP00075,P11387,DNA topoisomerase 1,536,R,N,,1A31,A,E,R
+DP00075,P11387,DNA topoisomerase 1,537,Y,N,,1A31,A,E,Y
+DP00075,P11387,DNA topoisomerase 1,538,Y,N,,1A31,A,E,Y
+DP00075,P11387,DNA topoisomerase 1,539,N,N,,1A31,A,E,N
+DP00075,P11387,DNA topoisomerase 1,540,K,N,,1A31,A,E,K
+DP00075,P11387,DNA topoisomerase 1,541,V,N,,1A31,A,E,V
+DP00075,P11387,DNA topoisomerase 1,542,P,N,,1A31,A,E,P
+DP00075,P11387,DNA topoisomerase 1,543,V,N,,1A31,A,,V
+DP00075,P11387,DNA topoisomerase 1,544,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,545,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,546,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,547,V,N,,1A31,A,H,V
+DP00075,P11387,DNA topoisomerase 1,548,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,549,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,550,N,N,,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,551,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,552,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,553,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,554,F,N,,1A31,A,T,F
+DP00075,P11387,DNA topoisomerase 1,555,M,N,,1A31,A,T,M
+DP00075,P11387,DNA topoisomerase 1,556,E,N,,1A31,A,T,E
+DP00075,P11387,DNA topoisomerase 1,557,N,N,,1A31,A,T,N
+DP00075,P11387,DNA topoisomerase 1,558,K,N,,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,559,Q,N,,1A31,A,,Q
+DP00075,P11387,DNA topoisomerase 1,560,P,N,,1A31,A,T,P
+DP00075,P11387,DNA topoisomerase 1,561,E,N,,1A31,A,T,E
+DP00075,P11387,DNA topoisomerase 1,562,D,N,,1A31,A,S,D
+DP00075,P11387,DNA topoisomerase 1,563,D,N,,1A31,A,B,D
+DP00075,P11387,DNA topoisomerase 1,564,L,N,,1A31,A,T,L
+DP00075,P11387,DNA topoisomerase 1,565,F,N,,1A31,A,T,F
+DP00075,P11387,DNA topoisomerase 1,566,D,N,,1A31,A,T,D
+DP00075,P11387,DNA topoisomerase 1,567,R,N,,1A31,A,T,R
+DP00075,P11387,DNA topoisomerase 1,568,L,N,,1A31,A,,L
+DP00075,P11387,DNA topoisomerase 1,569,N,N,,1A31,A,,N
+DP00075,P11387,DNA topoisomerase 1,570,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,571,G,N,,1A31,A,H,G
+DP00075,P11387,DNA topoisomerase 1,572,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,573,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,574,N,N,,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,575,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,576,H,N,,1A31,A,H,H
+DP00075,P11387,DNA topoisomerase 1,577,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,578,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,579,D,N,,1A31,A,H,D
+DP00075,P11387,DNA topoisomerase 1,580,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,581,M,N,,1A31,A,S,M
+DP00075,P11387,DNA topoisomerase 1,582,E,N,,1A31,A,T,E
+DP00075,P11387,DNA topoisomerase 1,583,G,N,,1A31,A,T,G
+DP00075,P11387,DNA topoisomerase 1,584,L,N,,1A31,A,,L
+DP00075,P11387,DNA topoisomerase 1,585,T,N,,1A31,A,,T
+DP00075,P11387,DNA topoisomerase 1,586,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,587,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,588,V,N,,1A31,A,H,V
+DP00075,P11387,DNA topoisomerase 1,589,F,N,,1A31,A,H,F
+DP00075,P11387,DNA topoisomerase 1,590,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,591,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,592,Y,N,,1A31,A,H,Y
+DP00075,P11387,DNA topoisomerase 1,593,N,N,,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,594,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,595,S,N,,1A31,A,H,S
+DP00075,P11387,DNA topoisomerase 1,596,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,597,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,598,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,599,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,600,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,601,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,602,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,603,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,604,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,605,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,606,T,N,,1A31,A,,T
+DP00075,P11387,DNA topoisomerase 1,607,A,N,,1A31,A,,A
+DP00075,P11387,DNA topoisomerase 1,608,P,N,,1A31,A,T,P
+DP00075,P11387,DNA topoisomerase 1,609,D,N,,1A31,A,T,D
+DP00075,P11387,DNA topoisomerase 1,610,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,611,N,N,,1A31,A,,N
+DP00075,P11387,DNA topoisomerase 1,612,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,613,P,N,,1A31,A,H,P
+DP00075,P11387,DNA topoisomerase 1,614,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,615,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,616,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,617,L,N,,1A31,A,H,L
+DP00075,P11387,DNA topoisomerase 1,618,S,N,,1A31,A,H,S
+DP00075,P11387,DNA topoisomerase 1,619,Y,N,,1A31,A,H,Y
+DP00075,P11387,DNA topoisomerase 1,620,N,Y,Disordered - Extended,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,621,R,Y,Disordered - Extended,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,622,A,Y,Disordered - Extended,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,623,N,Y,Disordered - Extended,1A31,A,H,N
+DP00075,P11387,DNA topoisomerase 1,624,R,Y,Disordered - Extended,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,625,A,Y,Disordered - Extended,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,626,V,Y,Disordered - Extended,1A31,A,,V
+DP00075,P11387,DNA topoisomerase 1,627,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,628,I,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,629,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,630,C,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,631,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,632,H,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,633,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,634,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,635,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,636,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,637,P,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,638,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,639,T,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,640,F,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,641,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,642,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,643,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,644,M,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,645,M,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,646,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,647,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,648,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,649,T,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,650,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,651,I,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,652,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,653,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,654,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,655,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,656,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,657,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,658,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,659,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,660,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,661,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,662,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,663,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,664,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,665,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,666,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,667,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,668,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,669,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,670,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,671,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,672,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,673,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,674,V,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,675,M,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,676,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,677,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,678,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,679,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,680,T,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,681,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,682,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,683,V,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,684,V,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,685,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,686,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,687,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,688,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,689,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,690,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,691,V,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,692,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,693,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,694,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,695,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,696,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,697,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,698,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,699,M,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,700,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,701,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,702,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,703,V,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,704,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,705,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,706,T,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,707,D,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,708,R,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,709,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,710,E,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,711,N,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,712,K,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,713,Q,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,714,I,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,715,A,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,716,L,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,717,G,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,718,T,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,719,S,Y,Disordered - Extended,1A31,A,,
+DP00075,P11387,DNA topoisomerase 1,720,K,Y,Disordered - Extended,1A31,A,,K
+DP00075,P11387,DNA topoisomerase 1,721,L,Y,Disordered - Extended,1A31,A,T,L
+DP00075,P11387,DNA topoisomerase 1,722,N,Y,Disordered - Extended,1A31,A,T,N
+DP00075,P11387,DNA topoisomerase 1,723,Y,Y,Disordered - Extended,1A31,A,T,X
+DP00075,P11387,DNA topoisomerase 1,724,L,Y,Disordered - Extended,1A31,A,S,L
+DP00075,P11387,DNA topoisomerase 1,725,D,N,,1A31,A,,D
+DP00075,P11387,DNA topoisomerase 1,726,P,N,,1A31,A,H,P
+DP00075,P11387,DNA topoisomerase 1,727,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,728,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,729,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,730,V,N,,1A31,A,H,V
+DP00075,P11387,DNA topoisomerase 1,731,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,732,W,N,,1A31,A,H,W
+DP00075,P11387,DNA topoisomerase 1,733,C,N,,1A31,A,H,C
+DP00075,P11387,DNA topoisomerase 1,734,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,735,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,736,W,N,,1A31,A,T,W
+DP00075,P11387,DNA topoisomerase 1,737,G,N,,1A31,A,T,G
+DP00075,P11387,DNA topoisomerase 1,738,V,N,,1A31,A,,V
+DP00075,P11387,DNA topoisomerase 1,739,P,N,,1A31,A,,P
+DP00075,P11387,DNA topoisomerase 1,740,I,N,,1A31,A,G,I
+DP00075,P11387,DNA topoisomerase 1,741,E,N,,1A31,A,G,E
+DP00075,P11387,DNA topoisomerase 1,742,K,N,,1A31,A,G,K
+DP00075,P11387,DNA topoisomerase 1,743,I,N,,1A31,A,T,I
+DP00075,P11387,DNA topoisomerase 1,744,Y,N,,1A31,A,S,Y
+DP00075,P11387,DNA topoisomerase 1,745,N,N,,1A31,A,,N
+DP00075,P11387,DNA topoisomerase 1,746,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,747,T,N,,1A31,A,H,T
+DP00075,P11387,DNA topoisomerase 1,748,Q,N,,1A31,A,H,Q
+DP00075,P11387,DNA topoisomerase 1,749,R,N,,1A31,A,H,R
+DP00075,P11387,DNA topoisomerase 1,750,E,N,,1A31,A,H,E
+DP00075,P11387,DNA topoisomerase 1,751,K,N,,1A31,A,H,K
+DP00075,P11387,DNA topoisomerase 1,752,F,N,,1A31,A,T,F
+DP00075,P11387,DNA topoisomerase 1,753,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,754,W,N,,1A31,A,H,W
+DP00075,P11387,DNA topoisomerase 1,755,A,N,,1A31,A,H,A
+DP00075,P11387,DNA topoisomerase 1,756,I,N,,1A31,A,H,I
+DP00075,P11387,DNA topoisomerase 1,757,D,N,,1A31,A,H,D
+DP00075,P11387,DNA topoisomerase 1,758,M,N,,1A31,A,H,M
+DP00075,P11387,DNA topoisomerase 1,759,A,N,,1A31,A,,A
+DP00075,P11387,DNA topoisomerase 1,760,D,N,,1A31,A,,D
+DP00075,P11387,DNA topoisomerase 1,761,E,N,,1A31,A,T,E
+DP00075,P11387,DNA topoisomerase 1,762,D,N,,1A31,A,T,D
+DP00075,P11387,DNA topoisomerase 1,763,Y,N,,1A31,A,,Y
+DP00075,P11387,DNA topoisomerase 1,764,E,N,,1A31,A,,E
+DP00075,P11387,DNA topoisomerase 1,765,F,N,,1A31,A,,F

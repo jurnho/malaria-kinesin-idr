@@ -1,0 +1,522 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,1,M,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,2,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,3,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,4,P,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,5,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,6,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,7,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,8,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,9,P,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,10,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,11,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,12,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,13,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,14,T,N,,1AUI,A,,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,15,D,N,,1AUI,A,,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,16,R,N,,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,17,V,N,,1AUI,A,S,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,18,V,N,,1AUI,A,S,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,19,K,N,,1AUI,A,T,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,20,A,N,,1AUI,A,T,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,21,V,N,,1AUI,A,S,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,22,P,N,,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,23,F,N,,1AUI,A,,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,24,P,N,,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,25,P,N,,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,26,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,27,H,N,,1AUI,A,,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,28,R,N,,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,29,L,N,,1AUI,A,B,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,30,T,N,,1AUI,A,,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,31,A,N,,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,32,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,33,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,34,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,35,F,N,,1AUI,A,B,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,36,D,N,,1AUI,A,,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,37,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,38,D,N,,1AUI,A,T,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,39,G,N,,1AUI,A,S,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,40,K,N,,1AUI,A,,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,41,P,N,,1AUI,A,B,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,42,R,N,,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,43,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,44,D,N,,1AUI,A,H,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,45,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,46,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,47,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,48,A,N,,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,49,H,N,,1AUI,A,H,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,50,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,51,M,N,,1AUI,A,H,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,52,K,N,,1AUI,A,T,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,53,E,N,,1AUI,A,T,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,54,G,N,,1AUI,A,,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,55,R,N,,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,56,L,N,,1AUI,A,B,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,57,E,N,,1AUI,A,,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,58,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,59,S,N,,1AUI,A,H,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,60,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,61,A,N,,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,62,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,63,R,N,,1AUI,A,H,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,64,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,65,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,66,T,N,,1AUI,A,H,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,67,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,68,G,N,,1AUI,A,H,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,69,A,N,,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,70,S,N,,1AUI,A,H,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,71,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,72,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,73,R,N,,1AUI,A,H,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,74,Q,N,,1AUI,A,T,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,75,E,N,,1AUI,A,S,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,76,K,N,,1AUI,A,,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,77,N,N,,1AUI,A,S,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,78,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,79,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,80,D,N,,1AUI,A,E,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,81,I,N,,1AUI,A,E,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,82,D,N,,1AUI,A,,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,83,A,N,,1AUI,A,S,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,84,P,N,,1AUI,A,S,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,85,V,N,,1AUI,A,E,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,86,T,N,,1AUI,A,E,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,87,V,N,,1AUI,A,E,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,88,C,N,,1AUI,A,E,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,89,G,N,,1AUI,A,,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,90,D,N,,1AUI,A,,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,91,I,N,,1AUI,A,,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,92,H,N,,1AUI,A,T,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,93,G,N,,1AUI,A,T,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,94,Q,N,,1AUI,A,,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,95,F,N,,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,96,F,N,,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,97,D,N,,1AUI,A,H,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,98,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,99,M,N,,1AUI,A,H,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,100,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,101,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,102,F,N,,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,103,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,104,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,105,G,N,,1AUI,A,H,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,106,G,N,,1AUI,A,,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,107,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,108,P,N,,1AUI,A,T,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,109,A,N,,1AUI,A,T,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,110,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,111,T,N,,1AUI,A,,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,112,R,N,,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,113,Y,N,,1AUI,A,E,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,114,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,115,F,N,,1AUI,A,E,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,116,L,N,,1AUI,A,,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,117,G,N,,1AUI,A,S,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,118,D,N,,1AUI,A,,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,119,Y,N,,1AUI,A,,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,120,V,N,,1AUI,A,S,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,121,D,N,,1AUI,A,S,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,122,R,N,,1AUI,A,S,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,123,G,N,,1AUI,A,S,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,124,Y,N,,1AUI,A,S,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,125,F,N,,1AUI,A,,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,126,S,N,,1AUI,A,H,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,127,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,128,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,129,C,N,,1AUI,A,H,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,130,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,131,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,132,Y,N,,1AUI,A,H,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,133,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,134,W,N,,1AUI,A,H,W
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,135,A,N,,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,136,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,137,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,138,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,139,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,140,Y,N,,1AUI,A,S,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,141,P,N,,1AUI,A,T,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,142,K,N,,1AUI,A,T,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,143,T,N,,1AUI,A,T,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,144,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,145,F,N,,1AUI,A,E,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,146,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,147,L,N,,1AUI,A,,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,148,R,N,,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,149,G,N,,1AUI,A,,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,150,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,151,H,N,,1AUI,A,T,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,152,E,N,,1AUI,A,S,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,153,C,N,,1AUI,A,S,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,154,R,N,,1AUI,A,H,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,155,H,N,,1AUI,A,H,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,156,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,157,T,N,,1AUI,A,H,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,158,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,159,Y,N,,1AUI,A,H,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,160,F,N,,1AUI,A,S,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,161,T,N,,1AUI,A,S,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,162,F,N,,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,163,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,164,Q,N,,1AUI,A,H,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,165,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,166,C,N,,1AUI,A,H,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,167,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,168,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,169,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,170,Y,N,,1AUI,A,S,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,171,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,172,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,173,R,N,,1AUI,A,H,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,174,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,175,Y,N,,1AUI,A,H,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,176,D,N,,1AUI,A,H,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,177,A,N,,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,178,C,N,,1AUI,A,H,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,179,M,N,,1AUI,A,H,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,180,D,N,,1AUI,A,H,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,181,A,N,,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,182,F,N,,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,183,D,N,,1AUI,A,T,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,184,C,N,,1AUI,A,T,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,185,L,N,,1AUI,A,S,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,186,P,N,,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,187,L,N,,1AUI,A,,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,188,A,N,,1AUI,A,E,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,189,A,N,,1AUI,A,E,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,190,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,191,M,N,,1AUI,A,E,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,192,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,193,Q,N,,1AUI,A,T,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,194,Q,N,,1AUI,A,T,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,195,F,N,,1AUI,A,E,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,196,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,197,C,N,,1AUI,A,E,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,198,V,N,,1AUI,A,E,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,199,H,N,,1AUI,A,S,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,200,G,N,,1AUI,A,S,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,201,G,N,,1AUI,A,,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,202,L,N,,1AUI,A,,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,203,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,204,P,N,,1AUI,A,T,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,205,E,N,,1AUI,A,T,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,206,I,N,,1AUI,A,,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,207,N,N,,1AUI,A,,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,208,T,N,,1AUI,A,S,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,209,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,210,D,N,,1AUI,A,H,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,211,D,N,,1AUI,A,H,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,212,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,213,R,N,,1AUI,A,H,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,214,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,215,L,N,,1AUI,A,S,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,216,D,N,,1AUI,A,,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,217,R,N,,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,218,F,N,,1AUI,A,S,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,219,K,N,,1AUI,A,S,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,220,E,N,,1AUI,A,S,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,221,P,N,,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,222,P,N,,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,223,A,N,,1AUI,A,S,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,224,Y,N,,1AUI,A,S,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,225,G,N,,1AUI,A,S,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,226,P,N,,1AUI,A,H,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,227,M,N,,1AUI,A,H,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,228,C,N,,1AUI,A,H,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,229,D,N,,1AUI,A,H,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,230,I,N,,1AUI,A,H,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,231,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,232,W,N,,1AUI,A,H,W
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,233,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,234,D,N,,1AUI,A,E,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,235,P,N,,1AUI,A,E,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,236,L,N,,1AUI,A,,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,237,E,N,,1AUI,A,T,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,238,D,N,,1AUI,A,T,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,239,F,N,,1AUI,A,T,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,240,G,N,,1AUI,A,T,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,241,N,N,,1AUI,A,S,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,242,E,N,,1AUI,A,,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,243,K,N,,1AUI,A,S,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,244,T,N,,1AUI,A,S,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,245,Q,N,,1AUI,A,,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,246,E,N,,1AUI,A,,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,247,H,N,,1AUI,A,,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,248,F,N,,1AUI,A,E,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,249,T,N,,1AUI,A,E,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,250,H,N,,1AUI,A,E,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,251,N,N,,1AUI,A,,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,252,T,N,,1AUI,A,T,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,253,V,N,,1AUI,A,T,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,254,R,N,,1AUI,A,T,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,255,G,N,,1AUI,A,T,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,256,C,N,,1AUI,A,S,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,257,S,N,,1AUI,A,S,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,258,Y,N,,1AUI,A,E,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,259,F,N,,1AUI,A,E,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,260,Y,N,,1AUI,A,E,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,261,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,262,Y,N,,1AUI,A,H,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,263,P,N,,1AUI,A,H,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,264,A,N,,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,265,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,266,C,N,,1AUI,A,H,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,267,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,268,F,N,,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,269,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,270,Q,N,,1AUI,A,H,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,271,H,N,,1AUI,A,H,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,272,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,273,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,274,L,N,,1AUI,A,,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,275,L,N,,1AUI,A,S,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,276,S,N,,1AUI,A,E,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,277,I,N,,1AUI,A,E,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,278,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,279,R,N,,1AUI,A,E,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,280,A,N,,1AUI,A,,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,281,H,N,,1AUI,A,,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,282,E,N,,1AUI,A,S,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,283,A,N,,1AUI,A,,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,284,Q,N,,1AUI,A,,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,285,D,N,,1AUI,A,T,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,286,A,N,,1AUI,A,T,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,287,G,N,,1AUI,A,S,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,288,Y,N,,1AUI,A,E,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,289,R,N,,1AUI,A,E,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,290,M,N,,1AUI,A,E,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,291,Y,N,,1AUI,A,,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,292,R,N,,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,293,K,N,,1AUI,A,B,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,294,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,295,Q,N,,1AUI,A,T,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,296,T,N,,1AUI,A,T,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,297,T,N,,1AUI,A,T,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,298,G,N,,1AUI,A,S,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,299,F,N,,1AUI,A,S,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,300,P,N,,1AUI,A,B,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,301,S,N,,1AUI,A,S,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,302,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,303,I,N,,1AUI,A,E,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,304,T,N,,1AUI,A,E,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,305,I,N,,1AUI,A,E,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,306,F,N,,1AUI,A,,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,307,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,308,A,N,,1AUI,A,,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,309,P,N,,1AUI,A,S,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,310,N,N,,1AUI,A,S,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,311,Y,N,,1AUI,A,G,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,312,L,N,,1AUI,A,G,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,313,D,N,,1AUI,A,G,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,314,V,N,,1AUI,A,T,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,315,Y,N,,1AUI,A,S,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,316,N,N,,1AUI,A,,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,317,N,N,,1AUI,A,,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,318,K,N,,1AUI,A,,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,319,A,N,,1AUI,A,E,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,320,A,N,,1AUI,A,E,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,321,V,N,,1AUI,A,E,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,322,L,N,,1AUI,A,E,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,323,K,N,,1AUI,A,E,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,324,Y,N,,1AUI,A,E,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,325,E,N,,1AUI,A,E,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,326,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,327,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,328,V,N,,1AUI,A,E,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,329,M,N,,1AUI,A,E,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,330,N,N,,1AUI,A,E,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,331,I,N,,1AUI,A,E,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,332,R,N,,1AUI,A,E,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,333,Q,N,,1AUI,A,E,Q
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,334,F,N,,1AUI,A,E,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,335,N,N,,1AUI,A,,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,336,C,N,,1AUI,A,,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,337,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,338,P,N,,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,339,H,N,,1AUI,A,,H
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,340,P,N,,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,341,Y,N,,1AUI,A,,Y
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,342,W,N,,1AUI,A,,W
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,343,L,N,,1AUI,A,,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,344,P,N,,1AUI,A,G,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,345,N,N,,1AUI,A,G,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,346,F,N,,1AUI,A,G,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,347,M,N,,1AUI,A,,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,348,D,N,,1AUI,A,,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,349,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,350,F,N,,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,351,T,N,,1AUI,A,H,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,352,W,N,,1AUI,A,H,W
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,353,S,N,,1AUI,A,H,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,354,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,355,P,N,,1AUI,A,H,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,356,F,N,,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,357,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,358,G,N,,1AUI,A,H,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,359,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,360,K,N,,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,361,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,362,T,N,,1AUI,A,H,T
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,363,E,N,,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,364,M,N,,1AUI,A,H,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,365,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,366,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,367,N,N,,1AUI,A,H,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,368,V,N,,1AUI,A,H,V
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,369,L,N,,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,370,N,N,,1AUI,A,T,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,371,I,N,,1AUI,A,T,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,372,C,N,,1AUI,A,,C
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,373,S,N,,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,374,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,375,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,376,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,377,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,378,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,379,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,380,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,381,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,382,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,383,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,384,F,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,385,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,386,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,387,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,388,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,389,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,390,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,391,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,392,R,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,393,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,394,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,395,V,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,396,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,397,R,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,398,N,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,399,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,400,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,401,R,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,402,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,403,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,404,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,405,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,406,M,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,407,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,408,R,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,409,V,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,410,F,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,411,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,412,V,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,413,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,414,R,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,415,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,416,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,417,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,418,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,419,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,420,V,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,421,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,422,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,423,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,424,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,425,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,426,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,427,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,428,P,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,429,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,430,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,431,M,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,432,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,433,P,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,434,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,435,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,436,V,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,437,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,438,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,439,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,440,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,441,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,442,Q,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,443,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,444,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,445,Q,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,446,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,447,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,448,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,449,V,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,450,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,451,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,452,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,453,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,454,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,455,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,456,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,457,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,458,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,459,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,460,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,461,F,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,462,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,463,P,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,464,Q,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,465,H,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,466,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,467,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,468,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,469,S,Y,Disordered - Extended,1AUI,A,,S
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,470,F,Y,Disordered - Extended,1AUI,A,H,F
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,471,E,Y,Disordered - Extended,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,472,E,Y,Disordered - Extended,1AUI,A,H,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,473,A,Y,Disordered - Extended,1AUI,A,H,A
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,474,K,Y,Disordered - Extended,1AUI,A,H,K
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,475,G,Y,Disordered - Extended,1AUI,A,H,G
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,476,L,Y,Disordered - Extended,1AUI,A,H,L
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,477,D,Y,Disordered - Extended,1AUI,A,H,D
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,478,R,Y,Disordered - Extended,1AUI,A,G,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,479,I,Y,Disordered - Extended,1AUI,A,G,I
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,480,N,Y,Disordered - Extended,1AUI,A,G,N
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,481,E,Y,Disordered - Extended,1AUI,A,G,E
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,482,R,Y,Disordered - Extended,1AUI,A,S,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,483,M,Y,Disordered - Extended,1AUI,A,,M
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,484,P,Y,Disordered - Extended,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,485,P,Y,Disordered - Extended,1AUI,A,,P
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,486,R,Y,Disordered - Extended,1AUI,A,,R
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,487,R,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,488,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,489,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,490,M,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,491,P,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,492,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,493,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,494,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,495,N,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,496,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,497,N,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,498,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,499,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,500,N,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,501,K,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,502,A,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,503,L,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,504,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,505,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,506,E,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,507,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,508,N,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,509,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,510,T,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,511,D,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,512,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,513,N,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,514,G,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,515,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,516,N,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,517,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,518,S,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,519,N,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,520,I,Y,Disordered - Extended,1AUI,A,,
+DP00092,Q08209,Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform,521,Q,Y,Disordered - Extended,1AUI,A,,

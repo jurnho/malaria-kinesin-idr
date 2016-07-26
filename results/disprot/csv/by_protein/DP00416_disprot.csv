@@ -1,0 +1,79 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00416,P0A6A8,Acyl carrier protein,1,M,N,,1L0H,A,,S
+DP00416,P0A6A8,Acyl carrier protein,2,S,N,,1L0H,A,,T
+DP00416,P0A6A8,Acyl carrier protein,3,T,N,,1L0H,A,H,I
+DP00416,P0A6A8,Acyl carrier protein,4,I,N,,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,5,E,N,,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,6,E,N,,1L0H,A,H,R
+DP00416,P0A6A8,Acyl carrier protein,7,R,N,,1L0H,A,H,V
+DP00416,P0A6A8,Acyl carrier protein,8,V,N,,1L0H,A,H,K
+DP00416,P0A6A8,Acyl carrier protein,9,K,N,,1L0H,A,H,K
+DP00416,P0A6A8,Acyl carrier protein,10,K,N,,1L0H,A,H,I
+DP00416,P0A6A8,Acyl carrier protein,11,I,N,,1L0H,A,H,I
+DP00416,P0A6A8,Acyl carrier protein,12,I,N,,1L0H,A,H,G
+DP00416,P0A6A8,Acyl carrier protein,13,G,N,,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,14,E,N,,1L0H,A,H,Q
+DP00416,P0A6A8,Acyl carrier protein,15,Q,N,,1L0H,A,H,L
+DP00416,P0A6A8,Acyl carrier protein,16,L,N,,1L0H,A,T,G
+DP00416,P0A6A8,Acyl carrier protein,17,G,Y,Disordered,1L0H,A,,V
+DP00416,P0A6A8,Acyl carrier protein,18,V,Y,Disordered,1L0H,A,,K
+DP00416,P0A6A8,Acyl carrier protein,19,K,Y,Disordered,1L0H,A,G,Q
+DP00416,P0A6A8,Acyl carrier protein,20,Q,Y,Disordered,1L0H,A,G,E
+DP00416,P0A6A8,Acyl carrier protein,21,E,Y,Disordered,1L0H,A,G,E
+DP00416,P0A6A8,Acyl carrier protein,22,E,Y,Disordered,1L0H,A,,V
+DP00416,P0A6A8,Acyl carrier protein,23,V,Y,Disordered,1L0H,A,,T
+DP00416,P0A6A8,Acyl carrier protein,24,T,Y,Disordered,1L0H,A,S,N
+DP00416,P0A6A8,Acyl carrier protein,25,N,Y,Disordered,1L0H,A,S,N
+DP00416,P0A6A8,Acyl carrier protein,26,N,Y,Disordered,1L0H,A,,A
+DP00416,P0A6A8,Acyl carrier protein,27,A,Y,Disordered,1L0H,A,B,S
+DP00416,P0A6A8,Acyl carrier protein,28,S,Y,Disordered,1L0H,A,T,F
+DP00416,P0A6A8,Acyl carrier protein,29,F,Y,Disordered,1L0H,A,T,V
+DP00416,P0A6A8,Acyl carrier protein,30,V,Y,Disordered,1L0H,A,T,E
+DP00416,P0A6A8,Acyl carrier protein,31,E,Y,Disordered,1L0H,A,T,D
+DP00416,P0A6A8,Acyl carrier protein,32,D,Y,Disordered,1L0H,A,T,L
+DP00416,P0A6A8,Acyl carrier protein,33,L,Y,Disordered,1L0H,A,,G
+DP00416,P0A6A8,Acyl carrier protein,34,G,Y,Disordered,1L0H,A,,A
+DP00416,P0A6A8,Acyl carrier protein,35,A,Y,Disordered,1L0H,A,,D
+DP00416,P0A6A8,Acyl carrier protein,36,D,Y,Disordered,1L0H,A,H,S
+DP00416,P0A6A8,Acyl carrier protein,37,S,N,,1L0H,A,H,L
+DP00416,P0A6A8,Acyl carrier protein,38,L,N,,1L0H,A,H,D
+DP00416,P0A6A8,Acyl carrier protein,39,D,N,,1L0H,A,H,T
+DP00416,P0A6A8,Acyl carrier protein,40,T,N,,1L0H,A,H,V
+DP00416,P0A6A8,Acyl carrier protein,41,V,N,,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,42,E,N,,1L0H,A,H,L
+DP00416,P0A6A8,Acyl carrier protein,43,L,N,,1L0H,A,H,V
+DP00416,P0A6A8,Acyl carrier protein,44,V,N,,1L0H,A,H,M
+DP00416,P0A6A8,Acyl carrier protein,45,M,N,,1L0H,A,H,A
+DP00416,P0A6A8,Acyl carrier protein,46,A,N,,1L0H,A,H,L
+DP00416,P0A6A8,Acyl carrier protein,47,L,N,,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,48,E,N,,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,49,E,N,,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,50,E,N,,1L0H,A,T,F
+DP00416,P0A6A8,Acyl carrier protein,51,F,N,,1L0H,A,T,D
+DP00416,P0A6A8,Acyl carrier protein,52,D,Y,Disordered w/ Residual Structure,1L0H,A,,T
+DP00416,P0A6A8,Acyl carrier protein,53,T,Y,Disordered w/ Residual Structure,1L0H,A,,E
+DP00416,P0A6A8,Acyl carrier protein,54,E,Y,Disordered w/ Residual Structure,1L0H,A,,I
+DP00416,P0A6A8,Acyl carrier protein,55,I,Y,Disordered w/ Residual Structure,1L0H,A,,P
+DP00416,P0A6A8,Acyl carrier protein,56,P,Y,Disordered w/ Residual Structure,1L0H,A,H,D
+DP00416,P0A6A8,Acyl carrier protein,57,D,Y,Disordered w/ Residual Structure,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,58,E,Y,Disordered w/ Residual Structure,1L0H,A,H,E
+DP00416,P0A6A8,Acyl carrier protein,59,E,Y,Disordered w/ Residual Structure,1L0H,A,H,A
+DP00416,P0A6A8,Acyl carrier protein,60,A,Y,Disordered w/ Residual Structure,1L0H,A,T,E
+DP00416,P0A6A8,Acyl carrier protein,61,E,Y,Disordered w/ Residual Structure,1L0H,A,T,K
+DP00416,P0A6A8,Acyl carrier protein,62,K,Y,Disordered w/ Residual Structure,1L0H,A,,I
+DP00416,P0A6A8,Acyl carrier protein,63,I,Y,Disordered w/ Residual Structure,1L0H,A,,T
+DP00416,P0A6A8,Acyl carrier protein,64,T,Y,Disordered w/ Residual Structure,1L0H,A,B,T
+DP00416,P0A6A8,Acyl carrier protein,65,T,Y,Disordered w/ Residual Structure,1L0H,A,H,V
+DP00416,P0A6A8,Acyl carrier protein,66,V,N,,1L0H,A,H,Q
+DP00416,P0A6A8,Acyl carrier protein,67,Q,N,,1L0H,A,H,A
+DP00416,P0A6A8,Acyl carrier protein,68,A,N,,1L0H,A,H,A
+DP00416,P0A6A8,Acyl carrier protein,69,A,N,,1L0H,A,H,I
+DP00416,P0A6A8,Acyl carrier protein,70,I,N,,1L0H,A,H,D
+DP00416,P0A6A8,Acyl carrier protein,71,D,N,,1L0H,A,H,Y
+DP00416,P0A6A8,Acyl carrier protein,72,Y,N,,1L0H,A,H,I
+DP00416,P0A6A8,Acyl carrier protein,73,I,N,,1L0H,A,H,N
+DP00416,P0A6A8,Acyl carrier protein,74,N,N,,1L0H,A,H,G
+DP00416,P0A6A8,Acyl carrier protein,75,G,N,,1L0H,A,T,H
+DP00416,P0A6A8,Acyl carrier protein,76,H,N,,1L0H,A,,Q
+DP00416,P0A6A8,Acyl carrier protein,77,Q,N,,1L0H,A,,
+DP00416,P0A6A8,Acyl carrier protein,78,A,N,,1L0H,A,,

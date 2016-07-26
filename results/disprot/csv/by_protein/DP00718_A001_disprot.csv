@@ -1,0 +1,478 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),1,M,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),2,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),3,M,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),4,V,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),5,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),6,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),7,E,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),8,M,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),9,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),10,F,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),11,W,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),12,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),13,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),14,N,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),15,F,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),16,G,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),17,I,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),18,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),19,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),20,V,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),21,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),22,L,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),23,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),24,V,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),25,M,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),26,E,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),27,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),28,H,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),29,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),30,H,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),31,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),32,F,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),33,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),34,I,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),35,K,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),36,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),37,F,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),38,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),39,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),40,V,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),41,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),42,F,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),43,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),44,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),45,I,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),46,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),47,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),48,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),49,H,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),50,Y,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),51,E,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),52,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),53,I,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),54,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),55,F,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),56,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),57,R,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),58,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),59,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),60,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),61,V,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),62,V,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),63,A,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),64,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),65,Y,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),66,K,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),67,Y,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),68,D,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),69,L,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),70,K,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),71,L,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),72,Q,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),73,E,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),74,Y,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),75,Q,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),76,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),77,A,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),78,I,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),79,K,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),80,V,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),81,E,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),82,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),83,A,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),84,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),85,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),86,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),87,Y,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),88,Y,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),89,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),90,E,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),91,K,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),92,T,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),93,Q,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),94,L,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),95,Y,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),96,N,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),97,K,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),98,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),99,H,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),100,E,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),101,E,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),102,P,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),103,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),104,N,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),105,S,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),106,L,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),107,M,Y,Disordered,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),108,A,Y,Disordered,3DZU,D,,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),109,I,Y,Disordered,3DZU,D,,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),110,E,Y,Disordered,3DZU,D,B,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),111,C,Y,Disordered,3DZU,D,,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),112,R,Y,Disordered w/ Residual Structure,3DZU,D,S,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),113,V,Y,Disordered w/ Residual Structure,3DZU,D,S,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),114,C,Y,Disordered w/ Residual Structure,3DZU,D,S,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),115,G,Y,Disordered w/ Residual Structure,3DZU,D,,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),116,D,Y,Disordered w/ Residual Structure,3DZU,D,S,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),117,K,Y,Disordered w/ Residual Structure,3DZU,D,B,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),118,A,Y,Disordered w/ Residual Structure,3DZU,D,,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),119,S,Y,Disordered w/ Residual Structure,3DZU,D,,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),120,G,Y,Disordered w/ Residual Structure,3DZU,D,S,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),121,F,Y,Disordered w/ Residual Structure,3DZU,D,E,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),122,H,Y,Disordered w/ Residual Structure,3DZU,D,E,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),123,Y,Y,Disordered w/ Residual Structure,3DZU,D,T,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),124,G,Y,Disordered w/ Residual Structure,3DZU,D,T,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),125,V,Y,Disordered w/ Residual Structure,3DZU,D,E,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),126,H,Y,Disordered w/ Residual Structure,3DZU,D,E,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),127,A,Y,Disordered w/ Residual Structure,3DZU,D,,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),128,C,Y,Disordered w/ Residual Structure,3DZU,D,,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),129,E,Y,Disordered w/ Residual Structure,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),130,G,Y,Disordered w/ Residual Structure,3DZU,D,H,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),131,C,Y,Disordered w/ Residual Structure,3DZU,D,H,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),132,K,Y,Disordered w/ Residual Structure,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),133,G,Y,Disordered w/ Residual Structure,3DZU,D,H,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),134,F,Y,Disordered w/ Residual Structure,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),135,F,Y,Disordered w/ Residual Structure,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),136,R,Y,Disordered w/ Residual Structure,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),137,R,Y,Disordered w/ Residual Structure,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),138,T,Y,Disordered w/ Residual Structure,3DZU,D,H,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),139,I,Y,Disordered w/ Residual Structure,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),140,R,Y,Disordered w/ Residual Structure,3DZU,D,T,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),141,L,Y,Disordered w/ Residual Structure,3DZU,D,T,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),142,K,Y,Disordered w/ Residual Structure,3DZU,D,T,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),143,L,Y,Disordered w/ Residual Structure,3DZU,D,,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),144,I,Y,Disordered w/ Residual Structure,3DZU,D,,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),145,Y,Y,Disordered w/ Residual Structure,3DZU,D,,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),146,D,Y,Disordered w/ Residual Structure,3DZU,D,,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),147,R,Y,Disordered w/ Residual Structure,3DZU,D,,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),148,C,Y,Disordered w/ Residual Structure,3DZU,D,,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),149,D,Y,Disordered w/ Residual Structure,3DZU,D,S,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),150,L,Y,Disordered w/ Residual Structure,3DZU,D,S,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),151,N,Y,Disordered w/ Residual Structure,3DZU,D,,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),152,C,Y,Disordered w/ Residual Structure,3DZU,D,,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),153,R,Y,Disordered w/ Residual Structure,3DZU,D,,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),154,I,Y,Disordered w/ Residual Structure,3DZU,D,,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),155,H,Y,Disordered w/ Residual Structure,3DZU,D,,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),156,K,Y,Disordered w/ Residual Structure,3DZU,D,S,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),157,K,Y,Disordered w/ Residual Structure,3DZU,D,T,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),158,S,Y,Disordered w/ Residual Structure,3DZU,D,T,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),159,R,Y,Disordered w/ Residual Structure,3DZU,D,,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),160,N,Y,Disordered w/ Residual Structure,3DZU,D,S,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),161,K,Y,Disordered w/ Residual Structure,3DZU,D,S,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),162,C,Y,Disordered w/ Residual Structure,3DZU,D,,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),163,Q,Y,Disordered w/ Residual Structure,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),164,Y,Y,Disordered w/ Residual Structure,3DZU,D,H,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),165,C,Y,Disordered w/ Residual Structure,3DZU,D,H,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),166,R,Y,Disordered w/ Residual Structure,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),167,F,Y,Disordered w/ Residual Structure,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),168,Q,Y,Disordered w/ Residual Structure,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),169,K,Y,Disordered w/ Residual Structure,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),170,C,Y,Disordered w/ Residual Structure,3DZU,D,H,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),171,L,Y,Disordered w/ Residual Structure,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),172,A,Y,Disordered w/ Residual Structure,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),173,V,Y,Disordered w/ Residual Structure,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),174,G,Y,Disordered w/ Residual Structure,3DZU,D,T,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),175,M,Y,Disordered w/ Residual Structure,3DZU,D,,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),176,S,Y,Disordered w/ Residual Structure,3DZU,D,,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),177,H,Y,Disordered w/ Residual Structure,3DZU,D,G,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),178,N,Y,Disordered w/ Residual Structure,3DZU,D,G,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),179,A,Y,Disordered w/ Residual Structure,3DZU,D,G,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),180,I,Y,Disordered w/ Residual Structure,3DZU,D,,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),181,R,Y,Disordered w/ Residual Structure,3DZU,D,,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),182,F,Y,Disordered w/ Residual Structure,3DZU,D,,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),183,G,Y,Disordered w/ Residual Structure,3DZU,D,S,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),184,R,Y,Disordered w/ Residual Structure,3DZU,D,,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),185,M,Y,Disordered w/ Residual Structure,3DZU,D,,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),186,P,Y,Disordered w/ Residual Structure,3DZU,D,S,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),187,Q,Y,Disordered w/ Residual Structure,3DZU,D,,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),188,A,Y,Disordered w/ Residual Structure,3DZU,D,T,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),189,E,Y,Disordered w/ Residual Structure,3DZU,D,T,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),190,K,Y,Disordered w/ Residual Structure,3DZU,D,T,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),191,E,Y,Disordered w/ Residual Structure,3DZU,D,S,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),192,K,Y,Disordered w/ Residual Structure,3DZU,D,T,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),193,L,Y,Disordered w/ Residual Structure,3DZU,D,T,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),194,L,Y,Disordered w/ Residual Structure,3DZU,D,T,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),195,A,Y,Disordered w/ Residual Structure,3DZU,D,T,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),196,E,Y,Disordered w/ Residual Structure,3DZU,D,T,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),197,I,Y,Disordered w/ Residual Structure,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),198,S,Y,Disordered w/ Residual Structure,3DZU,D,H,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),199,S,Y,Disordered w/ Residual Structure,3DZU,D,H,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),200,D,Y,Disordered w/ Residual Structure,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),201,I,Y,Disordered w/ Residual Structure,3DZU,D,T,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),202,D,Y,Disordered w/ Residual Structure,3DZU,D,T,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),203,Q,Y,Disordered w/ Residual Structure,3DZU,D,T,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),204,L,Y,Disordered w/ Residual Structure,3DZU,D,S,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),205,N,Y,Disordered w/ Residual Structure,3DZU,D,,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),206,P,Y,Disordered w/ Residual Structure,3DZU,D,S,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),207,E,Y,Disordered w/ Residual Structure,3DZU,D,S,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),208,S,Y,Disordered w/ Residual Structure,3DZU,D,T,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),209,A,Y,Disordered w/ Residual Structure,3DZU,D,T,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),210,D,Y,Disordered w/ Residual Structure,3DZU,D,T,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),211,L,Y,Disordered w/ Residual Structure,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),212,R,N,,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),213,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),214,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),215,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),216,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),217,H,N,,3DZU,D,H,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),218,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),219,Y,N,,3DZU,D,H,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),220,D,N,,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),221,S,N,,3DZU,D,H,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),222,Y,N,,3DZU,D,H,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),223,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),224,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),225,S,N,,3DZU,D,H,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),226,F,N,,3DZU,D,,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),227,P,N,,3DZU,D,S,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),228,L,N,,3DZU,D,S,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),229,T,N,,3DZU,D,,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),230,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),231,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),232,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),233,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),234,R,N,,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),235,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),236,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),237,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),238,T,Y,Disordered w/ Residual Structure,3DZU,D,H,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),239,G,Y,Disordered w/ Residual Structure,3DZU,D,S,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),240,K,Y,Disordered w/ Residual Structure,3DZU,D,,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),241,T,Y,Disordered w/ Residual Structure,3DZU,D,S,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),242,T,Y,Disordered w/ Residual Structure,3DZU,D,,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),243,D,Y,Disordered w/ Residual Structure,3DZU,D,S,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),244,K,Y,Disordered w/ Residual Structure,3DZU,D,,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),245,S,Y,Disordered w/ Residual Structure,3DZU,D,,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),246,P,Y,Disordered w/ Residual Structure,3DZU,D,,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),247,F,Y,Disordered w/ Residual Structure,3DZU,D,E,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),248,V,Y,Disordered w/ Residual Structure,3DZU,D,E,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),249,I,Y,Disordered w/ Residual Structure,3DZU,D,E,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),250,Y,Y,Disordered w/ Residual Structure,3DZU,D,,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),251,D,Y,Disordered w/ Residual Structure,3DZU,D,S,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),252,M,Y,Disordered w/ Residual Structure,3DZU,D,S,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),253,N,Y,Disordered w/ Residual Structure,3DZU,D,H,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),254,S,Y,Disordered w/ Residual Structure,3DZU,D,H,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),255,L,Y,Disordered w/ Residual Structure,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),256,M,Y,Disordered w/ Residual Structure,3DZU,D,H,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),257,M,Y,Disordered w/ Residual Structure,3DZU,D,S,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),258,G,Y,Disordered w/ Residual Structure,3DZU,D,,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),259,E,Y,Disordered w/ Residual Structure,3DZU,D,,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),260,D,Y,Disordered w/ Residual Structure,3DZU,D,,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),261,K,Y,Disordered w/ Residual Structure,3DZU,D,,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),262,I,Y,Disordered w/ Residual Structure,3DZU,D,,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),263,K,Y,Disordered w/ Residual Structure,3DZU,D,,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),264,F,Y,Disordered w/ Residual Structure,3DZU,D,,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),265,K,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),266,H,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),267,I,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),268,T,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),269,P,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),270,L,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),271,Q,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),272,E,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),273,Q,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),274,S,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),275,K,Y,Disordered w/ Residual Structure,3DZU,D,,
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),276,E,Y,Disordered w/ Residual Structure,3DZU,D,,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),277,V,Y,Disordered w/ Residual Structure,3DZU,D,,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),278,A,Y,Disordered w/ Residual Structure,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),279,I,Y,Disordered w/ Residual Structure,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),280,R,Y,Disordered w/ Residual Structure,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),281,I,Y,Disordered w/ Residual Structure,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),282,F,Y,Disordered w/ Residual Structure,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),283,Q,Y,Disordered w/ Residual Structure,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),284,G,Y,Disordered w/ Residual Structure,3DZU,D,H,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),285,C,Y,Disordered w/ Residual Structure,3DZU,D,H,C
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),286,Q,Y,Disordered w/ Residual Structure,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),287,F,Y,Disordered w/ Residual Structure,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),288,R,Y,Disordered w/ Residual Structure,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),289,S,Y,Disordered w/ Residual Structure,3DZU,D,H,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),290,V,Y,Disordered w/ Residual Structure,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),291,E,Y,Disordered w/ Residual Structure,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),292,A,Y,Disordered w/ Residual Structure,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),293,V,Y,Disordered w/ Residual Structure,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),294,Q,Y,Disordered w/ Residual Structure,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),295,E,Y,Disordered w/ Residual Structure,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),296,I,Y,Disordered w/ Residual Structure,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),297,T,Y,Disordered w/ Residual Structure,3DZU,D,H,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),298,E,Y,Disordered w/ Residual Structure,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),299,Y,N,,3DZU,D,H,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),300,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),301,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),302,S,N,,3DZU,D,T,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),303,I,N,,3DZU,D,S,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),304,P,N,,3DZU,D,T,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),305,G,N,,3DZU,D,T,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),306,F,N,,3DZU,D,T,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),307,V,N,,3DZU,D,T,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),308,N,N,,3DZU,D,T,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),309,L,N,,3DZU,D,S,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),310,D,N,,3DZU,D,,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),311,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),312,N,N,,3DZU,D,H,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),313,D,N,,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),314,Q,N,,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),315,V,N,,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),316,T,N,,3DZU,D,H,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),317,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),318,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),319,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),320,Y,N,,3DZU,D,H,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),321,G,N,,3DZU,D,H,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),322,V,N,,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),323,H,N,,3DZU,D,H,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),324,E,N,,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),325,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),326,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),327,Y,N,,3DZU,D,H,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),328,T,N,,3DZU,D,H,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),329,M,N,,3DZU,D,H,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),330,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),331,A,N,,3DZU,D,T,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),332,S,N,,3DZU,D,T,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),333,L,N,,3DZU,D,S,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),334,M,N,,3DZU,D,E,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),335,N,N,,3DZU,D,E,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),336,K,N,,3DZU,D,T,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),337,D,N,,3DZU,D,T,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),338,G,N,,3DZU,D,E,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),339,V,N,,3DZU,D,E,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),340,L,N,,3DZU,D,E,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),341,I,N,,3DZU,D,E,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),342,S,N,,3DZU,D,T,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),343,E,N,,3DZU,D,T,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),344,G,N,,3DZU,D,T,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),345,Q,N,,3DZU,D,T,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),346,G,N,,3DZU,D,E,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),347,F,N,,3DZU,D,E,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),348,M,N,,3DZU,D,E,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),349,T,N,,3DZU,D,E,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),350,R,N,,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),351,E,N,,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),352,F,N,,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),353,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),354,K,N,,3DZU,D,T,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),355,S,N,,3DZU,D,T,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),356,L,N,,3DZU,D,S,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),357,R,N,,3DZU,D,S,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),358,K,N,,3DZU,D,T,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),359,P,N,,3DZU,D,T,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),360,F,N,,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),361,G,N,,3DZU,D,H,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),362,D,N,,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),363,F,N,,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),364,M,N,,3DZU,D,H,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),365,E,N,,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),366,P,N,,3DZU,D,H,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),367,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),368,F,N,,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),369,E,N,,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),370,F,N,,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),371,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),372,V,N,,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),373,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),374,F,N,,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),375,N,N,,3DZU,D,H,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),376,A,N,,3DZU,D,T,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),377,L,N,,3DZU,D,T,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),378,E,N,,3DZU,D,,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),379,L,N,,3DZU,D,,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),380,D,N,,3DZU,D,,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),381,D,N,,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),382,S,N,,3DZU,D,H,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),383,D,N,,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),384,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),385,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),386,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),387,F,N,,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),388,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),389,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),390,V,N,,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),391,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),392,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),393,L,N,,3DZU,D,S,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),394,S,N,,3DZU,D,,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),395,G,N,,3DZU,D,T,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),396,D,N,,3DZU,D,T,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),397,R,N,,3DZU,D,,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),398,P,N,,3DZU,D,S,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),399,G,N,,3DZU,D,S,G
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),400,L,N,,3DZU,D,,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),401,L,N,,3DZU,D,S,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),402,N,N,,3DZU,D,,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),403,V,N,,3DZU,D,,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),404,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),405,P,N,,3DZU,D,H,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),406,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),407,E,N,,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),408,D,N,,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),409,I,N,,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),410,Q,N,,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),411,D,N,,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),412,N,N,,3DZU,D,H,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),413,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),414,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),415,Q,N,,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),416,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),417,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),418,E,N,,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),419,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),420,Q,N,,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),421,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),422,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),423,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),424,N,N,,3DZU,D,H,N
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),425,H,N,,3DZU,D,S,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),426,P,N,,3DZU,D,,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),427,E,N,,3DZU,D,S,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),428,S,N,,3DZU,D,S,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),429,S,N,,3DZU,D,S,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),430,Q,N,,3DZU,D,S,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),431,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),432,F,N,,3DZU,D,H,F
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),433,A,N,,3DZU,D,H,A
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),434,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),435,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),436,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),437,Q,N,,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),438,K,N,,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),439,M,N,,3DZU,D,H,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),440,T,N,,3DZU,D,H,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),441,D,N,,3DZU,D,H,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),442,L,N,,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),443,R,Y,Disordered,3DZU,D,H,R
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),444,Q,Y,Disordered,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),445,I,Y,Disordered,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),446,V,Y,Disordered,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),447,T,Y,Disordered,3DZU,D,H,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),448,E,Y,Disordered,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),449,H,Y,Disordered,3DZU,D,H,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),450,V,Y,Disordered,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),451,Q,Y,Disordered,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),452,L,Y,Disordered,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),453,L,Y,Disordered,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),454,Q,Y,Disordered,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),455,V,Y,Disordered,3DZU,D,H,V
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),456,I,Y,Disordered,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),457,K,Y,Disordered,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),458,K,Y,Disordered,3DZU,D,H,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),459,T,Y,Disordered,3DZU,D,T,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),460,E,Y,Disordered,3DZU,D,,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),461,T,Y,Disordered,3DZU,D,S,T
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),462,D,Y,Disordered,3DZU,D,,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),463,M,Y,Disordered,3DZU,D,,M
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),464,S,Y,Disordered,3DZU,D,,S
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),465,L,Y,Disordered,3DZU,D,,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),466,H,Y,Disordered,3DZU,D,,H
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),467,P,Y,Disordered,3DZU,D,H,P
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),468,L,Y,Disordered,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),469,L,Y,Disordered,3DZU,D,H,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),470,Q,Y,Disordered,3DZU,D,H,Q
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),471,E,Y,Disordered,3DZU,D,H,E
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),472,I,Y,Disordered,3DZU,D,H,I
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),473,Y,Y,Disordered,3DZU,D,H,Y
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),474,K,Y,Disordered,3DZU,D,T,K
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),475,D,Y,Disordered,3DZU,D,T,D
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),476,L,Y,Disordered,3DZU,D,,L
+DP00718_A001,P37231-2,Peroxisome proliferator-activated receptor gamma (Isoform 1),477,Y,Y,Disordered,3DZU,D,,Y

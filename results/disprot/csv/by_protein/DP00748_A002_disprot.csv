@@ -1,0 +1,205 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],1,M,Y,Disordered,2EYY,A,,M
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],2,A,Y,Disordered,2EYY,A,,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],3,G,Y,Disordered,2EYY,A,,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],4,N,Y,Disordered,2EYY,A,,N
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],5,F,Y,Disordered,2EYY,A,,F
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],6,D,Y,Disordered,2EYY,A,,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],7,S,Y,Disordered,2EYY,A,S,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],8,E,Y,Disordered,2EYY,A,S,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],9,E,Y,Disordered,2EYY,A,,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],10,R,Y,Disordered - Extended,2EYY,A,T,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],11,S,Y,Disordered - Extended,2EYY,A,T,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],12,S,Y,Disordered - Extended,2EYY,A,T,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],13,W,Y,Disordered - Extended,2EYY,A,T,W
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],14,Y,Y,Disordered - Extended,2EYY,A,B,Y
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],15,W,Y,Disordered - Extended,2EYY,A,S,W
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],16,G,Y,Disordered - Extended,2EYY,A,S,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],17,R,Y,Disordered - Extended,2EYY,A,,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],18,L,Y,Disordered - Extended,2EYY,A,,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],19,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],20,R,Y,Disordered - Extended,2EYY,A,H,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],21,Q,Y,Disordered - Extended,2EYY,A,H,Q
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],22,E,Y,Disordered - Extended,2EYY,A,H,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],23,A,Y,Disordered - Extended,2EYY,A,H,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],24,V,Y,Disordered - Extended,2EYY,A,H,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],25,A,Y,Disordered - Extended,2EYY,A,H,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],26,L,Y,Disordered - Extended,2EYY,A,H,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],27,L,Y,Disordered - Extended,2EYY,A,H,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],28,Q,Y,Disordered - Extended,2EYY,A,T,Q
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],29,G,Y,Disordered - Extended,2EYY,A,T,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],30,Q,Y,Disordered - Extended,2EYY,A,S,Q
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],31,R,Y,Disordered - Extended,2EYY,A,,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],32,H,Y,Disordered - Extended,2EYY,A,T,H
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],33,G,Y,Disordered - Extended,2EYY,A,T,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],34,V,Y,Disordered - Extended,2EYY,A,B,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],35,F,Y,Disordered - Extended,2EYY,A,,F
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],36,L,Y,Disordered - Extended,2EYY,A,,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],37,V,Y,Disordered - Extended,2EYY,A,E,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],38,R,Y,Disordered - Extended,2EYY,A,E,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],39,D,Y,Disordered - Extended,2EYY,A,E,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],40,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],41,S,Y,Disordered - Extended,2EYY,A,S,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],42,T,Y,Disordered - Extended,2EYY,A,S,T
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],43,S,Y,Disordered - Extended,2EYY,A,S,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],44,P,Y,Disordered - Extended,2EYY,A,T,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],45,G,Y,Disordered - Extended,2EYY,A,T,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],46,D,Y,Disordered - Extended,2EYY,A,,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],47,Y,Y,Disordered - Extended,2EYY,A,E,Y
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],48,V,Y,Disordered - Extended,2EYY,A,E,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],49,L,Y,Disordered - Extended,2EYY,A,E,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],50,S,Y,Disordered - Extended,2EYY,A,E,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],51,V,Y,Disordered - Extended,2EYY,A,E,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],52,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],53,E,Y,Disordered - Extended,2EYY,A,,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],54,N,Y,Disordered - Extended,2EYY,A,T,N
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],55,S,Y,Disordered - Extended,2EYY,A,T,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],56,R,Y,Disordered - Extended,2EYY,A,S,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],57,V,Y,Disordered - Extended,2EYY,A,,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],58,S,Y,Disordered - Extended,2EYY,A,E,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],59,H,Y,Disordered - Extended,2EYY,A,E,H
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],60,Y,Y,Disordered - Extended,2EYY,A,E,Y
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],61,I,Y,Disordered - Extended,2EYY,A,E,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],62,I,Y,Disordered - Extended,2EYY,A,E,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],63,N,Y,Disordered - Extended,2EYY,A,E,N
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],64,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],65,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],66,G,Y,Disordered - Extended,2EYY,A,,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],67,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],68,R,Y,Disordered - Extended,2EYY,A,S,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],69,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],70,P,Y,Disordered - Extended,2EYY,A,S,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],71,V,Y,Disordered - Extended,2EYY,A,S,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],72,P,Y,Disordered - Extended,2EYY,A,S,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],73,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],74,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],75,P,Y,Disordered - Extended,2EYY,A,S,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],76,A,Y,Disordered - Extended,2EYY,A,,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],77,Q,Y,Disordered - Extended,2EYY,A,,Q
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],78,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],79,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],80,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],81,G,Y,Disordered - Extended,2EYY,A,S,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],82,V,Y,Disordered - Extended,2EYY,A,,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],83,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],84,P,Y,Disordered - Extended,2EYY,A,S,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],85,S,Y,Disordered - Extended,2EYY,A,S,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],86,R,Y,Disordered - Extended,2EYY,A,,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],87,L,Y,Disordered - Extended,2EYY,A,,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],88,R,Y,Disordered - Extended,2EYY,A,E,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],89,I,Y,Disordered - Extended,2EYY,A,E,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],90,G,Y,Disordered - Extended,2EYY,A,T,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],91,D,Y,Disordered - Extended,2EYY,A,T,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],92,Q,Y,Disordered - Extended,2EYY,A,S,Q
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],93,E,Y,Disordered - Extended,2EYY,A,,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],94,F,Y,Disordered - Extended,2EYY,A,,F
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],95,D,Y,Disordered - Extended,2EYY,A,S,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],96,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],97,L,Y,Disordered - Extended,2EYY,A,H,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],98,P,Y,Disordered - Extended,2EYY,A,H,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],99,A,Y,Disordered - Extended,2EYY,A,H,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],100,L,Y,Disordered - Extended,2EYY,A,H,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],101,L,Y,Disordered - Extended,2EYY,A,H,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],102,E,Y,Disordered - Extended,2EYY,A,H,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],103,F,Y,Disordered - Extended,2EYY,A,H,F
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],104,Y,Y,Disordered - Extended,2EYY,A,T,Y
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],105,K,Y,Disordered - Extended,2EYY,A,T,K
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],106,I,Y,Disordered - Extended,2EYY,A,T,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],107,H,Y,Disordered - Extended,2EYY,A,T,H
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],108,Y,Y,Disordered - Extended,2EYY,A,,Y
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],109,L,Y,Disordered - Extended,2EYY,A,S,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],110,D,Y,Disordered - Extended,2EYY,A,S,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],111,T,Y,Disordered - Extended,2EYY,A,S,T
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],112,T,Y,Disordered - Extended,2EYY,A,,T
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],113,T,Y,Disordered - Extended,2EYY,A,,T
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],114,L,Y,Disordered - Extended,2EYY,A,,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],115,I,Y,Disordered - Extended,2EYY,A,,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],116,E,Y,Disordered - Extended,2EYY,A,B,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],117,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],118,V,Y,Disordered - Extended,2EYY,A,,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],119,S,Y,Disordered - Extended,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],120,R,Y,Disordered - Extended,2EYY,A,,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],121,S,Y,Disordered,2EYY,A,S,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],122,R,Y,Disordered,2EYY,A,,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],123,Q,Y,Disordered,2EYY,A,,Q
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],124,G,Y,Disordered,2EYY,A,T,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],125,S,Y,Disordered,2EYY,A,T,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],126,G,Y,Disordered,2EYY,A,G,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],127,V,Y,Disordered,2EYY,A,G,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],128,I,Y,Disordered,2EYY,A,G,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],129,L,Y,Disordered,2EYY,A,,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],130,R,Y,Disordered,2EYY,A,,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],131,Q,Y,Disordered,2EYY,A,,Q
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],132,E,Y,Disordered,2EYY,A,,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],133,E,Y,Disordered,2EYY,A,,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],134,A,Y,Disordered - Extended,2EYY,A,,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],135,E,Y,Disordered - Extended,2EYY,A,E,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],136,Y,Y,Disordered - Extended,2EYY,A,E,Y
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],137,V,Y,Disordered - Extended,2EYY,A,E,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],138,R,Y,Disordered - Extended,2EYY,A,E,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],139,A,Y,Disordered - Extended,2EYY,A,,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],140,L,Y,Disordered - Extended,2EYY,A,,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],141,F,Y,Disordered - Extended,2EYY,A,,F
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],142,D,Y,Disordered - Extended,2EYY,A,,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],143,F,Y,Disordered - Extended,2EYY,A,,F
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],144,N,Y,Disordered - Extended,2EYY,A,,N
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],145,G,Y,Disordered - Extended,2EYY,A,,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],146,N,Y,Disordered - Extended,2EYY,A,S,N
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],147,D,Y,Disordered - Extended,2EYY,A,S,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],148,E,Y,Disordered - Extended,2EYY,A,S,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],149,E,Y,Disordered - Extended,2EYY,A,S,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],150,D,Y,Disordered - Extended,2EYY,A,B,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],151,L,Y,Disordered - Extended,2EYY,A,,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],152,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],153,F,Y,Disordered - Extended,2EYY,A,,F
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],154,K,Y,Disordered - Extended,2EYY,A,,K
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],155,K,Y,Disordered - Extended,2EYY,A,T,K
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],156,G,Y,Disordered - Extended,2EYY,A,T,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],157,D,Y,Disordered - Extended,2EYY,A,,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],158,I,Y,Disordered - Extended,2EYY,A,E,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],159,L,Y,Disordered - Extended,2EYY,A,E,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],160,R,Y,Disordered - Extended,2EYY,A,E,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],161,I,Y,Disordered - Extended,2EYY,A,E,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],162,R,Y,Disordered - Extended,2EYY,A,E,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],163,D,Y,Disordered - Extended,2EYY,A,E,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],164,K,Y,Disordered - Extended,2EYY,A,E,K
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],165,P,Y,Disordered - Extended,2EYY,A,E,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],166,E,Y,Disordered - Extended,2EYY,A,E,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],167,E,Y,Disordered - Extended,2EYY,A,T,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],168,Q,Y,Disordered - Extended,2EYY,A,T,Q
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],169,W,Y,Disordered - Extended,2EYY,A,E,W
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],170,W,Y,Disordered - Extended,2EYY,A,E,W
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],171,N,Y,Disordered - Extended,2EYY,A,E,N
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],172,A,Y,Disordered - Extended,2EYY,A,E,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],173,E,Y,Disordered - Extended,2EYY,A,E,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],174,D,Y,Disordered - Extended,2EYY,A,,D
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],175,S,Y,Disordered - Extended,2EYY,A,T,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],176,E,Y,Disordered - Extended,2EYY,A,T,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],177,G,Y,Disordered - Extended,2EYY,A,S,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],178,K,Y,Disordered - Extended,2EYY,A,,K
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],179,R,Y,Disordered - Extended,2EYY,A,E,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],180,G,Y,Disordered - Extended,2EYY,A,E,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],181,M,Y,Disordered - Extended,2EYY,A,E,M
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],182,I,Y,Disordered - Extended,2EYY,A,E,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],183,P,Y,Disordered - Extended,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],184,V,Y,Disordered - Extended,2EYY,A,S,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],185,P,Y,Disordered - Extended,2EYY,A,S,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],186,Y,Y,Disordered - Extended,2EYY,A,S,Y
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],187,V,Y,Disordered - Extended,2EYY,A,,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],188,E,Y,Disordered - Extended,2EYY,A,B,E
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],189,K,Y,Disordered - Extended,2EYY,A,,K
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],190,Y,Y,Disordered - Extended,2EYY,A,,Y
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],191,R,Y,Disordered - Extended,2EYY,A,,R
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],192,P,Y,Disordered,2EYY,A,,P
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],193,A,Y,Disordered,2EYY,A,,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],194,S,Y,Disordered,2EYY,A,S,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],195,A,Y,Disordered,2EYY,A,,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],196,S,Y,Disordered,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],197,V,Y,Disordered,2EYY,A,S,V
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],198,S,Y,Disordered,2EYY,A,,S
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],199,A,Y,Disordered,2EYY,A,S,A
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],200,L,Y,Disordered,2EYY,A,,L
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],201,I,Y,Disordered,2EYY,A,,I
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],202,G,Y,Disordered,2EYY,A,,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],203,G,Y,Disordered,2EYY,A,,G
+DP00748_A002,P46108,Adapter molecule crk [Isoform 2],204,R,Y,Disordered,2EYY,A,,N

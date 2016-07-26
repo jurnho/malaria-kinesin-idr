@@ -1,0 +1,158 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00206,P17838,Fimbrial protein,1,M,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,2,K,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,3,A,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,4,A,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,5,Q,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,6,K,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,7,G,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,8,F,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,9,T,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,10,L,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,11,I,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,12,E,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,13,L,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,14,M,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,15,I,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,16,V,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,17,V,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,18,A,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,19,I,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,20,I,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,21,G,N,,1HPW,A,,
+DP00206,P17838,Fimbrial protein,22,I,N,,1HPW,A,,A
+DP00206,P17838,Fimbrial protein,23,L,N,,1HPW,A,,L
+DP00206,P17838,Fimbrial protein,24,A,N,,1HPW,A,,E
+DP00206,P17838,Fimbrial protein,25,A,N,,1HPW,A,,G
+DP00206,P17838,Fimbrial protein,26,I,N,,1HPW,A,,T
+DP00206,P17838,Fimbrial protein,27,A,N,,1HPW,A,S,E
+DP00206,P17838,Fimbrial protein,28,I,N,,1HPW,A,,F
+DP00206,P17838,Fimbrial protein,29,P,N,,1HPW,A,,A
+DP00206,P17838,Fimbrial protein,30,A,N,,1HPW,A,,R
+DP00206,P17838,Fimbrial protein,31,Y,N,,1HPW,A,,A
+DP00206,P17838,Fimbrial protein,32,Q,N,,1HPW,A,H,Q
+DP00206,P17838,Fimbrial protein,33,D,N,,1HPW,A,H,L
+DP00206,P17838,Fimbrial protein,34,Y,N,,1HPW,A,H,S
+DP00206,P17838,Fimbrial protein,35,T,Y,Disordered - Extended,1HPW,A,H,E
+DP00206,P17838,Fimbrial protein,36,A,Y,Disordered - Extended,1HPW,A,H,A
+DP00206,P17838,Fimbrial protein,37,R,Y,Disordered - Extended,1HPW,A,H,M
+DP00206,P17838,Fimbrial protein,38,A,N,,1HPW,A,H,T
+DP00206,P17838,Fimbrial protein,39,Q,N,,1HPW,A,H,L
+DP00206,P17838,Fimbrial protein,40,L,N,,1HPW,A,H,A
+DP00206,P17838,Fimbrial protein,41,S,N,,1HPW,A,H,S
+DP00206,P17838,Fimbrial protein,42,E,N,,1HPW,A,H,G
+DP00206,P17838,Fimbrial protein,43,R,N,,1HPW,A,H,L
+DP00206,P17838,Fimbrial protein,44,M,N,,1HPW,A,H,K
+DP00206,P17838,Fimbrial protein,45,T,N,,1HPW,A,H,T
+DP00206,P17838,Fimbrial protein,46,L,N,,1HPW,A,H,K
+DP00206,P17838,Fimbrial protein,47,A,N,,1HPW,A,H,V
+DP00206,P17838,Fimbrial protein,48,S,N,,1HPW,A,H,S
+DP00206,P17838,Fimbrial protein,49,G,N,,1HPW,A,H,D
+DP00206,P17838,Fimbrial protein,50,L,N,,1HPW,A,H,I
+DP00206,P17838,Fimbrial protein,51,K,N,,1HPW,A,H,F
+DP00206,P17838,Fimbrial protein,52,T,N,,1HPW,A,H,S
+DP00206,P17838,Fimbrial protein,53,K,N,,1HPW,A,H,Q
+DP00206,P17838,Fimbrial protein,54,V,N,,1HPW,A,H,D
+DP00206,P17838,Fimbrial protein,55,S,N,,1HPW,A,S,G
+DP00206,P17838,Fimbrial protein,56,D,N,,1HPW,A,S,S
+DP00206,P17838,Fimbrial protein,57,I,N,,1HPW,A,,a
+DP00206,P17838,Fimbrial protein,58,F,N,,1HPW,A,,P
+DP00206,P17838,Fimbrial protein,59,S,N,,1HPW,A,,A
+DP00206,P17838,Fimbrial protein,60,Q,N,,1HPW,A,S,N
+DP00206,P17838,Fimbrial protein,61,D,N,,1HPW,A,T,T
+DP00206,P17838,Fimbrial protein,62,G,Y,Disordered - Extended,1HPW,A,T,A
+DP00206,P17838,Fimbrial protein,63,S,Y,Disordered - Extended,1HPW,A,,A
+DP00206,P17838,Fimbrial protein,64,C,Y,Disordered - Extended,1HPW,A,S,T
+DP00206,P17838,Fimbrial protein,65,P,N,,1HPW,A,S,A
+DP00206,P17838,Fimbrial protein,66,A,N,,1HPW,A,S,G
+DP00206,P17838,Fimbrial protein,67,N,N,,1HPW,A,,I
+DP00206,P17838,Fimbrial protein,68,T,N,,1HPW,A,S,E
+DP00206,P17838,Fimbrial protein,69,A,N,,1HPW,A,S,K
+DP00206,P17838,Fimbrial protein,70,A,N,,1HPW,A,S,D
+DP00206,P17838,Fimbrial protein,71,T,N,,1HPW,A,,T
+DP00206,P17838,Fimbrial protein,72,A,N,,1HPW,A,,D
+DP00206,P17838,Fimbrial protein,73,G,N,,1HPW,A,,I
+DP00206,P17838,Fimbrial protein,74,I,N,,1HPW,A,,N
+DP00206,P17838,Fimbrial protein,75,E,N,,1HPW,A,S,G
+DP00206,P17838,Fimbrial protein,76,K,N,,1HPW,A,S,K
+DP00206,P17838,Fimbrial protein,77,D,N,,1HPW,A,S,Y
+DP00206,P17838,Fimbrial protein,78,T,N,,1HPW,A,S,V
+DP00206,P17838,Fimbrial protein,79,D,N,,1HPW,A,,A
+DP00206,P17838,Fimbrial protein,80,I,N,,1HPW,A,,K
+DP00206,P17838,Fimbrial protein,81,N,N,,1HPW,A,,V
+DP00206,P17838,Fimbrial protein,82,G,N,,1HPW,A,B,T
+DP00206,P17838,Fimbrial protein,83,K,N,,1HPW,A,,T
+DP00206,P17838,Fimbrial protein,84,Y,N,,1HPW,A,,G
+DP00206,P17838,Fimbrial protein,85,V,N,,1HPW,A,B,G
+DP00206,P17838,Fimbrial protein,86,A,N,,1HPW,A,S,T
+DP00206,P17838,Fimbrial protein,87,K,N,,1HPW,A,,A
+DP00206,P17838,Fimbrial protein,88,V,N,,1HPW,A,S,A
+DP00206,P17838,Fimbrial protein,89,T,N,,1HPW,A,S,A
+DP00206,P17838,Fimbrial protein,90,T,N,,1HPW,A,S,S
+DP00206,P17838,Fimbrial protein,91,G,N,,1HPW,A,,G
+DP00206,P17838,Fimbrial protein,92,G,N,,1HPW,A,,G
+DP00206,P17838,Fimbrial protein,93,T,N,,1HPW,A,E,a
+DP00206,P17838,Fimbrial protein,94,A,N,,1HPW,A,E,T
+DP00206,P17838,Fimbrial protein,95,A,Y,Disordered - Extended,1HPW,A,E,I
+DP00206,P17838,Fimbrial protein,96,A,Y,Disordered - Extended,1HPW,A,E,V
+DP00206,P17838,Fimbrial protein,97,S,Y,Disordered - Extended,1HPW,A,E,A
+DP00206,P17838,Fimbrial protein,98,G,N,,1HPW,A,E,T
+DP00206,P17838,Fimbrial protein,99,G,N,,1HPW,A,E,M
+DP00206,P17838,Fimbrial protein,100,C,N,,1HPW,A,S,K
+DP00206,P17838,Fimbrial protein,101,T,N,,1HPW,A,S,A
+DP00206,P17838,Fimbrial protein,102,I,N,,1HPW,A,,S
+DP00206,P17838,Fimbrial protein,103,V,N,,1HPW,A,,D
+DP00206,P17838,Fimbrial protein,104,A,N,,1HPW,A,S,V
+DP00206,P17838,Fimbrial protein,105,T,N,,1HPW,A,S,A
+DP00206,P17838,Fimbrial protein,106,M,N,,1HPW,A,S,T
+DP00206,P17838,Fimbrial protein,107,K,N,,1HPW,A,S,P
+DP00206,P17838,Fimbrial protein,108,A,Y,Disordered - Extended,1HPW,A,S,L
+DP00206,P17838,Fimbrial protein,109,S,Y,Disordered - Extended,1HPW,A,,R
+DP00206,P17838,Fimbrial protein,110,D,Y,Disordered - Extended,1HPW,A,,G
+DP00206,P17838,Fimbrial protein,111,V,Y,Disordered - Extended,1HPW,A,E,K
+DP00206,P17838,Fimbrial protein,112,A,Y,Disordered - Extended,1HPW,A,E,T
+DP00206,P17838,Fimbrial protein,113,T,Y,Disordered - Extended,1HPW,A,E,L
+DP00206,P17838,Fimbrial protein,114,P,Y,Disordered - Extended,1HPW,A,E,T
+DP00206,P17838,Fimbrial protein,115,L,Y,Disordered - Extended,1HPW,A,E,L
+DP00206,P17838,Fimbrial protein,116,R,Y,Disordered - Extended,1HPW,A,E,T
+DP00206,P17838,Fimbrial protein,117,G,N,,1HPW,A,E,L
+DP00206,P17838,Fimbrial protein,118,K,N,,1HPW,A,,G
+DP00206,P17838,Fimbrial protein,119,T,N,,1HPW,A,,N
+DP00206,P17838,Fimbrial protein,120,L,N,,1HPW,A,T,A
+DP00206,P17838,Fimbrial protein,121,T,N,,1HPW,A,T,D
+DP00206,P17838,Fimbrial protein,122,L,N,,1HPW,A,S,K
+DP00206,P17838,Fimbrial protein,123,T,N,,1HPW,A,S,G
+DP00206,P17838,Fimbrial protein,124,L,N,,1HPW,A,S,S
+DP00206,P17838,Fimbrial protein,125,G,N,,1HPW,A,,Y
+DP00206,P17838,Fimbrial protein,126,N,N,,1HPW,A,,T
+DP00206,P17838,Fimbrial protein,127,A,Y,Disordered - Extended,1HPW,A,E,W
+DP00206,P17838,Fimbrial protein,128,D,Y,Disordered - Extended,1HPW,A,E,A
+DP00206,P17838,Fimbrial protein,129,K,Y,Disordered - Extended,1HPW,A,E,b
+DP00206,P17838,Fimbrial protein,130,G,Y,Disordered - Extended,1HPW,A,E,T
+DP00206,P17838,Fimbrial protein,131,S,Y,Disordered - Extended,1HPW,A,E,S
+DP00206,P17838,Fimbrial protein,132,Y,Y,Disordered - Extended,1HPW,A,E,N
+DP00206,P17838,Fimbrial protein,133,T,N,,1HPW,A,S,A
+DP00206,P17838,Fimbrial protein,134,W,N,,1HPW,A,,D
+DP00206,P17838,Fimbrial protein,135,A,N,,1HPW,A,,N
+DP00206,P17838,Fimbrial protein,136,C,N,,1HPW,A,,K
+DP00206,P17838,Fimbrial protein,137,T,N,,1HPW,A,S,Y
+DP00206,P17838,Fimbrial protein,138,S,N,,1HPW,A,,L
+DP00206,P17838,Fimbrial protein,139,N,N,,1HPW,A,,P
+DP00206,P17838,Fimbrial protein,140,A,N,,1HPW,A,,K
+DP00206,P17838,Fimbrial protein,141,D,Y,Disordered - Extended,1HPW,A,S,T
+DP00206,P17838,Fimbrial protein,142,N,Y,Disordered - Extended,1HPW,A,S,b
+DP00206,P17838,Fimbrial protein,143,K,Y,Disordered - Extended,1HPW,A,E,Q
+DP00206,P17838,Fimbrial protein,144,Y,Y,Disordered - Extended,1HPW,A,E,T
+DP00206,P17838,Fimbrial protein,145,L,Y,Disordered - Extended,1HPW,A,,A
+DP00206,P17838,Fimbrial protein,146,P,Y,Disordered - Extended,1HPW,A,,T
+DP00206,P17838,Fimbrial protein,147,K,Y,Disordered - Extended,1HPW,A,,T
+DP00206,P17838,Fimbrial protein,148,T,Y,Disordered - Extended,1HPW,A,,T
+DP00206,P17838,Fimbrial protein,149,C,Y,Disordered - Extended,1HPW,A,,T
+DP00206,P17838,Fimbrial protein,150,Q,Y,Disordered - Extended,1HPW,A,,P
+DP00206,P17838,Fimbrial protein,151,T,Y,Disordered - Extended,1HPW,A,,
+DP00206,P17838,Fimbrial protein,152,A,Y,Disordered - Extended,1HPW,A,,
+DP00206,P17838,Fimbrial protein,153,T,Y,Disordered - Extended,1HPW,A,,
+DP00206,P17838,Fimbrial protein,154,T,Y,Disordered - Extended,1HPW,A,,
+DP00206,P17838,Fimbrial protein,155,T,Y,Disordered - Extended,1HPW,A,,
+DP00206,P17838,Fimbrial protein,156,T,Y,Disordered - Extended,1HPW,A,,
+DP00206,P17838,Fimbrial protein,157,P,Y,Disordered - Extended,1HPW,A,,

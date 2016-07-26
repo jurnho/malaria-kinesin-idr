@@ -1,0 +1,241 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00211,P24592,Insulin-like growth factor-binding protein 6,1,M,N,,1RMJ,A,,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,2,T,N,,1RMJ,A,H,P
+DP00211,P24592,Insulin-like growth factor-binding protein 6,3,P,N,,1RMJ,A,H,a
+DP00211,P24592,Insulin-like growth factor-binding protein 6,4,H,N,,1RMJ,A,H,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,5,R,N,,1RMJ,A,H,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,6,L,N,,1RMJ,A,H,H
+DP00211,P24592,Insulin-like growth factor-binding protein 6,7,L,N,,1RMJ,A,H,L
+DP00211,P24592,Insulin-like growth factor-binding protein 6,8,P,N,,1RMJ,A,H,D
+DP00211,P24592,Insulin-like growth factor-binding protein 6,9,P,N,,1RMJ,A,H,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,10,L,N,,1RMJ,A,I,V
+DP00211,P24592,Insulin-like growth factor-binding protein 6,11,L,N,,1RMJ,A,I,L
+DP00211,P24592,Insulin-like growth factor-binding protein 6,12,L,N,,1RMJ,A,I,Q
+DP00211,P24592,Insulin-like growth factor-binding protein 6,13,L,N,,1RMJ,A,I,Q
+DP00211,P24592,Insulin-like growth factor-binding protein 6,14,L,N,,1RMJ,A,I,L
+DP00211,P24592,Insulin-like growth factor-binding protein 6,15,A,N,,1RMJ,A,H,Q
+DP00211,P24592,Insulin-like growth factor-binding protein 6,16,L,N,,1RMJ,A,H,T
+DP00211,P24592,Insulin-like growth factor-binding protein 6,17,L,N,,1RMJ,A,H,E
+DP00211,P24592,Insulin-like growth factor-binding protein 6,18,L,N,,1RMJ,A,S,V
+DP00211,P24592,Insulin-like growth factor-binding protein 6,19,A,N,,1RMJ,A,T,Y
+DP00211,P24592,Insulin-like growth factor-binding protein 6,20,A,N,,1RMJ,A,T,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,21,S,N,,1RMJ,A,T,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,22,P,N,,1RMJ,A,S,A
+DP00211,P24592,Insulin-like growth factor-binding protein 6,23,G,N,,1RMJ,A,S,Q
+DP00211,P24592,Insulin-like growth factor-binding protein 6,24,G,N,,1RMJ,A,E,T
+DP00211,P24592,Insulin-like growth factor-binding protein 6,25,A,N,,1RMJ,A,E,L
+DP00211,P24592,Insulin-like growth factor-binding protein 6,26,L,N,,1RMJ,A,E,Y
+DP00211,P24592,Insulin-like growth factor-binding protein 6,27,A,N,,1RMJ,A,E,V
+DP00211,P24592,Insulin-like growth factor-binding protein 6,28,R,N,,1RMJ,A,E,P
+DP00211,P24592,Insulin-like growth factor-binding protein 6,29,C,N,,1RMJ,A,,N
+DP00211,P24592,Insulin-like growth factor-binding protein 6,30,P,N,,1RMJ,A,,a
+DP00211,P24592,Insulin-like growth factor-binding protein 6,31,G,N,,1RMJ,A,,D
+DP00211,P24592,Insulin-like growth factor-binding protein 6,32,C,N,,1RMJ,A,T,H
+DP00211,P24592,Insulin-like growth factor-binding protein 6,33,G,N,,1RMJ,A,T,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,34,Q,N,,1RMJ,A,S,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,35,G,N,,1RMJ,A,S,F
+DP00211,P24592,Insulin-like growth factor-binding protein 6,36,V,N,,1RMJ,A,,Y
+DP00211,P24592,Insulin-like growth factor-binding protein 6,37,Q,N,,1RMJ,A,,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,38,A,N,,1RMJ,A,S,K
+DP00211,P24592,Insulin-like growth factor-binding protein 6,39,G,N,,1RMJ,A,E,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,40,C,N,,1RMJ,A,E,Q
+DP00211,P24592,Insulin-like growth factor-binding protein 6,41,P,N,,1RMJ,A,E,b
+DP00211,P24592,Insulin-like growth factor-binding protein 6,42,G,N,,1RMJ,A,E,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,43,G,N,,1RMJ,A,E,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,44,C,N,,1RMJ,A,E,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,45,V,N,,1RMJ,A,S,Q
+DP00211,P24592,Insulin-like growth factor-binding protein 6,46,E,N,,1RMJ,A,S,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,47,E,N,,1RMJ,A,S,Q
+DP00211,P24592,Insulin-like growth factor-binding protein 6,48,E,N,,1RMJ,A,S,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,49,D,N,,1RMJ,A,,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,50,G,N,,1RMJ,A,,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,51,G,N,,1RMJ,A,,P
+DP00211,P24592,Insulin-like growth factor-binding protein 6,52,S,N,,1RMJ,A,E,b
+DP00211,P24592,Insulin-like growth factor-binding protein 6,53,P,N,,1RMJ,A,E,W
+DP00211,P24592,Insulin-like growth factor-binding protein 6,54,A,N,,1RMJ,A,E,c
+DP00211,P24592,Insulin-like growth factor-binding protein 6,55,E,N,,1RMJ,A,B,V
+DP00211,P24592,Insulin-like growth factor-binding protein 6,56,G,N,,1RMJ,A,,D
+DP00211,P24592,Insulin-like growth factor-binding protein 6,57,C,N,,1RMJ,A,T,R
+DP00211,P24592,Insulin-like growth factor-binding protein 6,58,A,N,,1RMJ,A,T,M
+DP00211,P24592,Insulin-like growth factor-binding protein 6,59,E,N,,1RMJ,A,,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,60,A,N,,1RMJ,A,,K
+DP00211,P24592,Insulin-like growth factor-binding protein 6,61,E,N,,1RMJ,A,B,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,62,G,N,,1RMJ,A,,L
+DP00211,P24592,Insulin-like growth factor-binding protein 6,63,C,N,,1RMJ,A,S,P
+DP00211,P24592,Insulin-like growth factor-binding protein 6,64,L,N,,1RMJ,A,S,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,65,R,N,,1RMJ,A,,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,66,R,N,,1RMJ,A,T,P
+DP00211,P24592,Insulin-like growth factor-binding protein 6,67,E,N,,1RMJ,A,T,D
+DP00211,P24592,Insulin-like growth factor-binding protein 6,68,G,N,,1RMJ,A,T,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,69,Q,N,,1RMJ,A,S,N
+DP00211,P24592,Insulin-like growth factor-binding protein 6,70,E,N,,1RMJ,A,S,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,71,C,N,,1RMJ,A,T,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,72,G,N,,1RMJ,A,T,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,73,V,N,,1RMJ,A,T,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,74,Y,N,,1RMJ,A,S,c
+DP00211,P24592,Insulin-like growth factor-binding protein 6,75,T,N,,1RMJ,A,S,P
+DP00211,P24592,Insulin-like growth factor-binding protein 6,76,P,N,,1RMJ,A,S,T
+DP00211,P24592,Insulin-like growth factor-binding protein 6,77,N,N,,1RMJ,A,,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,78,C,N,,1RMJ,A,,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,79,A,N,,1RMJ,A,,S
+DP00211,P24592,Insulin-like growth factor-binding protein 6,80,P,N,,1RMJ,A,,G
+DP00211,P24592,Insulin-like growth factor-binding protein 6,81,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,82,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,83,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,84,C,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,85,H,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,86,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,87,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,88,K,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,89,D,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,90,D,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,91,E,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,92,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,93,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,94,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,95,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,96,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,97,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,98,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,99,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,100,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,101,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,102,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,103,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,104,C,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,105,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,106,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,107,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,108,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,109,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,110,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,111,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,112,V,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,113,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,114,E,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,115,E,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,116,N,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,117,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,118,K,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,119,E,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,120,S,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,121,K,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,122,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,123,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,124,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,125,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,126,T,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,127,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,128,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,129,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,130,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,131,D,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,132,V,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,133,N,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,134,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,135,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,136,D,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,137,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,138,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,139,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,140,N,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,141,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,142,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,143,T,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,144,S,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,145,T,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,146,T,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,147,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,148,S,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,149,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,150,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,151,N,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,152,S,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,153,A,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,154,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,155,V,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,156,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,157,D,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,158,T,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,159,E,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,160,M,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,161,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,162,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,163,C,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,164,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,165,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,166,H,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,167,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,168,D,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,169,S,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,170,V,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,171,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,172,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,173,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,174,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,175,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,176,T,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,177,E,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,178,V,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,179,Y,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,180,R,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,181,G,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,182,A,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,183,Q,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,184,T,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,185,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,186,Y,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,187,V,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,188,P,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,189,N,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,190,C,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,191,D,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,192,H,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,193,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,194,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,195,F,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,196,Y,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,197,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,198,K,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,199,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,200,Q,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,201,C,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,202,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,203,S,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,204,S,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,205,Q,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,206,G,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,207,Q,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,208,R,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,209,R,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,210,G,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,211,P,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,212,C,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,213,W,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,214,C,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,215,V,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,216,D,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,217,R,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,218,M,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,219,G,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,220,K,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,221,S,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,222,L,N,,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,223,P,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,224,G,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,225,S,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,226,P,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,227,D,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,228,G,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,229,N,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,230,G,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,231,S,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,232,S,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,233,S,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,234,C,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,235,P,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,236,T,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,237,G,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,238,S,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,239,S,Y,Disordered - Extended,1RMJ,A,,
+DP00211,P24592,Insulin-like growth factor-binding protein 6,240,G,Y,Disordered - Extended,1RMJ,A,,

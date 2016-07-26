@@ -1,0 +1,296 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00011,P50224,Sulfotransferase 1A3/1A4,1,M,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,2,E,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,3,L,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,4,I,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,5,Q,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,6,D,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,7,T,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,8,S,N,,1CJM,A,,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,9,R,N,,1CJM,A,,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,10,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,11,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,12,L,N,,1CJM,A,E,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,13,E,N,,1CJM,A,E,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,14,Y,N,,1CJM,A,E,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,15,V,N,,1CJM,A,E,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,16,K,N,,1CJM,A,T,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,17,G,N,,1CJM,A,T,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,18,V,N,,1CJM,A,E,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,19,P,N,,1CJM,A,E,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,20,L,N,,1CJM,A,E,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,21,I,N,,1CJM,A,E,I
+DP00011,P50224,Sulfotransferase 1A3/1A4,22,K,N,,1CJM,A,H,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,23,Y,N,,1CJM,A,H,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,24,F,N,,1CJM,A,H,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,25,A,N,,1CJM,A,H,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,26,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,27,A,N,,1CJM,A,H,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,28,L,N,,1CJM,A,T,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,29,G,N,,1CJM,A,S,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,30,P,N,,1CJM,A,G,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,31,L,N,,1CJM,A,G,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,32,Q,N,,1CJM,A,G,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,33,S,N,,1CJM,A,G,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,34,F,N,,1CJM,A,,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,35,Q,N,,1CJM,A,,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,36,A,N,,1CJM,A,,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,37,R,N,,1CJM,A,,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,38,P,N,,1CJM,A,T,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,39,D,N,,1CJM,A,T,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,40,D,N,,1CJM,A,,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,41,L,N,,1CJM,A,E,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,42,L,N,,1CJM,A,E,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,43,I,N,,1CJM,A,E,I
+DP00011,P50224,Sulfotransferase 1A3/1A4,44,N,N,,1CJM,A,E,N
+DP00011,P50224,Sulfotransferase 1A3/1A4,45,T,N,,1CJM,A,E,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,46,Y,N,,1CJM,A,,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,47,P,N,,1CJM,A,T,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,48,K,N,,1CJM,A,T,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,49,S,N,,1CJM,A,S,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,50,G,N,,1CJM,A,S,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,51,T,N,,1CJM,A,H,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,52,T,N,,1CJM,A,H,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,53,W,N,,1CJM,A,H,W
+DP00011,P50224,Sulfotransferase 1A3/1A4,54,V,N,,1CJM,A,H,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,55,S,N,,1CJM,A,H,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,56,Q,N,,1CJM,A,H,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,57,I,N,,1CJM,A,H,I
+DP00011,P50224,Sulfotransferase 1A3/1A4,58,L,N,,1CJM,A,H,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,59,D,N,,1CJM,A,H,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,60,M,N,,1CJM,A,H,M
+DP00011,P50224,Sulfotransferase 1A3/1A4,61,I,N,,1CJM,A,H,I
+DP00011,P50224,Sulfotransferase 1A3/1A4,62,Y,N,,1CJM,A,H,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,63,Q,N,,1CJM,A,,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,64,G,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,65,G,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,66,D,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,67,L,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,68,E,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,69,K,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,70,C,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,71,N,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,72,R,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,73,A,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,74,P,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,75,I,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,76,Y,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,77,V,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,78,R,N,,1CJM,A,,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,79,V,N,,1CJM,A,,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,80,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,81,F,N,,1CJM,A,B,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,82,L,N,,1CJM,A,T,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,83,E,N,,1CJM,A,T,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,84,V,N,,1CJM,A,,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,85,N,N,,1CJM,A,,N
+DP00011,P50224,Sulfotransferase 1A3/1A4,86,D,N,,1CJM,A,,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,87,P,N,,1CJM,A,T,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,88,G,N,,1CJM,A,T,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,89,E,N,,1CJM,A,,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,90,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,91,S,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,92,G,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,93,L,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,94,E,N,,1CJM,A,,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,95,T,N,,1CJM,A,T,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,96,L,N,,1CJM,A,T,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,97,K,N,,1CJM,A,T,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,98,D,N,,1CJM,A,T,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,99,T,N,,1CJM,A,S,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,100,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,101,P,N,,1CJM,A,S,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,102,P,N,,1CJM,A,S,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,103,R,N,,1CJM,A,,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,104,L,N,,1CJM,A,E,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,105,I,N,,1CJM,A,E,I
+DP00011,P50224,Sulfotransferase 1A3/1A4,106,K,N,,1CJM,A,E,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,107,S,N,,1CJM,A,E,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,108,H,N,,1CJM,A,,H
+DP00011,P50224,Sulfotransferase 1A3/1A4,109,L,N,,1CJM,A,,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,110,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,111,L,N,,1CJM,A,G,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,112,A,N,,1CJM,A,G,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,113,L,N,,1CJM,A,G,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,114,L,N,,1CJM,A,S,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,115,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,116,Q,N,,1CJM,A,H,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,117,T,N,,1CJM,A,H,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,118,L,N,,1CJM,A,H,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,119,L,N,,1CJM,A,H,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,120,D,N,,1CJM,A,H,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,121,Q,N,,1CJM,A,T,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,122,K,N,,1CJM,A,T,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,123,V,N,,1CJM,A,,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,124,K,N,,1CJM,A,E,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,125,V,N,,1CJM,A,E,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,126,V,N,,1CJM,A,E,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,127,Y,N,,1CJM,A,E,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,128,V,N,,1CJM,A,E,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,129,A,N,,1CJM,A,E,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,130,R,N,,1CJM,A,,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,131,N,N,,1CJM,A,,N
+DP00011,P50224,Sulfotransferase 1A3/1A4,132,P,N,,1CJM,A,H,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,133,K,N,,1CJM,A,H,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,134,D,N,,1CJM,A,H,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,135,V,N,,1CJM,A,H,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,136,A,N,,1CJM,A,H,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,137,V,N,,1CJM,A,H,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,138,S,N,,1CJM,A,H,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,139,Y,N,,1CJM,A,H,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,140,Y,N,,1CJM,A,H,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,141,H,N,,1CJM,A,H,H
+DP00011,P50224,Sulfotransferase 1A3/1A4,142,F,N,,1CJM,A,H,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,143,H,N,,1CJM,A,H,H
+DP00011,P50224,Sulfotransferase 1A3/1A4,144,R,N,,1CJM,A,H,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,145,M,N,,1CJM,A,H,M
+DP00011,P50224,Sulfotransferase 1A3/1A4,146,E,N,,1CJM,A,,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,147,K,N,,1CJM,A,T,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,148,A,N,,1CJM,A,T,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,149,H,N,,1CJM,A,S,H
+DP00011,P50224,Sulfotransferase 1A3/1A4,150,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,151,E,N,,1CJM,A,,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,152,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,153,G,N,,1CJM,A,,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,154,T,N,,1CJM,A,S,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,155,W,N,,1CJM,A,H,W
+DP00011,P50224,Sulfotransferase 1A3/1A4,156,D,N,,1CJM,A,H,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,157,S,N,,1CJM,A,H,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,158,F,N,,1CJM,A,H,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,159,L,N,,1CJM,A,H,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,160,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,161,K,N,,1CJM,A,H,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,162,F,N,,1CJM,A,H,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,163,M,N,,1CJM,A,H,M
+DP00011,P50224,Sulfotransferase 1A3/1A4,164,A,N,,1CJM,A,T,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,165,G,N,,1CJM,A,T,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,166,E,N,,1CJM,A,,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,167,V,N,,1CJM,A,S,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,168,S,N,,1CJM,A,T,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,169,Y,N,,1CJM,A,T,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,170,G,N,,1CJM,A,,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,171,S,N,,1CJM,A,,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,172,W,N,,1CJM,A,H,W
+DP00011,P50224,Sulfotransferase 1A3/1A4,173,Y,N,,1CJM,A,H,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,174,Q,N,,1CJM,A,H,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,175,H,N,,1CJM,A,H,H
+DP00011,P50224,Sulfotransferase 1A3/1A4,176,V,N,,1CJM,A,H,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,177,Q,N,,1CJM,A,H,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,178,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,179,W,N,,1CJM,A,H,W
+DP00011,P50224,Sulfotransferase 1A3/1A4,180,W,N,,1CJM,A,H,W
+DP00011,P50224,Sulfotransferase 1A3/1A4,181,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,182,L,N,,1CJM,A,H,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,183,S,N,,1CJM,A,T,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,184,R,N,,1CJM,A,T,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,185,T,N,,1CJM,A,T,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,186,H,N,,1CJM,A,S,H
+DP00011,P50224,Sulfotransferase 1A3/1A4,187,P,N,,1CJM,A,,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,188,V,N,,1CJM,A,E,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,189,L,N,,1CJM,A,E,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,190,Y,N,,1CJM,A,E,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,191,L,N,,1CJM,A,E,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,192,F,N,,1CJM,A,E,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,193,Y,N,,1CJM,A,H,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,194,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,195,D,N,,1CJM,A,H,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,196,M,N,,1CJM,A,H,M
+DP00011,P50224,Sulfotransferase 1A3/1A4,197,K,N,,1CJM,A,H,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,198,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,199,N,N,,1CJM,A,,N
+DP00011,P50224,Sulfotransferase 1A3/1A4,200,P,N,,1CJM,A,H,P
+DP00011,P50224,Sulfotransferase 1A3/1A4,201,K,N,,1CJM,A,H,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,202,R,N,,1CJM,A,H,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,203,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,204,I,N,,1CJM,A,H,I
+DP00011,P50224,Sulfotransferase 1A3/1A4,205,Q,N,,1CJM,A,H,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,206,K,N,,1CJM,A,H,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,207,I,N,,1CJM,A,H,I
+DP00011,P50224,Sulfotransferase 1A3/1A4,208,L,N,,1CJM,A,H,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,209,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,210,F,N,,1CJM,A,H,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,211,V,N,,1CJM,A,H,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,212,G,N,,1CJM,A,T,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,213,R,N,,1CJM,A,,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,214,S,N,,1CJM,A,,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,215,L,N,,1CJM,A,,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,216,P,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,217,E,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,218,E,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,219,T,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,220,M,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,221,D,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,222,F,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,223,M,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,224,V,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,225,Q,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,226,H,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,227,T,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,228,S,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,229,F,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,230,K,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,231,E,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,232,M,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,233,K,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,234,K,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,235,N,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,236,P,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,237,M,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,238,T,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,239,N,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,240,Y,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,241,T,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,242,T,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,243,V,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,244,P,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,245,Q,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,246,E,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,247,L,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,248,M,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,249,D,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,250,H,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,251,S,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,252,I,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,253,S,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,254,P,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,255,F,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,256,M,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,257,R,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,258,K,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,259,G,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,260,M,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,261,A,Y,Disordered - Extended,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,262,G,N,,1CJM,A,,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,263,D,N,,1CJM,A,,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,264,W,N,,1CJM,A,G,W
+DP00011,P50224,Sulfotransferase 1A3/1A4,265,K,N,,1CJM,A,G,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,266,T,N,,1CJM,A,G,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,267,T,N,,1CJM,A,T,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,268,F,N,,1CJM,A,,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,269,T,N,,1CJM,A,,T
+DP00011,P50224,Sulfotransferase 1A3/1A4,270,V,N,,1CJM,A,H,V
+DP00011,P50224,Sulfotransferase 1A3/1A4,271,A,N,,1CJM,A,H,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,272,Q,N,,1CJM,A,H,Q
+DP00011,P50224,Sulfotransferase 1A3/1A4,273,N,N,,1CJM,A,H,N
+DP00011,P50224,Sulfotransferase 1A3/1A4,274,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,275,R,N,,1CJM,A,H,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,276,F,N,,1CJM,A,H,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,277,D,N,,1CJM,A,H,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,278,A,N,,1CJM,A,H,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,279,D,N,,1CJM,A,H,D
+DP00011,P50224,Sulfotransferase 1A3/1A4,280,Y,N,,1CJM,A,H,Y
+DP00011,P50224,Sulfotransferase 1A3/1A4,281,A,N,,1CJM,A,H,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,282,E,N,,1CJM,A,H,E
+DP00011,P50224,Sulfotransferase 1A3/1A4,283,K,N,,1CJM,A,H,K
+DP00011,P50224,Sulfotransferase 1A3/1A4,284,M,N,,1CJM,A,T,M
+DP00011,P50224,Sulfotransferase 1A3/1A4,285,A,N,,1CJM,A,S,A
+DP00011,P50224,Sulfotransferase 1A3/1A4,286,G,N,,1CJM,A,S,G
+DP00011,P50224,Sulfotransferase 1A3/1A4,287,C,N,,1CJM,A,,C
+DP00011,P50224,Sulfotransferase 1A3/1A4,288,S,N,,1CJM,A,,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,289,L,N,,1CJM,A,,L
+DP00011,P50224,Sulfotransferase 1A3/1A4,290,S,N,,1CJM,A,,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,291,F,N,,1CJM,A,,F
+DP00011,P50224,Sulfotransferase 1A3/1A4,292,R,N,,1CJM,A,,R
+DP00011,P50224,Sulfotransferase 1A3/1A4,293,S,N,,1CJM,A,,S
+DP00011,P50224,Sulfotransferase 1A3/1A4,294,E,Y,Disordered,1CJM,A,,
+DP00011,P50224,Sulfotransferase 1A3/1A4,295,L,Y,Disordered,1CJM,A,,

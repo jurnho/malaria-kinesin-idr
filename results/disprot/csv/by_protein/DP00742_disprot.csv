@@ -1,0 +1,460 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00742,Q99LM3,Smoothelin-like protein 1,1,M,Y,Disordered,2JV9,A,,G
+DP00742,Q99LM3,Smoothelin-like protein 1,2,E,Y,Disordered,2JV9,A,,P
+DP00742,Q99LM3,Smoothelin-like protein 1,3,Q,Y,Disordered,2JV9,A,S,L
+DP00742,Q99LM3,Smoothelin-like protein 1,4,T,Y,Disordered,2JV9,A,,G
+DP00742,Q99LM3,Smoothelin-like protein 1,5,E,Y,Disordered,2JV9,A,H,S
+DP00742,Q99LM3,Smoothelin-like protein 1,6,G,Y,Disordered,2JV9,A,H,K
+DP00742,Q99LM3,Smoothelin-like protein 1,7,N,Y,Disordered,2JV9,A,H,N
+DP00742,Q99LM3,Smoothelin-like protein 1,8,S,Y,Disordered,2JV9,A,H,M
+DP00742,Q99LM3,Smoothelin-like protein 1,9,S,Y,Disordered,2JV9,A,H,L
+DP00742,Q99LM3,Smoothelin-like protein 1,10,E,Y,Disordered,2JV9,A,H,L
+DP00742,Q99LM3,Smoothelin-like protein 1,11,D,Y,Disordered,2JV9,A,H,E
+DP00742,Q99LM3,Smoothelin-like protein 1,12,G,Y,Disordered,2JV9,A,H,W
+DP00742,Q99LM3,Smoothelin-like protein 1,13,T,Y,Disordered,2JV9,A,H,C
+DP00742,Q99LM3,Smoothelin-like protein 1,14,T,Y,Disordered,2JV9,A,H,R
+DP00742,Q99LM3,Smoothelin-like protein 1,15,V,Y,Disordered,2JV9,A,H,A
+DP00742,Q99LM3,Smoothelin-like protein 1,16,S,Y,Disordered,2JV9,A,H,M
+DP00742,Q99LM3,Smoothelin-like protein 1,17,P,Y,Disordered,2JV9,A,H,T
+DP00742,Q99LM3,Smoothelin-like protein 1,18,T,Y,Disordered,2JV9,A,T,R
+DP00742,Q99LM3,Smoothelin-like protein 1,19,A,Y,Disordered,2JV9,A,T,N
+DP00742,Q99LM3,Smoothelin-like protein 1,20,G,Y,Disordered,2JV9,A,S,Y
+DP00742,Q99LM3,Smoothelin-like protein 1,21,N,Y,Disordered,2JV9,A,S,E
+DP00742,Q99LM3,Smoothelin-like protein 1,22,L,Y,Disordered,2JV9,A,S,H
+DP00742,Q99LM3,Smoothelin-like protein 1,23,E,Y,Disordered,2JV9,A,,V
+DP00742,Q99LM3,Smoothelin-like protein 1,24,T,Y,Disordered,2JV9,A,,D
+DP00742,Q99LM3,Smoothelin-like protein 1,25,P,Y,Disordered,2JV9,A,,I
+DP00742,Q99LM3,Smoothelin-like protein 1,26,G,Y,Disordered,2JV9,A,S,Q
+DP00742,Q99LM3,Smoothelin-like protein 1,27,S,Y,Disordered,2JV9,A,,N
+DP00742,Q99LM3,Smoothelin-like protein 1,28,Q,Y,Disordered,2JV9,A,S,F
+DP00742,Q99LM3,Smoothelin-like protein 1,29,G,Y,Disordered,2JV9,A,S,S
+DP00742,Q99LM3,Smoothelin-like protein 1,30,I,Y,Disordered,2JV9,A,G,S
+DP00742,Q99LM3,Smoothelin-like protein 1,31,A,Y,Disordered,2JV9,A,G,S
+DP00742,Q99LM3,Smoothelin-like protein 1,32,E,Y,Disordered,2JV9,A,G,W
+DP00742,Q99LM3,Smoothelin-like protein 1,33,E,Y,Disordered,2JV9,A,T,S
+DP00742,Q99LM3,Smoothelin-like protein 1,34,V,Y,Disordered,2JV9,A,T,S
+DP00742,Q99LM3,Smoothelin-like protein 1,35,A,Y,Disordered,2JV9,A,S,G
+DP00742,Q99LM3,Smoothelin-like protein 1,36,E,Y,Disordered,2JV9,A,H,M
+DP00742,Q99LM3,Smoothelin-like protein 1,37,G,Y,Disordered,2JV9,A,H,A
+DP00742,Q99LM3,Smoothelin-like protein 1,38,T,Y,Disordered,2JV9,A,H,F
+DP00742,Q99LM3,Smoothelin-like protein 1,39,V,Y,Disordered,2JV9,A,H,C
+DP00742,Q99LM3,Smoothelin-like protein 1,40,G,Y,Disordered,2JV9,A,H,A
+DP00742,Q99LM3,Smoothelin-like protein 1,41,T,Y,Disordered,2JV9,A,H,L
+DP00742,Q99LM3,Smoothelin-like protein 1,42,S,Y,Disordered,2JV9,A,H,I
+DP00742,Q99LM3,Smoothelin-like protein 1,43,D,Y,Disordered,2JV9,A,H,H
+DP00742,Q99LM3,Smoothelin-like protein 1,44,K,Y,Disordered,2JV9,A,T,K
+DP00742,Q99LM3,Smoothelin-like protein 1,45,E,Y,Disordered,2JV9,A,T,F
+DP00742,Q99LM3,Smoothelin-like protein 1,46,G,Y,Disordered,2JV9,A,,F
+DP00742,Q99LM3,Smoothelin-like protein 1,47,P,Y,Disordered,2JV9,A,S,P
+DP00742,Q99LM3,Smoothelin-like protein 1,48,S,Y,Disordered,2JV9,A,S,E
+DP00742,Q99LM3,Smoothelin-like protein 1,49,D,Y,Disordered,2JV9,A,S,A
+DP00742,Q99LM3,Smoothelin-like protein 1,50,W,Y,Disordered,2JV9,A,,F
+DP00742,Q99LM3,Smoothelin-like protein 1,51,A,Y,Disordered,2JV9,A,,D
+DP00742,Q99LM3,Smoothelin-like protein 1,52,E,Y,Disordered,2JV9,A,G,Y
+DP00742,Q99LM3,Smoothelin-like protein 1,53,H,Y,Disordered,2JV9,A,G,A
+DP00742,Q99LM3,Smoothelin-like protein 1,54,L,Y,Disordered,2JV9,A,G,E
+DP00742,Q99LM3,Smoothelin-like protein 1,55,C,Y,Disordered,2JV9,A,,L
+DP00742,Q99LM3,Smoothelin-like protein 1,56,K,Y,Disordered,2JV9,A,,D
+DP00742,Q99LM3,Smoothelin-like protein 1,57,A,Y,Disordered,2JV9,A,T,P
+DP00742,Q99LM3,Smoothelin-like protein 1,58,A,Y,Disordered,2JV9,A,T,A
+DP00742,Q99LM3,Smoothelin-like protein 1,59,S,Y,Disordered,2JV9,A,,K
+DP00742,Q99LM3,Smoothelin-like protein 1,60,K,Y,Disordered,2JV9,A,H,R
+DP00742,Q99LM3,Smoothelin-like protein 1,61,S,Y,Disordered,2JV9,A,H,R
+DP00742,Q99LM3,Smoothelin-like protein 1,62,G,Y,Disordered,2JV9,A,H,H
+DP00742,Q99LM3,Smoothelin-like protein 1,63,E,Y,Disordered,2JV9,A,H,N
+DP00742,Q99LM3,Smoothelin-like protein 1,64,S,Y,Disordered,2JV9,A,H,F
+DP00742,Q99LM3,Smoothelin-like protein 1,65,G,Y,Disordered,2JV9,A,H,T
+DP00742,Q99LM3,Smoothelin-like protein 1,66,G,Y,Disordered,2JV9,A,H,L
+DP00742,Q99LM3,Smoothelin-like protein 1,67,S,Y,Disordered,2JV9,A,H,A
+DP00742,Q99LM3,Smoothelin-like protein 1,68,P,Y,Disordered,2JV9,A,H,F
+DP00742,Q99LM3,Smoothelin-like protein 1,69,G,Y,Disordered,2JV9,A,H,S
+DP00742,Q99LM3,Smoothelin-like protein 1,70,E,Y,Disordered,2JV9,A,H,T
+DP00742,Q99LM3,Smoothelin-like protein 1,71,A,Y,Disordered,2JV9,A,H,A
+DP00742,Q99LM3,Smoothelin-like protein 1,72,S,Y,Disordered,2JV9,A,H,E
+DP00742,Q99LM3,Smoothelin-like protein 1,73,I,Y,Disordered,2JV9,A,H,K
+DP00742,Q99LM3,Smoothelin-like protein 1,74,L,Y,Disordered,2JV9,A,H,L
+DP00742,Q99LM3,Smoothelin-like protein 1,75,D,Y,Disordered,2JV9,A,H,A
+DP00742,Q99LM3,Smoothelin-like protein 1,76,E,Y,Disordered,2JV9,A,,D
+DP00742,Q99LM3,Smoothelin-like protein 1,77,L,Y,Disordered,2JV9,A,,C
+DP00742,Q99LM3,Smoothelin-like protein 1,78,K,Y,Disordered,2JV9,A,,A
+DP00742,Q99LM3,Smoothelin-like protein 1,79,T,Y,Disordered,2JV9,A,,Q
+DP00742,Q99LM3,Smoothelin-like protein 1,80,D,Y,Disordered,2JV9,A,,L
+DP00742,Q99LM3,Smoothelin-like protein 1,81,L,Y,Disordered,2JV9,A,,L
+DP00742,Q99LM3,Smoothelin-like protein 1,82,Q,Y,Disordered,2JV9,A,,E
+DP00742,Q99LM3,Smoothelin-like protein 1,83,G,Y,Disordered,2JV9,A,H,V
+DP00742,Q99LM3,Smoothelin-like protein 1,84,E,Y,Disordered,2JV9,A,H,D
+DP00742,Q99LM3,Smoothelin-like protein 1,85,A,Y,Disordered,2JV9,A,H,D
+DP00742,Q99LM3,Smoothelin-like protein 1,86,R,Y,Disordered,2JV9,A,H,M
+DP00742,Q99LM3,Smoothelin-like protein 1,87,G,Y,Disordered,2JV9,A,H,V
+DP00742,Q99LM3,Smoothelin-like protein 1,88,K,Y,Disordered,2JV9,A,H,R
+DP00742,Q99LM3,Smoothelin-like protein 1,89,D,Y,Disordered,2JV9,A,H,L
+DP00742,Q99LM3,Smoothelin-like protein 1,90,E,Y,Disordered,2JV9,A,,A
+DP00742,Q99LM3,Smoothelin-like protein 1,91,A,Y,Disordered,2JV9,A,,V
+DP00742,Q99LM3,Smoothelin-like protein 1,92,Q,Y,Disordered,2JV9,A,,P
+DP00742,Q99LM3,Smoothelin-like protein 1,93,G,Y,Disordered,2JV9,A,,D
+DP00742,Q99LM3,Smoothelin-like protein 1,94,D,Y,Disordered,2JV9,A,H,S
+DP00742,Q99LM3,Smoothelin-like protein 1,95,L,Y,Disordered,2JV9,A,H,K
+DP00742,Q99LM3,Smoothelin-like protein 1,96,A,Y,Disordered,2JV9,A,H,C
+DP00742,Q99LM3,Smoothelin-like protein 1,97,E,Y,Disordered,2JV9,A,H,V
+DP00742,Q99LM3,Smoothelin-like protein 1,98,E,Y,Disordered,2JV9,A,H,Y
+DP00742,Q99LM3,Smoothelin-like protein 1,99,K,Y,Disordered,2JV9,A,H,T
+DP00742,Q99LM3,Smoothelin-like protein 1,100,V,Y,Disordered,2JV9,A,H,Y
+DP00742,Q99LM3,Smoothelin-like protein 1,101,G,Y,Disordered,2JV9,A,H,I
+DP00742,Q99LM3,Smoothelin-like protein 1,102,K,Y,Disordered,2JV9,A,H,Q
+DP00742,Q99LM3,Smoothelin-like protein 1,103,E,Y,Disordered,2JV9,A,H,E
+DP00742,Q99LM3,Smoothelin-like protein 1,104,D,Y,Disordered,2JV9,A,H,L
+DP00742,Q99LM3,Smoothelin-like protein 1,105,T,Y,Disordered,2JV9,A,H,Y
+DP00742,Q99LM3,Smoothelin-like protein 1,106,T,Y,Disordered,2JV9,A,H,R
+DP00742,Q99LM3,Smoothelin-like protein 1,107,A,Y,Disordered,2JV9,A,H,S
+DP00742,Q99LM3,Smoothelin-like protein 1,108,A,Y,Disordered,2JV9,A,H,L
+DP00742,Q99LM3,Smoothelin-like protein 1,109,S,Y,Disordered,2JV9,A,H,V
+DP00742,Q99LM3,Smoothelin-like protein 1,110,Q,Y,Disordered,2JV9,A,H,Q
+DP00742,Q99LM3,Smoothelin-like protein 1,111,E,Y,Disordered,2JV9,A,H,K
+DP00742,Q99LM3,Smoothelin-like protein 1,112,D,Y,Disordered,2JV9,A,T,G
+DP00742,Q99LM3,Smoothelin-like protein 1,113,T,Y,Disordered,2JV9,A,,L
+DP00742,Q99LM3,Smoothelin-like protein 1,114,G,Y,Disordered,2JV9,A,S,V
+DP00742,Q99LM3,Smoothelin-like protein 1,115,K,Y,Disordered,2JV9,A,,K
+DP00742,Q99LM3,Smoothelin-like protein 1,116,K,Y,Disordered,2JV9,A,S,T
+DP00742,Q99LM3,Smoothelin-like protein 1,117,E,Y,Disordered,2JV9,A,S,K
+DP00742,Q99LM3,Smoothelin-like protein 1,118,E,Y,Disordered,2JV9,A,,K
+DP00742,Q99LM3,Smoothelin-like protein 1,119,T,Y,Disordered,2JV9,A,,K
+DP00742,Q99LM3,Smoothelin-like protein 1,120,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,121,P,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,122,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,123,P,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,124,N,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,125,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,126,V,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,127,R,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,128,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,129,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,130,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,131,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,132,A,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,133,M,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,134,L,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,135,A,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,136,S,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,137,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,138,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,139,Q,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,140,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,141,V,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,142,D,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,143,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,144,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,145,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,146,T,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,147,N,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,148,L,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,149,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,150,S,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,151,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,152,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,153,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,154,S,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,155,D,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,156,V,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,157,N,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,158,D,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,159,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,160,A,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,161,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,162,P,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,163,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,164,P,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,165,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,166,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,167,D,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,168,A,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,169,G,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,170,A,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,171,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,172,V,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,173,T,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,174,V,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,175,N,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,176,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,177,A,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,178,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,179,T,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,180,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,181,S,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,182,Q,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,183,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,184,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,185,A,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,186,D,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,187,V,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,188,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,189,D,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,190,Q,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,191,A,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,192,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,193,P,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,194,E,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,195,L,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,196,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,197,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,198,V,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,199,D,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,200,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,201,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,202,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,203,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,204,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,205,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,206,D,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,207,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,208,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,209,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,210,L,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,211,V,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,212,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,213,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,214,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,215,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,216,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,217,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,218,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,219,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,220,Q,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,221,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,222,Q,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,223,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,224,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,225,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,226,N,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,227,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,228,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,229,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,230,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,231,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,232,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,233,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,234,V,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,235,I,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,236,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,237,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,238,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,239,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,240,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,241,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,242,W,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,243,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,244,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,245,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,246,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,247,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,248,D,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,249,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,250,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,251,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,252,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,253,L,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,254,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,255,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,256,D,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,257,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,258,L,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,259,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,260,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,261,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,262,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,263,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,264,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,265,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,266,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,267,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,268,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,269,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,270,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,271,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,272,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,273,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,274,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,275,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,276,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,277,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,278,V,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,279,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,280,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,281,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,282,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,283,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,284,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,285,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,286,Q,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,287,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,288,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,289,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,290,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,291,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,292,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,293,D,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,294,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,295,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,296,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,297,E,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,298,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,299,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,300,V,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,301,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,302,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,303,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,304,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,305,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,306,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,307,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,308,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,309,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,310,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,311,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,312,Q,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,313,N,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,314,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,315,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,316,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,317,I,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,318,M,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,319,D,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,320,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,321,F,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,322,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,323,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,324,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,325,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,326,S,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,327,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,328,P,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,329,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,330,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,331,L,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,332,F,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,333,R,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,334,N,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,335,T,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,336,K,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,337,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,338,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,339,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,340,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,341,A,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,342,I,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,343,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,344,G,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,345,V,Y,Disordered w/ Residual Structure,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,346,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,347,N,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,348,M,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,349,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,350,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,351,E,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,352,W,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,353,C,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,354,R,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,355,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,356,M,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,357,T,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,358,R,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,359,N,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,360,Y,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,361,E,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,362,H,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,363,V,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,364,D,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,365,I,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,366,Q,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,367,N,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,368,F,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,369,S,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,370,S,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,371,S,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,372,W,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,373,S,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,374,S,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,375,G,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,376,M,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,377,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,378,F,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,379,C,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,380,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,381,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,382,I,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,383,H,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,384,K,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,385,F,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,386,F,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,387,P,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,388,E,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,389,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,390,F,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,391,D,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,392,Y,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,393,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,394,E,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,395,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,396,D,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,397,P,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,398,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,399,K,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,400,R,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,401,R,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,402,H,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,403,N,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,404,F,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,405,T,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,406,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,407,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,408,F,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,409,S,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,410,T,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,411,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,412,E,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,413,K,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,414,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,415,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,416,D,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,417,C,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,418,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,419,Q,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,420,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,421,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,422,E,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,423,V,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,424,D,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,425,D,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,426,M,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,427,V,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,428,R,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,429,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,430,A,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,431,V,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,432,P,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,433,D,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,434,S,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,435,K,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,436,C,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,437,V,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,438,Y,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,439,T,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,440,Y,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,441,I,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,442,Q,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,443,E,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,444,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,445,Y,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,446,R,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,447,S,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,448,L,N,,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,449,V,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,450,Q,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,451,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,452,G,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,453,L,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,454,V,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,455,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,456,T,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,457,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,458,K,Y,Disordered,2JV9,A,,
+DP00742,Q99LM3,Smoothelin-like protein 1,459,K,Y,Disordered,2JV9,A,,

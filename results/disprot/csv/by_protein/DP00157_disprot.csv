@@ -1,0 +1,685 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00157,Q56027,Cell invasion protein sipA,1,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,2,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,3,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,4,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,5,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,6,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,7,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,8,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,9,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,10,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,11,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,12,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,13,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,14,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,15,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,16,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,17,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,18,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,19,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,20,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,21,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,22,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,23,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,24,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,25,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,26,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,27,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,28,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,29,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,30,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,31,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,32,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,33,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,34,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,35,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,36,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,37,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,38,C,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,39,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,40,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,41,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,42,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,43,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,44,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,45,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,46,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,47,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,48,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,49,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,50,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,51,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,52,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,53,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,54,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,55,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,56,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,57,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,58,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,59,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,60,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,61,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,62,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,63,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,64,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,65,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,66,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,67,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,68,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,69,C,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,70,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,71,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,72,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,73,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,74,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,75,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,76,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,77,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,78,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,79,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,80,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,81,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,82,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,83,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,84,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,85,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,86,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,87,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,88,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,89,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,90,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,91,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,92,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,93,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,94,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,95,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,96,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,97,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,98,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,99,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,100,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,101,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,102,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,103,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,104,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,105,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,106,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,107,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,108,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,109,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,110,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,111,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,112,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,113,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,114,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,115,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,116,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,117,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,118,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,119,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,120,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,121,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,122,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,123,Y,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,124,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,125,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,126,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,127,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,128,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,129,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,130,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,131,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,132,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,133,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,134,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,135,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,136,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,137,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,138,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,139,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,140,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,141,W,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,142,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,143,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,144,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,145,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,146,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,147,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,148,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,149,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,150,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,151,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,152,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,153,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,154,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,155,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,156,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,157,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,158,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,159,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,160,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,161,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,162,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,163,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,164,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,165,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,166,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,167,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,168,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,169,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,170,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,171,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,172,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,173,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,174,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,175,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,176,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,177,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,178,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,179,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,180,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,181,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,182,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,183,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,184,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,185,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,186,Y,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,187,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,188,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,189,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,190,C,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,191,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,192,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,193,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,194,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,195,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,196,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,197,C,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,198,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,199,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,200,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,201,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,202,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,203,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,204,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,205,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,206,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,207,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,208,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,209,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,210,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,211,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,212,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,213,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,214,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,215,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,216,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,217,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,218,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,219,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,220,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,221,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,222,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,223,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,224,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,225,C,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,226,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,227,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,228,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,229,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,230,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,231,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,232,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,233,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,234,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,235,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,236,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,237,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,238,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,239,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,240,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,241,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,242,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,243,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,244,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,245,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,246,M,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,247,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,248,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,249,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,250,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,251,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,252,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,253,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,254,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,255,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,256,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,257,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,258,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,259,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,260,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,261,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,262,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,263,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,264,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,265,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,266,L,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,267,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,268,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,269,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,270,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,271,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,272,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,273,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,274,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,275,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,276,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,277,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,278,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,279,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,280,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,281,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,282,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,283,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,284,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,285,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,286,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,287,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,288,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,289,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,290,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,291,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,292,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,293,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,294,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,295,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,296,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,297,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,298,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,299,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,300,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,301,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,302,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,303,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,304,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,305,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,306,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,307,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,308,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,309,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,310,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,311,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,312,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,313,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,314,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,315,P,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,316,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,317,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,318,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,319,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,320,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,321,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,322,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,323,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,324,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,325,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,326,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,327,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,328,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,329,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,330,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,331,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,332,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,333,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,334,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,335,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,336,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,337,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,338,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,339,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,340,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,341,F,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,342,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,343,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,344,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,345,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,346,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,347,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,348,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,349,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,350,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,351,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,352,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,353,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,354,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,355,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,356,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,357,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,358,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,359,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,360,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,361,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,362,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,363,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,364,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,365,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,366,R,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,367,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,368,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,369,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,370,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,371,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,372,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,373,Q,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,374,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,375,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,376,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,377,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,378,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,379,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,380,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,381,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,382,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,383,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,384,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,385,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,386,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,387,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,388,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,389,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,390,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,391,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,392,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,393,I,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,394,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,395,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,396,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,397,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,398,H,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,399,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,400,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,401,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,402,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,403,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,404,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,405,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,406,N,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,407,A,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,408,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,409,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,410,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,411,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,412,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,413,D,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,414,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,415,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,416,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,417,V,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,418,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,419,S,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,420,E,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,421,K,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,422,G,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,423,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,424,T,N,,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,425,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,426,E,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,427,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,428,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,429,S,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,430,F,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,431,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,432,E,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,433,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,434,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,435,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,436,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,437,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,438,S,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,439,K,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,440,S,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,441,I,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,442,I,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,443,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,444,K,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,445,P,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,446,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,447,Q,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,448,A,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,449,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,450,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,451,H,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,452,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,453,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,454,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,455,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,456,N,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,457,K,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,458,Q,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,459,Q,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,460,S,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,461,Q,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,462,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,463,A,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,464,E,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,465,I,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,466,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,467,N,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,468,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,469,K,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,470,P,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,471,L,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,472,A,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,473,S,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,474,Q,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,475,L,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,476,A,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,477,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,478,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,479,E,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,480,N,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,481,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,482,K,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,483,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,484,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,485,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,486,L,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,487,Q,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,488,S,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,489,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,490,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,491,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,492,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,493,I,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,494,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,495,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,496,N,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,497,K,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,498,A,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,499,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,500,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,501,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,502,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,503,N,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,504,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,505,N,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,506,S,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,507,Q,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,508,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,509,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,510,K,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,511,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,512,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,513,P,N,,1Q5Z,A,,P
+DP00157,Q56027,Cell invasion protein sipA,514,F,N,,1Q5Z,A,,F
+DP00157,Q56027,Cell invasion protein sipA,515,S,N,,1Q5Z,A,T,S
+DP00157,Q56027,Cell invasion protein sipA,516,G,N,,1Q5Z,A,T,G
+DP00157,Q56027,Cell invasion protein sipA,517,L,N,,1Q5Z,A,,L
+DP00157,Q56027,Cell invasion protein sipA,518,K,N,,1Q5Z,A,,K
+DP00157,Q56027,Cell invasion protein sipA,519,F,N,,1Q5Z,A,B,F
+DP00157,Q56027,Cell invasion protein sipA,520,K,N,,1Q5Z,A,,K
+DP00157,Q56027,Cell invasion protein sipA,521,Q,N,,1Q5Z,A,T,Q
+DP00157,Q56027,Cell invasion protein sipA,522,N,N,,1Q5Z,A,T,N
+DP00157,Q56027,Cell invasion protein sipA,523,S,N,,1Q5Z,A,T,S
+DP00157,Q56027,Cell invasion protein sipA,524,F,N,,1Q5Z,A,T,F
+DP00157,Q56027,Cell invasion protein sipA,525,L,N,,1Q5Z,A,G,L
+DP00157,Q56027,Cell invasion protein sipA,526,S,N,,1Q5Z,A,G,S
+DP00157,Q56027,Cell invasion protein sipA,527,T,N,,1Q5Z,A,G,T
+DP00157,Q56027,Cell invasion protein sipA,528,V,N,,1Q5Z,A,S,V
+DP00157,Q56027,Cell invasion protein sipA,529,P,N,,1Q5Z,A,,P
+DP00157,Q56027,Cell invasion protein sipA,530,S,N,,1Q5Z,A,,S
+DP00157,Q56027,Cell invasion protein sipA,531,V,N,,1Q5Z,A,H,V
+DP00157,Q56027,Cell invasion protein sipA,532,T,N,,1Q5Z,A,H,T
+DP00157,Q56027,Cell invasion protein sipA,533,N,N,,1Q5Z,A,H,N
+DP00157,Q56027,Cell invasion protein sipA,534,M,N,,1Q5Z,A,H,M
+DP00157,Q56027,Cell invasion protein sipA,535,H,N,,1Q5Z,A,T,H
+DP00157,Q56027,Cell invasion protein sipA,536,S,N,,1Q5Z,A,,S
+DP00157,Q56027,Cell invasion protein sipA,537,M,N,,1Q5Z,A,T,M
+DP00157,Q56027,Cell invasion protein sipA,538,H,N,,1Q5Z,A,T,H
+DP00157,Q56027,Cell invasion protein sipA,539,F,N,,1Q5Z,A,,F
+DP00157,Q56027,Cell invasion protein sipA,540,D,N,,1Q5Z,A,,D
+DP00157,Q56027,Cell invasion protein sipA,541,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,542,R,N,,1Q5Z,A,H,R
+DP00157,Q56027,Cell invasion protein sipA,543,E,N,,1Q5Z,A,H,E
+DP00157,Q56027,Cell invasion protein sipA,544,T,N,,1Q5Z,A,H,T
+DP00157,Q56027,Cell invasion protein sipA,545,F,N,,1Q5Z,A,H,F
+DP00157,Q56027,Cell invasion protein sipA,546,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,547,G,N,,1Q5Z,A,H,G
+DP00157,Q56027,Cell invasion protein sipA,548,V,N,,1Q5Z,A,H,V
+DP00157,Q56027,Cell invasion protein sipA,549,I,N,,1Q5Z,A,H,I
+DP00157,Q56027,Cell invasion protein sipA,550,R,N,,1Q5Z,A,H,R
+DP00157,Q56027,Cell invasion protein sipA,551,K,N,,1Q5Z,A,H,K
+DP00157,Q56027,Cell invasion protein sipA,552,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,553,L,N,,1Q5Z,A,T,L
+DP00157,Q56027,Cell invasion protein sipA,554,E,N,,1Q5Z,A,,E
+DP00157,Q56027,Cell invasion protein sipA,555,P,N,,1Q5Z,A,B,P
+DP00157,Q56027,Cell invasion protein sipA,556,D,N,,1Q5Z,A,,D
+DP00157,Q56027,Cell invasion protein sipA,557,T,N,,1Q5Z,A,T,T
+DP00157,Q56027,Cell invasion protein sipA,558,S,N,,1Q5Z,A,T,S
+DP00157,Q56027,Cell invasion protein sipA,559,T,N,,1Q5Z,A,S,T
+DP00157,Q56027,Cell invasion protein sipA,560,P,N,,1Q5Z,A,,P
+DP00157,Q56027,Cell invasion protein sipA,561,F,N,,1Q5Z,A,H,F
+DP00157,Q56027,Cell invasion protein sipA,562,P,N,,1Q5Z,A,H,P
+DP00157,Q56027,Cell invasion protein sipA,563,V,N,,1Q5Z,A,H,V
+DP00157,Q56027,Cell invasion protein sipA,564,R,N,,1Q5Z,A,H,R
+DP00157,Q56027,Cell invasion protein sipA,565,R,N,,1Q5Z,A,H,R
+DP00157,Q56027,Cell invasion protein sipA,566,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,567,F,N,,1Q5Z,A,H,F
+DP00157,Q56027,Cell invasion protein sipA,568,D,N,,1Q5Z,A,H,D
+DP00157,Q56027,Cell invasion protein sipA,569,G,N,,1Q5Z,A,H,G
+DP00157,Q56027,Cell invasion protein sipA,570,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,571,R,N,,1Q5Z,A,H,R
+DP00157,Q56027,Cell invasion protein sipA,572,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,573,E,N,,1Q5Z,A,H,E
+DP00157,Q56027,Cell invasion protein sipA,574,I,N,,1Q5Z,A,H,I
+DP00157,Q56027,Cell invasion protein sipA,575,L,N,,1Q5Z,A,S,L
+DP00157,Q56027,Cell invasion protein sipA,576,P,N,,1Q5Z,A,,P
+DP00157,Q56027,Cell invasion protein sipA,577,N,N,,1Q5Z,A,S,N
+DP00157,Q56027,Cell invasion protein sipA,578,D,N,,1Q5Z,A,S,D
+DP00157,Q56027,Cell invasion protein sipA,579,T,N,,1Q5Z,A,H,T
+DP00157,Q56027,Cell invasion protein sipA,580,I,N,,1Q5Z,A,H,I
+DP00157,Q56027,Cell invasion protein sipA,581,K,N,,1Q5Z,A,H,K
+DP00157,Q56027,Cell invasion protein sipA,582,S,N,,1Q5Z,A,H,S
+DP00157,Q56027,Cell invasion protein sipA,583,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,584,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,585,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,586,K,N,,1Q5Z,A,H,K
+DP00157,Q56027,Cell invasion protein sipA,587,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,588,Q,N,,1Q5Z,A,H,Q
+DP00157,Q56027,Cell invasion protein sipA,589,C,N,,1Q5Z,A,H,C
+DP00157,Q56027,Cell invasion protein sipA,590,S,N,,1Q5Z,A,T,S
+DP00157,Q56027,Cell invasion protein sipA,591,D,N,,1Q5Z,A,T,D
+DP00157,Q56027,Cell invasion protein sipA,592,I,N,,1Q5Z,A,G,I
+DP00157,Q56027,Cell invasion protein sipA,593,D,N,,1Q5Z,A,G,D
+DP00157,Q56027,Cell invasion protein sipA,594,K,N,,1Q5Z,A,G,K
+DP00157,Q56027,Cell invasion protein sipA,595,H,N,,1Q5Z,A,,H
+DP00157,Q56027,Cell invasion protein sipA,596,P,N,,1Q5Z,A,H,P
+DP00157,Q56027,Cell invasion protein sipA,597,E,N,,1Q5Z,A,H,E
+DP00157,Q56027,Cell invasion protein sipA,598,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,599,K,N,,1Q5Z,A,H,K
+DP00157,Q56027,Cell invasion protein sipA,600,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,601,K,N,,1Q5Z,A,H,K
+DP00157,Q56027,Cell invasion protein sipA,602,M,N,,1Q5Z,A,H,M
+DP00157,Q56027,Cell invasion protein sipA,603,E,N,,1Q5Z,A,H,E
+DP00157,Q56027,Cell invasion protein sipA,604,T,N,,1Q5Z,A,H,T
+DP00157,Q56027,Cell invasion protein sipA,605,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,606,K,N,,1Q5Z,A,H,K
+DP00157,Q56027,Cell invasion protein sipA,607,E,N,,1Q5Z,A,H,E
+DP00157,Q56027,Cell invasion protein sipA,608,V,N,,1Q5Z,A,H,V
+DP00157,Q56027,Cell invasion protein sipA,609,I,N,,1Q5Z,A,H,I
+DP00157,Q56027,Cell invasion protein sipA,610,T,N,,1Q5Z,A,H,T
+DP00157,Q56027,Cell invasion protein sipA,611,H,N,,1Q5Z,A,T,H
+DP00157,Q56027,Cell invasion protein sipA,612,H,N,,1Q5Z,A,,H
+DP00157,Q56027,Cell invasion protein sipA,613,P,N,,1Q5Z,A,T,P
+DP00157,Q56027,Cell invasion protein sipA,614,Q,N,,1Q5Z,A,T,Q
+DP00157,Q56027,Cell invasion protein sipA,615,K,N,,1Q5Z,A,H,K
+DP00157,Q56027,Cell invasion protein sipA,616,E,N,,1Q5Z,A,H,E
+DP00157,Q56027,Cell invasion protein sipA,617,K,N,,1Q5Z,A,H,K
+DP00157,Q56027,Cell invasion protein sipA,618,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,619,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,620,E,N,,1Q5Z,A,H,E
+DP00157,Q56027,Cell invasion protein sipA,621,I,N,,1Q5Z,A,H,I
+DP00157,Q56027,Cell invasion protein sipA,622,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,623,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,624,Q,N,,1Q5Z,A,H,Q
+DP00157,Q56027,Cell invasion protein sipA,625,F,N,,1Q5Z,A,H,F
+DP00157,Q56027,Cell invasion protein sipA,626,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,627,R,N,,1Q5Z,A,H,R
+DP00157,Q56027,Cell invasion protein sipA,628,E,N,,1Q5Z,A,H,E
+DP00157,Q56027,Cell invasion protein sipA,629,A,N,,1Q5Z,A,H,A
+DP00157,Q56027,Cell invasion protein sipA,630,G,N,,1Q5Z,A,,G
+DP00157,Q56027,Cell invasion protein sipA,631,L,N,,1Q5Z,A,T,L
+DP00157,Q56027,Cell invasion protein sipA,632,T,N,,1Q5Z,A,T,T
+DP00157,Q56027,Cell invasion protein sipA,633,R,N,,1Q5Z,A,T,R
+DP00157,Q56027,Cell invasion protein sipA,634,L,N,,1Q5Z,A,T,L
+DP00157,Q56027,Cell invasion protein sipA,635,K,N,,1Q5Z,A,G,K
+DP00157,Q56027,Cell invasion protein sipA,636,G,N,,1Q5Z,A,G,G
+DP00157,Q56027,Cell invasion protein sipA,637,E,N,,1Q5Z,A,G,E
+DP00157,Q56027,Cell invasion protein sipA,638,T,N,,1Q5Z,A,S,T
+DP00157,Q56027,Cell invasion protein sipA,639,D,N,,1Q5Z,A,,D
+DP00157,Q56027,Cell invasion protein sipA,640,Y,N,,1Q5Z,A,H,Y
+DP00157,Q56027,Cell invasion protein sipA,641,V,N,,1Q5Z,A,H,V
+DP00157,Q56027,Cell invasion protein sipA,642,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,643,S,N,,1Q5Z,A,H,S
+DP00157,Q56027,Cell invasion protein sipA,644,N,N,,1Q5Z,A,H,N
+DP00157,Q56027,Cell invasion protein sipA,645,V,N,,1Q5Z,A,H,V
+DP00157,Q56027,Cell invasion protein sipA,646,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,647,D,N,,1Q5Z,A,H,D
+DP00157,Q56027,Cell invasion protein sipA,648,G,N,,1Q5Z,A,H,G
+DP00157,Q56027,Cell invasion protein sipA,649,L,N,,1Q5Z,A,H,L
+DP00157,Q56027,Cell invasion protein sipA,650,I,N,,1Q5Z,A,S,I
+DP00157,Q56027,Cell invasion protein sipA,651,G,N,,1Q5Z,A,T,G
+DP00157,Q56027,Cell invasion protein sipA,652,D,N,,1Q5Z,A,T,D
+DP00157,Q56027,Cell invasion protein sipA,653,G,N,,1Q5Z,A,,G
+DP00157,Q56027,Cell invasion protein sipA,654,S,N,,1Q5Z,A,G,S
+DP00157,Q56027,Cell invasion protein sipA,655,W,N,,1Q5Z,A,G,W
+DP00157,Q56027,Cell invasion protein sipA,656,R,N,,1Q5Z,A,G,R
+DP00157,Q56027,Cell invasion protein sipA,657,A,N,,1Q5Z,A,,A
+DP00157,Q56027,Cell invasion protein sipA,658,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,659,P,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,660,A,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,661,Y,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,662,E,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,663,S,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,664,Y,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,665,L,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,666,N,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,667,K,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,668,P,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,669,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,670,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,671,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,672,R,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,673,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,674,I,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,675,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,676,T,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,677,V,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,678,D,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,679,G,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,680,L,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,681,H,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,682,M,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,683,Q,Y,Disordered - Extended,1Q5Z,A,,
+DP00157,Q56027,Cell invasion protein sipA,684,R,Y,Disordered - Extended,1Q5Z,A,,

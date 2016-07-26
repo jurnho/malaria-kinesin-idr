@@ -1,0 +1,166 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,1,M,Y,Disordered - Extended,2KG4,A,,M
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,2,T,Y,Disordered - Extended,2KG4,A,,T
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,3,L,Y,Disordered - Extended,2KG4,A,,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,4,E,Y,Disordered - Extended,2KG4,A,,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,5,E,Y,Disordered - Extended,2KG4,A,,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,6,F,Y,Disordered - Extended,2KG4,A,,F
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,7,S,Y,Disordered - Extended,2KG4,A,,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,8,A,Y,Disordered - Extended,2KG4,A,,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,9,G,Y,Disordered - Extended,2KG4,A,,G
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,10,E,Y,Disordered - Extended,2KG4,A,,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,11,Q,Y,Disordered - Extended,2KG4,A,,Q
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,12,K,Y,Disordered - Extended,2KG4,A,,K
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,13,T,Y,Disordered - Extended,2KG4,A,,T
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,14,E,Y,Disordered - Extended,2KG4,A,,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,15,R,Y,Disordered - Extended,2KG4,A,,R
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,16,M,Y,Disordered - Extended,2KG4,A,H,M
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,17,D,N,,2KG4,A,H,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,18,K,N,,2KG4,A,H,K
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,19,V,N,,2KG4,A,H,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,20,G,N,,2KG4,A,H,G
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,21,D,N,,2KG4,A,H,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,22,A,N,,2KG4,A,H,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,23,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,24,E,N,,2KG4,A,H,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,25,E,N,,2KG4,A,H,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,26,V,N,,2KG4,A,H,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,27,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,28,S,N,,2KG4,A,H,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,29,K,N,,2KG4,A,H,K
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,30,A,N,,2KG4,A,H,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,31,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,32,S,N,,2KG4,A,H,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,33,Q,N,,2KG4,A,H,Q
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,34,R,N,,2KG4,A,T,R
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,35,T,N,,2KG4,A,,T
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,36,I,N,,2KG4,A,E,I
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,37,T,N,,2KG4,A,E,T
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,38,V,N,,2KG4,A,E,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,39,G,N,,2KG4,A,,G
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,40,V,N,,2KG4,A,G,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,41,Y,N,,2KG4,A,G,Y
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,42,E,N,,2KG4,A,G,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,43,A,N,,2KG4,A,H,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,44,A,N,,2KG4,A,H,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,45,K,N,,2KG4,A,H,K
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,46,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,47,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,48,N,N,,2KG4,A,H,N
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,49,V,N,,2KG4,A,H,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,50,D,N,,2KG4,A,,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,51,P,N,,2KG4,A,T,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,52,D,N,,2KG4,A,T,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,53,N,N,,2KG4,A,T,N
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,54,V,N,,2KG4,A,E,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,55,V,N,,2KG4,A,E,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,56,L,N,,2KG4,A,E,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,57,C,N,,2KG4,A,E,C
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,58,L,N,,2KG4,A,E,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,59,L,N,,2KG4,A,E,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,60,A,N,,2KG4,A,E,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,61,A,N,,2KG4,A,,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,62,D,N,,2KG4,A,,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,63,E,N,,2KG4,A,T,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,64,D,N,,2KG4,A,G,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,65,D,N,,2KG4,A,G,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,66,D,N,,2KG4,A,G,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,67,R,N,,2KG4,A,G,R
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,68,D,N,,2KG4,A,,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,69,V,N,,2KG4,A,H,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,70,A,N,,2KG4,A,H,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,71,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,72,Q,N,,2KG4,A,H,Q
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,73,I,N,,2KG4,A,H,I
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,74,H,N,,2KG4,A,H,H
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,75,F,N,,2KG4,A,H,F
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,76,T,N,,2KG4,A,H,T
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,77,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,78,I,N,,2KG4,A,H,I
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,79,Q,N,,2KG4,A,H,Q
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,80,A,N,,2KG4,A,H,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,81,F,N,,2KG4,A,H,F
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,82,C,N,,2KG4,A,H,C
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,83,C,N,,2KG4,A,H,C
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,84,E,N,,2KG4,A,H,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,85,N,N,,2KG4,A,T,N
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,86,D,N,,2KG4,A,T,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,87,I,N,,2KG4,A,,I
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,88,N,N,,2KG4,A,,N
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,89,I,N,,2KG4,A,E,I
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,90,L,N,,2KG4,A,E,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,91,R,N,,2KG4,A,E,R
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,92,V,N,,2KG4,A,E,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,93,S,N,,2KG4,A,S,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,94,N,N,,2KG4,A,,N
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,95,P,N,,2KG4,A,H,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,96,G,N,,2KG4,A,H,G
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,97,R,N,,2KG4,A,H,R
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,98,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,99,A,N,,2KG4,A,H,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,100,E,N,,2KG4,A,H,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,101,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,102,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,103,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,104,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,105,E,Y,Disordered - Extended,2KG4,A,T,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,106,T,Y,Disordered - Extended,2KG4,A,T,T
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,107,D,Y,Disordered - Extended,2KG4,A,T,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,108,A,Y,Disordered - Extended,2KG4,A,,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,109,G,Y,Disordered - Extended,2KG4,A,S,G
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,110,P,Y,Disordered - Extended,2KG4,A,S,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,111,A,Y,Disordered - Extended,2KG4,A,,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,112,A,Y,Disordered - Extended,2KG4,A,,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,113,S,Y,Disordered - Extended,2KG4,A,,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,114,E,Y,Disordered - Extended,2KG4,A,,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,115,G,Y,Disordered - Extended,2KG4,A,S,G
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,116,A,Y,Disordered - Extended,2KG4,A,S,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,117,E,Y,Disordered - Extended,2KG4,A,,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,118,Q,Y,Disordered - Extended,2KG4,A,,Q
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,119,P,N,,2KG4,A,,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,120,P,N,,2KG4,A,S,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,121,D,N,,2KG4,A,,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,122,L,N,,2KG4,A,S,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,123,H,N,,2KG4,A,,H
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,124,C,N,,2KG4,A,E,C
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,125,V,N,,2KG4,A,E,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,126,L,N,,2KG4,A,E,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,127,V,N,,2KG4,A,E,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,128,T,N,,2KG4,A,E,T
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,129,N,N,,2KG4,A,,N
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,130,P,N,,2KG4,A,,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,131,H,N,,2KG4,A,S,H
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,132,S,N,,2KG4,A,S,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,133,S,N,,2KG4,A,,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,134,Q,N,,2KG4,A,,Q
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,135,W,N,,2KG4,A,,W
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,136,K,N,,2KG4,A,,K
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,137,D,N,,2KG4,A,,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,138,P,N,,2KG4,A,H,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,139,A,N,,2KG4,A,H,A
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,140,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,141,S,N,,2KG4,A,H,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,142,Q,N,,2KG4,A,H,Q
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,143,L,N,,2KG4,A,H,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,144,I,N,,2KG4,A,H,I
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,145,C,N,,2KG4,A,H,C
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,146,F,N,,2KG4,A,H,F
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,147,C,N,,2KG4,A,H,C
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,148,R,N,,2KG4,A,H,R
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,149,E,N,,2KG4,A,H,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,150,S,N,,2KG4,A,H,S
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,151,R,N,,2KG4,A,H,R
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,152,Y,N,,2KG4,A,T,Y
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,153,M,N,,2KG4,A,T,M
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,154,D,Y,Disordered,2KG4,A,T,D
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,155,Q,Y,Disordered,2KG4,A,,Q
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,156,W,Y,Disordered,2KG4,A,S,W
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,157,V,Y,Disordered,2KG4,A,S,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,158,P,Y,Disordered,2KG4,A,,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,159,V,Y,Disordered,2KG4,A,E,V
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,160,I,Y,Disordered,2KG4,A,E,I
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,161,N,Y,Disordered,2KG4,A,,N
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,162,L,Y,Disordered,2KG4,A,,L
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,163,P,Y,Disordered,2KG4,A,,P
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,164,E,Y,Disordered,2KG4,A,,E
+DP00704,P24522,Growth arrest and DNA damage-inducible protein GADD45 alpha,165,R,Y,Disordered,2KG4,A,,R

@@ -1,0 +1,394 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00086,P04637,Cellular tumor antigen p53,1,M,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,2,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,3,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,4,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,5,Q,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,6,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,7,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,8,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,9,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,10,V,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,11,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,12,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,13,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,14,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,15,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,16,Q,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,17,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,18,T,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,19,F,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,20,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,21,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,22,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,23,W,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,24,K,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,25,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,26,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,27,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,28,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,29,N,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,30,N,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,31,V,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,32,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,33,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,34,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,35,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,36,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,37,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,38,Q,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,39,A,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,40,M,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,41,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,42,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,43,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,44,M,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,45,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,46,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,47,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,48,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,49,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,50,I,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,51,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,52,Q,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,53,W,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,54,F,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,55,T,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,56,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,57,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,58,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,59,G,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,60,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,61,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,62,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,63,A,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,64,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,65,R,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,66,M,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,67,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,68,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,69,A,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,70,A,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,71,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,72,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,73,V,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,74,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,75,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,76,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,77,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,78,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,79,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,80,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,81,T,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,82,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,83,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,84,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,85,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,86,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,87,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,88,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,89,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,90,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,91,W,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,92,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,93,L,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,94,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,95,S,N,,1GZH,A,,S
+DP00086,P04637,Cellular tumor antigen p53,96,S,N,,1GZH,A,,S
+DP00086,P04637,Cellular tumor antigen p53,97,V,N,,1GZH,A,S,V
+DP00086,P04637,Cellular tumor antigen p53,98,P,N,,1GZH,A,,P
+DP00086,P04637,Cellular tumor antigen p53,99,S,N,,1GZH,A,,S
+DP00086,P04637,Cellular tumor antigen p53,100,Q,N,,1GZH,A,,Q
+DP00086,P04637,Cellular tumor antigen p53,101,K,N,,1GZH,A,,K
+DP00086,P04637,Cellular tumor antigen p53,102,T,N,,1GZH,A,,T
+DP00086,P04637,Cellular tumor antigen p53,103,Y,N,,1GZH,A,B,Y
+DP00086,P04637,Cellular tumor antigen p53,104,Q,N,,1GZH,A,,Q
+DP00086,P04637,Cellular tumor antigen p53,105,G,N,,1GZH,A,T,G
+DP00086,P04637,Cellular tumor antigen p53,106,S,N,,1GZH,A,T,S
+DP00086,P04637,Cellular tumor antigen p53,107,Y,N,,1GZH,A,T,Y
+DP00086,P04637,Cellular tumor antigen p53,108,G,N,,1GZH,A,T,G
+DP00086,P04637,Cellular tumor antigen p53,109,F,N,,1GZH,A,,F
+DP00086,P04637,Cellular tumor antigen p53,110,R,N,,1GZH,A,E,R
+DP00086,P04637,Cellular tumor antigen p53,111,L,N,,1GZH,A,E,L
+DP00086,P04637,Cellular tumor antigen p53,112,G,N,,1GZH,A,E,G
+DP00086,P04637,Cellular tumor antigen p53,113,F,N,,1GZH,A,,F
+DP00086,P04637,Cellular tumor antigen p53,114,L,N,,1GZH,A,,L
+DP00086,P04637,Cellular tumor antigen p53,115,H,N,,1GZH,A,,H
+DP00086,P04637,Cellular tumor antigen p53,116,S,N,,1GZH,A,,S
+DP00086,P04637,Cellular tumor antigen p53,117,G,N,,1GZH,A,,G
+DP00086,P04637,Cellular tumor antigen p53,118,T,N,,1GZH,A,,T
+DP00086,P04637,Cellular tumor antigen p53,119,A,N,,1GZH,A,,A
+DP00086,P04637,Cellular tumor antigen p53,120,K,N,,1GZH,A,S,K
+DP00086,P04637,Cellular tumor antigen p53,121,S,N,,1GZH,A,S,S
+DP00086,P04637,Cellular tumor antigen p53,122,V,N,,1GZH,A,,V
+DP00086,P04637,Cellular tumor antigen p53,123,T,N,,1GZH,A,S,T
+DP00086,P04637,Cellular tumor antigen p53,124,C,N,,1GZH,A,E,C
+DP00086,P04637,Cellular tumor antigen p53,125,T,N,,1GZH,A,E,T
+DP00086,P04637,Cellular tumor antigen p53,126,Y,N,,1GZH,A,E,Y
+DP00086,P04637,Cellular tumor antigen p53,127,S,N,,1GZH,A,E,S
+DP00086,P04637,Cellular tumor antigen p53,128,P,N,,1GZH,A,T,P
+DP00086,P04637,Cellular tumor antigen p53,129,A,N,,1GZH,A,T,A
+DP00086,P04637,Cellular tumor antigen p53,130,L,N,,1GZH,A,T,L
+DP00086,P04637,Cellular tumor antigen p53,131,N,N,,1GZH,A,T,N
+DP00086,P04637,Cellular tumor antigen p53,132,K,N,,1GZH,A,E,K
+DP00086,P04637,Cellular tumor antigen p53,133,M,N,,1GZH,A,E,M
+DP00086,P04637,Cellular tumor antigen p53,134,F,N,,1GZH,A,E,F
+DP00086,P04637,Cellular tumor antigen p53,135,C,N,,1GZH,A,E,C
+DP00086,P04637,Cellular tumor antigen p53,136,Q,N,,1GZH,A,,Q
+DP00086,P04637,Cellular tumor antigen p53,137,L,N,,1GZH,A,S,L
+DP00086,P04637,Cellular tumor antigen p53,138,A,N,,1GZH,A,S,A
+DP00086,P04637,Cellular tumor antigen p53,139,K,N,,1GZH,A,,K
+DP00086,P04637,Cellular tumor antigen p53,140,T,N,,1GZH,A,,T
+DP00086,P04637,Cellular tumor antigen p53,141,C,N,,1GZH,A,E,C
+DP00086,P04637,Cellular tumor antigen p53,142,P,N,,1GZH,A,E,P
+DP00086,P04637,Cellular tumor antigen p53,143,V,N,,1GZH,A,E,V
+DP00086,P04637,Cellular tumor antigen p53,144,Q,N,,1GZH,A,E,Q
+DP00086,P04637,Cellular tumor antigen p53,145,L,N,,1GZH,A,E,L
+DP00086,P04637,Cellular tumor antigen p53,146,W,N,,1GZH,A,E,W
+DP00086,P04637,Cellular tumor antigen p53,147,V,N,,1GZH,A,,V
+DP00086,P04637,Cellular tumor antigen p53,148,D,N,,1GZH,A,S,D
+DP00086,P04637,Cellular tumor antigen p53,149,S,N,,1GZH,A,S,S
+DP00086,P04637,Cellular tumor antigen p53,150,T,N,,1GZH,A,,T
+DP00086,P04637,Cellular tumor antigen p53,151,P,N,,1GZH,A,,P
+DP00086,P04637,Cellular tumor antigen p53,152,P,N,,1GZH,A,,P
+DP00086,P04637,Cellular tumor antigen p53,153,P,N,,1GZH,A,T,P
+DP00086,P04637,Cellular tumor antigen p53,154,G,N,,1GZH,A,T,G
+DP00086,P04637,Cellular tumor antigen p53,155,T,N,,1GZH,A,,T
+DP00086,P04637,Cellular tumor antigen p53,156,R,N,,1GZH,A,E,R
+DP00086,P04637,Cellular tumor antigen p53,157,V,N,,1GZH,A,E,V
+DP00086,P04637,Cellular tumor antigen p53,158,R,N,,1GZH,A,E,R
+DP00086,P04637,Cellular tumor antigen p53,159,A,N,,1GZH,A,E,A
+DP00086,P04637,Cellular tumor antigen p53,160,M,N,,1GZH,A,E,M
+DP00086,P04637,Cellular tumor antigen p53,161,A,N,,1GZH,A,E,A
+DP00086,P04637,Cellular tumor antigen p53,162,I,N,,1GZH,A,E,I
+DP00086,P04637,Cellular tumor antigen p53,163,Y,N,,1GZH,A,E,Y
+DP00086,P04637,Cellular tumor antigen p53,164,K,N,,1GZH,A,S,K
+DP00086,P04637,Cellular tumor antigen p53,165,Q,N,,1GZH,A,S,Q
+DP00086,P04637,Cellular tumor antigen p53,166,S,N,,1GZH,A,H,S
+DP00086,P04637,Cellular tumor antigen p53,167,Q,N,,1GZH,A,H,Q
+DP00086,P04637,Cellular tumor antigen p53,168,H,N,,1GZH,A,H,H
+DP00086,P04637,Cellular tumor antigen p53,169,M,N,,1GZH,A,H,M
+DP00086,P04637,Cellular tumor antigen p53,170,T,N,,1GZH,A,T,T
+DP00086,P04637,Cellular tumor antigen p53,171,E,N,,1GZH,A,S,E
+DP00086,P04637,Cellular tumor antigen p53,172,V,N,,1GZH,A,,V
+DP00086,P04637,Cellular tumor antigen p53,173,V,N,,1GZH,A,,V
+DP00086,P04637,Cellular tumor antigen p53,174,R,N,,1GZH,A,,R
+DP00086,P04637,Cellular tumor antigen p53,175,R,N,,1GZH,A,,R
+DP00086,P04637,Cellular tumor antigen p53,176,C,N,,1GZH,A,,C
+DP00086,P04637,Cellular tumor antigen p53,177,P,N,,1GZH,A,H,P
+DP00086,P04637,Cellular tumor antigen p53,178,H,N,,1GZH,A,H,H
+DP00086,P04637,Cellular tumor antigen p53,179,H,N,,1GZH,A,H,H
+DP00086,P04637,Cellular tumor antigen p53,180,E,N,,1GZH,A,H,E
+DP00086,P04637,Cellular tumor antigen p53,181,R,N,,1GZH,A,T,R
+DP00086,P04637,Cellular tumor antigen p53,182,C,N,,1GZH,A,,C
+DP00086,P04637,Cellular tumor antigen p53,183,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,184,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,185,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,186,D,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,187,G,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,188,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,189,A,N,,1GZH,A,,A
+DP00086,P04637,Cellular tumor antigen p53,190,P,N,,1GZH,A,,P
+DP00086,P04637,Cellular tumor antigen p53,191,P,N,,1GZH,A,T,P
+DP00086,P04637,Cellular tumor antigen p53,192,Q,N,,1GZH,A,T,Q
+DP00086,P04637,Cellular tumor antigen p53,193,H,N,,1GZH,A,,H
+DP00086,P04637,Cellular tumor antigen p53,194,L,N,,1GZH,A,S,L
+DP00086,P04637,Cellular tumor antigen p53,195,I,N,,1GZH,A,E,I
+DP00086,P04637,Cellular tumor antigen p53,196,R,N,,1GZH,A,E,R
+DP00086,P04637,Cellular tumor antigen p53,197,V,N,,1GZH,A,E,V
+DP00086,P04637,Cellular tumor antigen p53,198,E,N,,1GZH,A,,E
+DP00086,P04637,Cellular tumor antigen p53,199,G,N,,1GZH,A,,G
+DP00086,P04637,Cellular tumor antigen p53,200,N,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,201,L,N,,1GZH,A,,L
+DP00086,P04637,Cellular tumor antigen p53,202,R,N,,1GZH,A,,R
+DP00086,P04637,Cellular tumor antigen p53,203,V,N,,1GZH,A,,V
+DP00086,P04637,Cellular tumor antigen p53,204,E,N,,1GZH,A,E,E
+DP00086,P04637,Cellular tumor antigen p53,205,Y,N,,1GZH,A,E,Y
+DP00086,P04637,Cellular tumor antigen p53,206,L,N,,1GZH,A,E,L
+DP00086,P04637,Cellular tumor antigen p53,207,D,N,,1GZH,A,E,D
+DP00086,P04637,Cellular tumor antigen p53,208,D,N,,1GZH,A,,D
+DP00086,P04637,Cellular tumor antigen p53,209,R,N,,1GZH,A,T,R
+DP00086,P04637,Cellular tumor antigen p53,210,N,N,,1GZH,A,T,N
+DP00086,P04637,Cellular tumor antigen p53,211,T,N,,1GZH,A,T,T
+DP00086,P04637,Cellular tumor antigen p53,212,F,N,,1GZH,A,,F
+DP00086,P04637,Cellular tumor antigen p53,213,R,N,,1GZH,A,,R
+DP00086,P04637,Cellular tumor antigen p53,214,H,N,,1GZH,A,E,H
+DP00086,P04637,Cellular tumor antigen p53,215,S,N,,1GZH,A,E,S
+DP00086,P04637,Cellular tumor antigen p53,216,V,N,,1GZH,A,E,V
+DP00086,P04637,Cellular tumor antigen p53,217,V,N,,1GZH,A,E,V
+DP00086,P04637,Cellular tumor antigen p53,218,V,N,,1GZH,A,E,V
+DP00086,P04637,Cellular tumor antigen p53,219,P,N,,1GZH,A,E,P
+DP00086,P04637,Cellular tumor antigen p53,220,Y,N,,1GZH,A,,Y
+DP00086,P04637,Cellular tumor antigen p53,221,E,N,,1GZH,A,,E
+DP00086,P04637,Cellular tumor antigen p53,222,P,N,,1GZH,A,,P
+DP00086,P04637,Cellular tumor antigen p53,223,P,N,,1GZH,A,,P
+DP00086,P04637,Cellular tumor antigen p53,224,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,225,V,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,226,G,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,227,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,228,D,N,,1GZH,A,,E
+DP00086,P04637,Cellular tumor antigen p53,229,C,N,,1GZH,A,,C
+DP00086,P04637,Cellular tumor antigen p53,230,T,N,,1GZH,A,E,T
+DP00086,P04637,Cellular tumor antigen p53,231,T,N,,1GZH,A,E,T
+DP00086,P04637,Cellular tumor antigen p53,232,I,N,,1GZH,A,E,I
+DP00086,P04637,Cellular tumor antigen p53,233,H,N,,1GZH,A,E,H
+DP00086,P04637,Cellular tumor antigen p53,234,Y,N,,1GZH,A,E,Y
+DP00086,P04637,Cellular tumor antigen p53,235,N,N,,1GZH,A,E,N
+DP00086,P04637,Cellular tumor antigen p53,236,Y,N,,1GZH,A,E,Y
+DP00086,P04637,Cellular tumor antigen p53,237,M,N,,1GZH,A,,M
+DP00086,P04637,Cellular tumor antigen p53,238,C,N,,1GZH,A,S,C
+DP00086,P04637,Cellular tumor antigen p53,239,N,N,,1GZH,A,,N
+DP00086,P04637,Cellular tumor antigen p53,240,S,N,,1GZH,A,T,S
+DP00086,P04637,Cellular tumor antigen p53,241,S,N,,1GZH,A,T,S
+DP00086,P04637,Cellular tumor antigen p53,242,C,N,,1GZH,A,,C
+DP00086,P04637,Cellular tumor antigen p53,243,M,N,,1GZH,A,T,M
+DP00086,P04637,Cellular tumor antigen p53,244,G,N,,1GZH,A,T,G
+DP00086,P04637,Cellular tumor antigen p53,245,G,N,,1GZH,A,T,G
+DP00086,P04637,Cellular tumor antigen p53,246,M,N,,1GZH,A,T,M
+DP00086,P04637,Cellular tumor antigen p53,247,N,N,,1GZH,A,T,N
+DP00086,P04637,Cellular tumor antigen p53,248,R,N,,1GZH,A,T,R
+DP00086,P04637,Cellular tumor antigen p53,249,R,N,,1GZH,A,,R
+DP00086,P04637,Cellular tumor antigen p53,250,P,N,,1GZH,A,,P
+DP00086,P04637,Cellular tumor antigen p53,251,I,N,,1GZH,A,E,I
+DP00086,P04637,Cellular tumor antigen p53,252,L,N,,1GZH,A,E,L
+DP00086,P04637,Cellular tumor antigen p53,253,T,N,,1GZH,A,E,T
+DP00086,P04637,Cellular tumor antigen p53,254,I,N,,1GZH,A,E,I
+DP00086,P04637,Cellular tumor antigen p53,255,I,N,,1GZH,A,E,I
+DP00086,P04637,Cellular tumor antigen p53,256,T,N,,1GZH,A,E,T
+DP00086,P04637,Cellular tumor antigen p53,257,L,N,,1GZH,A,E,L
+DP00086,P04637,Cellular tumor antigen p53,258,E,N,,1GZH,A,E,E
+DP00086,P04637,Cellular tumor antigen p53,259,D,N,,1GZH,A,,D
+DP00086,P04637,Cellular tumor antigen p53,260,S,N,,1GZH,A,T,S
+DP00086,P04637,Cellular tumor antigen p53,261,S,N,,1GZH,A,T,S
+DP00086,P04637,Cellular tumor antigen p53,262,G,N,,1GZH,A,,G
+DP00086,P04637,Cellular tumor antigen p53,263,N,N,,1GZH,A,,N
+DP00086,P04637,Cellular tumor antigen p53,264,L,N,,1GZH,A,E,L
+DP00086,P04637,Cellular tumor antigen p53,265,L,N,,1GZH,A,E,L
+DP00086,P04637,Cellular tumor antigen p53,266,G,N,,1GZH,A,E,G
+DP00086,P04637,Cellular tumor antigen p53,267,R,N,,1GZH,A,E,R
+DP00086,P04637,Cellular tumor antigen p53,268,N,N,,1GZH,A,E,N
+DP00086,P04637,Cellular tumor antigen p53,269,S,N,,1GZH,A,E,S
+DP00086,P04637,Cellular tumor antigen p53,270,F,N,,1GZH,A,E,F
+DP00086,P04637,Cellular tumor antigen p53,271,E,N,,1GZH,A,E,E
+DP00086,P04637,Cellular tumor antigen p53,272,V,N,,1GZH,A,E,V
+DP00086,P04637,Cellular tumor antigen p53,273,R,N,,1GZH,A,E,R
+DP00086,P04637,Cellular tumor antigen p53,274,V,N,,1GZH,A,E,V
+DP00086,P04637,Cellular tumor antigen p53,275,C,N,,1GZH,A,,C
+DP00086,P04637,Cellular tumor antigen p53,276,A,N,,1GZH,A,S,A
+DP00086,P04637,Cellular tumor antigen p53,277,C,N,,1GZH,A,,C
+DP00086,P04637,Cellular tumor antigen p53,278,P,N,,1GZH,A,H,P
+DP00086,P04637,Cellular tumor antigen p53,279,G,N,,1GZH,A,H,G
+DP00086,P04637,Cellular tumor antigen p53,280,R,N,,1GZH,A,H,R
+DP00086,P04637,Cellular tumor antigen p53,281,D,N,,1GZH,A,H,D
+DP00086,P04637,Cellular tumor antigen p53,282,R,N,,1GZH,A,H,R
+DP00086,P04637,Cellular tumor antigen p53,283,R,N,,1GZH,A,H,R
+DP00086,P04637,Cellular tumor antigen p53,284,T,N,,1GZH,A,H,T
+DP00086,P04637,Cellular tumor antigen p53,285,E,N,,1GZH,A,H,E
+DP00086,P04637,Cellular tumor antigen p53,286,E,N,,1GZH,A,H,E
+DP00086,P04637,Cellular tumor antigen p53,287,E,N,,1GZH,A,H,E
+DP00086,P04637,Cellular tumor antigen p53,288,N,N,,1GZH,A,H,N
+DP00086,P04637,Cellular tumor antigen p53,289,L,N,,1GZH,A,H,L
+DP00086,P04637,Cellular tumor antigen p53,290,R,N,,1GZH,A,H,R
+DP00086,P04637,Cellular tumor antigen p53,291,K,Y,Disordered - Extended,1GZH,A,,K
+DP00086,P04637,Cellular tumor antigen p53,292,K,Y,Disordered - Extended,1GZH,A,,K
+DP00086,P04637,Cellular tumor antigen p53,293,G,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,294,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,295,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,296,H,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,297,H,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,298,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,299,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,300,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,301,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,302,G,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,303,S,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,304,T,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,305,K,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,306,R,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,307,A,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,308,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,309,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,310,N,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,311,N,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,312,T,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,313,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,314,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,315,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,316,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,317,Q,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,318,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,319,K,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,320,K,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,321,K,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,322,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,323,L,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,324,D,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,325,G,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,326,E,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,327,Y,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,328,F,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,329,T,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,330,L,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,331,Q,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,332,I,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,333,R,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,334,G,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,335,R,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,336,E,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,337,R,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,338,F,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,339,E,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,340,M,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,341,F,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,342,R,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,343,E,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,344,L,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,345,N,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,346,E,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,347,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,348,L,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,349,E,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,350,L,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,351,K,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,352,D,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,353,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,354,Q,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,355,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,356,G,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,357,K,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,358,E,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,359,P,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,360,G,Y,Disordered - Extended,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,361,G,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,362,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,363,R,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,364,A,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,365,H,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,366,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,367,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,368,H,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,369,L,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,370,K,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,371,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,372,K,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,373,K,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,374,G,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,375,Q,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,376,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,377,T,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,378,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,379,R,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,380,H,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,381,K,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,382,K,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,383,L,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,384,M,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,385,F,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,386,K,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,387,T,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,388,E,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,389,G,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,390,P,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,391,D,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,392,S,N,,1GZH,A,,
+DP00086,P04637,Cellular tumor antigen p53,393,D,N,,1GZH,A,,

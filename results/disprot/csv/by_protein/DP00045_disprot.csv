@@ -1,0 +1,221 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,1,P,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,2,R,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,3,E,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,4,Y,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,5,E,N,,1TC1,A,,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,6,F,N,,1TC1,A,T,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,7,A,N,,1TC1,A,T,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,8,E,N,,1TC1,A,S,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,9,K,N,,1TC1,A,,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,10,I,N,,1TC1,A,,K
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,11,L,N,,1TC1,A,E,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,12,F,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,13,T,N,,1TC1,A,E,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,14,E,N,,1TC1,A,,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,15,E,N,,1TC1,A,H,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,16,E,N,,1TC1,A,H,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,17,I,N,,1TC1,A,H,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,18,R,N,,1TC1,A,H,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,19,T,N,,1TC1,A,H,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,20,R,N,,1TC1,A,H,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,21,I,N,,1TC1,A,H,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,22,K,N,,1TC1,A,H,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,23,E,N,,1TC1,A,H,K
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,24,V,N,,1TC1,A,H,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,25,A,N,,1TC1,A,H,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,26,K,N,,1TC1,A,H,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,27,R,N,,1TC1,A,H,K
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,28,I,N,,1TC1,A,H,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,29,A,N,,1TC1,A,H,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,30,D,N,,1TC1,A,H,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,31,D,N,,1TC1,A,H,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,32,Y,N,,1TC1,A,H,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,33,K,N,,1TC1,A,H,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,34,G,N,,1TC1,A,T,K
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,35,K,N,,1TC1,A,T,G
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,36,G,N,,1TC1,A,S,K
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,37,L,N,,1TC1,A,,G
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,38,R,N,,1TC1,A,,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,39,P,N,,1TC1,A,B,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,40,Y,N,,1TC1,A,T,P
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,41,V,N,,1TC1,A,T,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,42,N,N,,1TC1,A,T,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,43,P,N,,1TC1,A,B,N
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,44,L,N,,1TC1,A,,P
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,45,V,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,46,L,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,47,I,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,48,S,N,,1TC1,A,E,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,49,V,N,,1TC1,A,E,S
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,50,L,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,51,K,N,,1TC1,A,T,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,52,G,N,,1TC1,A,T,K
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,53,S,N,,1TC1,A,T,G
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,54,F,N,,1TC1,A,T,S
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,55,M,N,,1TC1,A,H,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,56,F,N,,1TC1,A,H,M
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,57,T,N,,1TC1,A,H,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,58,A,N,,1TC1,A,H,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,59,D,N,,1TC1,A,H,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,60,L,N,,1TC1,A,H,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,61,C,N,,1TC1,A,H,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,62,R,N,,1TC1,A,H,C
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,63,A,N,,1TC1,A,H,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,64,L,N,,1TC1,A,H,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,65,C,N,,1TC1,A,H,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,66,D,N,,1TC1,A,H,C
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,67,F,N,,1TC1,A,H,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,68,N,N,,1TC1,A,T,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,69,V,N,,1TC1,A,T,N
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,70,P,N,,1TC1,A,,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,71,V,N,,1TC1,A,,P
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,72,R,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,73,M,N,,1TC1,A,E,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,74,E,N,,1TC1,A,E,M
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,75,F,N,,1TC1,A,E,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,76,I,N,,1TC1,A,E,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,77,C,N,,1TC1,A,E,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,78,V,N,,1TC1,A,E,C
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,79,S,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,80,S,N,,1TC1,A,E,S
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,81,Y,N,,1TC1,A,,S
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,82,G,N,,1TC1,A,,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,83,E,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,84,G,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,85,L,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,86,T,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,87,S,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,88,S,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,89,G,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,90,Q,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,91,V,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,92,R,N,,1TC1,A,,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,93,M,N,,1TC1,A,E,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,94,L,N,,1TC1,A,E,M
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,95,L,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,96,D,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,97,T,N,,1TC1,A,,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,98,R,N,,1TC1,A,,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,99,H,N,,1TC1,A,S,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,100,S,N,,1TC1,A,S,H
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,101,I,N,,1TC1,A,,S
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,102,E,N,,1TC1,A,,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,103,G,N,,1TC1,A,T,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,104,H,N,,1TC1,A,T,G
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,105,H,N,,1TC1,A,S,H
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,106,V,N,,1TC1,A,E,H
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,107,L,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,108,I,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,109,V,N,,1TC1,A,E,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,110,E,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,111,D,N,,1TC1,A,E,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,112,I,N,,1TC1,A,E,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,113,V,N,,1TC1,A,E,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,114,D,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,115,T,N,,1TC1,A,S,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,116,A,N,,1TC1,A,S,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,117,L,N,,1TC1,A,,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,118,T,N,,1TC1,A,H,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,119,L,N,,1TC1,A,H,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,120,N,N,,1TC1,A,H,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,121,Y,N,,1TC1,A,H,N
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,122,L,N,,1TC1,A,H,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,123,Y,N,,1TC1,A,H,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,124,H,N,,1TC1,A,H,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,125,M,N,,1TC1,A,H,H
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,126,Y,N,,1TC1,A,H,M
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,127,F,N,,1TC1,A,H,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,128,T,N,,1TC1,A,H,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,129,R,N,,1TC1,A,T,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,130,R,N,,1TC1,A,T,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,131,P,N,,1TC1,A,,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,132,A,N,,1TC1,A,,P
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,133,S,N,,1TC1,A,S,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,134,L,N,,1TC1,A,E,S
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,135,K,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,136,T,N,,1TC1,A,E,K
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,137,V,N,,1TC1,A,E,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,138,V,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,139,L,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,140,L,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,141,D,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,142,K,N,,1TC1,A,E,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,143,R,N,,1TC1,A,,K
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,144,E,N,,1TC1,A,T,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,145,G,N,,1TC1,A,T,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,146,R,N,,1TC1,A,,G
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,147,R,N,,1TC1,A,,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,148,V,N,,1TC1,A,S,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,149,P,N,,1TC1,A,S,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,150,F,N,,1TC1,A,,P
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,151,S,N,,1TC1,A,,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,152,A,N,,1TC1,A,,S
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,153,D,N,,1TC1,A,,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,154,Y,N,,1TC1,A,S,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,155,V,N,,1TC1,A,E,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,156,V,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,157,A,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,158,N,N,,1TC1,A,E,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,159,I,N,,1TC1,A,E,N
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,160,P,N,,1TC1,A,,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,161,N,N,,1TC1,A,,P
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,162,A,N,,1TC1,A,S,N
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,163,F,N,,1TC1,A,,A
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,164,V,N,,1TC1,A,E,F
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,165,I,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,166,G,N,,1TC1,A,E,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,167,Y,N,,1TC1,A,B,G
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,168,G,N,,1TC1,A,T,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,169,L,N,,1TC1,A,T,G
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,170,D,N,,1TC1,A,B,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,171,Y,N,,1TC1,A,,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,172,D,N,,1TC1,A,B,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,173,D,N,,1TC1,A,T,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,174,T,N,,1TC1,A,T,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,175,Y,N,,1TC1,A,B,T
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,176,R,N,,1TC1,A,S,Y
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,177,E,N,,1TC1,A,T,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,178,L,N,,1TC1,A,T,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,179,R,N,,1TC1,A,,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,180,D,N,,1TC1,A,S,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,181,I,N,,1TC1,A,S,D
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,182,V,N,,1TC1,A,E,I
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,183,V,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,184,L,N,,1TC1,A,E,V
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,185,R,N,,1TC1,A,E,L
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,186,P,N,,1TC1,A,E,R
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,187,E,N,,1TC1,A,,P
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,188,V,N,,1TC1,A,,E
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,189,Y,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,190,A,N,,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,191,E,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,192,R,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,193,E,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,194,A,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,195,A,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,196,R,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,197,Q,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,198,K,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,199,K,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,200,Q,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,201,R,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,202,A,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,203,I,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,204,G,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,205,S,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,206,A,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,207,D,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,208,T,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,209,D,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,210,R,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,211,D,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,212,A,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,213,K,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,214,R,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,215,E,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,216,F,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,217,H,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,218,S,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,219,K,Y,Disordered - Extended,1TC1,A,,
+DP00045,Q27796,Hypoxanthine-guanine phosphoribosyltransferase,220,Y,Y,Disordered - Extended,1TC1,A,,

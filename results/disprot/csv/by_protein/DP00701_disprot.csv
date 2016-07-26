@@ -1,0 +1,89 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00701,O66683,Anti sigma factor FlgM,1,M,N,,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,2,V,N,,1RP3,B,,V
+DP00701,O66683,Anti sigma factor FlgM,3,N,N,,1RP3,B,T,N
+DP00701,O66683,Anti sigma factor FlgM,4,R,N,,1RP3,B,T,R
+DP00701,O66683,Anti sigma factor FlgM,5,I,Y,Disordered w/ Residual Structure,1RP3,B,H,I
+DP00701,O66683,Anti sigma factor FlgM,6,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,7,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,8,S,Y,Disordered w/ Residual Structure,1RP3,B,H,S
+DP00701,O66683,Anti sigma factor FlgM,9,R,Y,Disordered w/ Residual Structure,1RP3,B,H,R
+DP00701,O66683,Anti sigma factor FlgM,10,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,11,I,Y,Disordered w/ Residual Structure,1RP3,B,H,I
+DP00701,O66683,Anti sigma factor FlgM,12,G,Y,Disordered w/ Residual Structure,1RP3,B,H,G
+DP00701,O66683,Anti sigma factor FlgM,13,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,14,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,15,L,Y,Disordered w/ Residual Structure,1RP3,B,T,L
+DP00701,O66683,Anti sigma factor FlgM,16,E,Y,Disordered w/ Residual Structure,1RP3,B,T,E
+DP00701,O66683,Anti sigma factor FlgM,17,T,Y,Disordered w/ Residual Structure,1RP3,B,,T
+DP00701,O66683,Anti sigma factor FlgM,18,E,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,19,K,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,20,R,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,21,K,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,22,N,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,23,T,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,24,E,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,25,Q,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,26,K,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,27,E,Y,Disordered,1RP3,B,,
+DP00701,O66683,Anti sigma factor FlgM,28,S,Y,Disordered,1RP3,B,,S
+DP00701,O66683,Anti sigma factor FlgM,29,G,Y,Disordered,1RP3,B,,G
+DP00701,O66683,Anti sigma factor FlgM,30,T,Y,Disordered,1RP3,B,,T
+DP00701,O66683,Anti sigma factor FlgM,31,N,Y,Disordered w/ Residual Structure,1RP3,B,H,N
+DP00701,O66683,Anti sigma factor FlgM,32,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,33,I,Y,Disordered w/ Residual Structure,1RP3,B,H,I
+DP00701,O66683,Anti sigma factor FlgM,34,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,35,D,Y,Disordered w/ Residual Structure,1RP3,B,H,D
+DP00701,O66683,Anti sigma factor FlgM,36,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,37,V,Y,Disordered w/ Residual Structure,1RP3,B,H,V
+DP00701,O66683,Anti sigma factor FlgM,38,T,Y,Disordered w/ Residual Structure,1RP3,B,H,T
+DP00701,O66683,Anti sigma factor FlgM,39,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,40,S,Y,Disordered w/ Residual Structure,1RP3,B,H,S
+DP00701,O66683,Anti sigma factor FlgM,41,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,42,I,Y,Disordered w/ Residual Structure,1RP3,B,H,I
+DP00701,O66683,Anti sigma factor FlgM,43,A,Y,Disordered w/ Residual Structure,1RP3,B,H,A
+DP00701,O66683,Anti sigma factor FlgM,44,Q,Y,Disordered w/ Residual Structure,1RP3,B,H,Q
+DP00701,O66683,Anti sigma factor FlgM,45,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,46,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,47,S,Y,Disordered,1RP3,B,T,S
+DP00701,O66683,Anti sigma factor FlgM,48,K,Y,Disordered,1RP3,B,T,K
+DP00701,O66683,Anti sigma factor FlgM,49,N,Y,Disordered,1RP3,B,T,N
+DP00701,O66683,Anti sigma factor FlgM,50,D,Y,Disordered,1RP3,B,,D
+DP00701,O66683,Anti sigma factor FlgM,51,V,Y,Disordered,1RP3,B,,V
+DP00701,O66683,Anti sigma factor FlgM,52,E,Y,Disordered,1RP3,B,,E
+DP00701,O66683,Anti sigma factor FlgM,53,E,Y,Disordered,1RP3,B,,E
+DP00701,O66683,Anti sigma factor FlgM,54,K,Y,Disordered,1RP3,B,S,K
+DP00701,O66683,Anti sigma factor FlgM,55,D,Y,Disordered,1RP3,B,S,D
+DP00701,O66683,Anti sigma factor FlgM,56,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,57,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,58,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,59,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,60,V,Y,Disordered w/ Residual Structure,1RP3,B,H,V
+DP00701,O66683,Anti sigma factor FlgM,61,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,62,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,63,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,64,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,65,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,66,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,67,I,Y,Disordered w/ Residual Structure,1RP3,B,H,I
+DP00701,O66683,Anti sigma factor FlgM,68,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,69,K,Y,Disordered,1RP3,B,T,K
+DP00701,O66683,Anti sigma factor FlgM,70,G,Y,Disordered,1RP3,B,T,G
+DP00701,O66683,Anti sigma factor FlgM,71,E,Y,Disordered,1RP3,B,,E
+DP00701,O66683,Anti sigma factor FlgM,72,Y,Y,Disordered,1RP3,B,,Y
+DP00701,O66683,Anti sigma factor FlgM,73,E,Y,Disordered,1RP3,B,,E
+DP00701,O66683,Anti sigma factor FlgM,74,V,Y,Disordered,1RP3,B,,V
+DP00701,O66683,Anti sigma factor FlgM,75,S,Y,Disordered,1RP3,B,,S
+DP00701,O66683,Anti sigma factor FlgM,76,D,Y,Disordered w/ Residual Structure,1RP3,B,H,D
+DP00701,O66683,Anti sigma factor FlgM,77,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,78,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,79,V,Y,Disordered w/ Residual Structure,1RP3,B,H,V
+DP00701,O66683,Anti sigma factor FlgM,80,V,Y,Disordered w/ Residual Structure,1RP3,B,H,V
+DP00701,O66683,Anti sigma factor FlgM,81,K,Y,Disordered w/ Residual Structure,1RP3,B,H,K
+DP00701,O66683,Anti sigma factor FlgM,82,G,Y,Disordered w/ Residual Structure,1RP3,B,H,G
+DP00701,O66683,Anti sigma factor FlgM,83,L,Y,Disordered w/ Residual Structure,1RP3,B,H,L
+DP00701,O66683,Anti sigma factor FlgM,84,I,Y,Disordered w/ Residual Structure,1RP3,B,H,I
+DP00701,O66683,Anti sigma factor FlgM,85,E,Y,Disordered w/ Residual Structure,1RP3,B,H,E
+DP00701,O66683,Anti sigma factor FlgM,86,F,Y,Disordered w/ Residual Structure,1RP3,B,H,F
+DP00701,O66683,Anti sigma factor FlgM,87,F,Y,Disordered w/ Residual Structure,1RP3,B,H,F
+DP00701,O66683,Anti sigma factor FlgM,88,T,N,,1RP3,B,,T

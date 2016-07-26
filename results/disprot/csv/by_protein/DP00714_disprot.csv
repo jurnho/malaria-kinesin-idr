@@ -1,0 +1,89 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00714,Q9BP37,Aragonite protein AP7,1,M,Y,Disordered,2JYP,A,,T
+DP00714,Q9BP37,Aragonite protein AP7,2,T,Y,Disordered,2JYP,A,,R
+DP00714,Q9BP37,Aragonite protein AP7,3,Y,Y,Disordered,2JYP,A,S,H
+DP00714,Q9BP37,Aragonite protein AP7,4,M,Y,Disordered,2JYP,A,S,S
+DP00714,Q9BP37,Aragonite protein AP7,5,C,Y,Disordered,2JYP,A,S,F
+DP00714,Q9BP37,Aragonite protein AP7,6,S,Y,Disordered,2JYP,A,T,R
+DP00714,Q9BP37,Aragonite protein AP7,7,I,Y,Disordered,2JYP,A,T,R
+DP00714,Q9BP37,Aragonite protein AP7,8,L,Y,Disordered,2JYP,A,T,P
+DP00714,Q9BP37,Aragonite protein AP7,9,I,Y,Disordered,2JYP,A,T,F
+DP00714,Q9BP37,Aragonite protein AP7,10,C,Y,Disordered,2JYP,A,T,H
+DP00714,Q9BP37,Aragonite protein AP7,11,L,Y,Disordered,2JYP,A,,E
+DP00714,Q9BP37,Aragonite protein AP7,12,V,Y,Disordered,2JYP,A,,C
+DP00714,Q9BP37,Aragonite protein AP7,13,L,Y,Disordered,2JYP,A,S,A
+DP00714,Q9BP37,Aragonite protein AP7,14,I,Y,Disordered,2JYP,A,S,L
+DP00714,Q9BP37,Aragonite protein AP7,15,L,Y,Disordered,2JYP,A,S,a
+DP00714,Q9BP37,Aragonite protein AP7,16,C,Y,Disordered,2JYP,A,T,Y
+DP00714,Q9BP37,Aragonite protein AP7,17,A,Y,Disordered,2JYP,A,T,S
+DP00714,Q9BP37,Aragonite protein AP7,18,R,Y,Disordered,2JYP,A,T,I
+DP00714,Q9BP37,Aragonite protein AP7,19,G,Y,Disordered,2JYP,A,T,T
+DP00714,Q9BP37,Aragonite protein AP7,20,A,Y,Disordered,2JYP,A,T,D
+DP00714,Q9BP37,Aragonite protein AP7,21,E,Y,Disordered,2JYP,A,T,P
+DP00714,Q9BP37,Aragonite protein AP7,22,A,Y,Disordered,2JYP,A,T,G
+DP00714,Q9BP37,Aragonite protein AP7,23,D,Y,Disordered,2JYP,A,,E
+DP00714,Q9BP37,Aragonite protein AP7,24,D,Y,Disordered,2JYP,A,T,R
+DP00714,Q9BP37,Aragonite protein AP7,25,N,Y,Disordered,2JYP,A,T,Q
+DP00714,Q9BP37,Aragonite protein AP7,26,G,Y,Disordered,2JYP,A,,R
+DP00714,Q9BP37,Aragonite protein AP7,27,N,Y,Disordered,2JYP,A,G,a
+DP00714,Q9BP37,Aragonite protein AP7,28,Y,Y,Disordered,2JYP,A,G,I
+DP00714,Q9BP37,Aragonite protein AP7,29,G,Y,Disordered,2JYP,A,G,D
+DP00714,Q9BP37,Aragonite protein AP7,30,N,Y,Disordered,2JYP,A,T,M
+DP00714,Q9BP37,Aragonite protein AP7,31,G,Y,Disordered,2JYP,A,T,Y
+DP00714,Q9BP37,Aragonite protein AP7,32,M,Y,Disordered,2JYP,A,T,C
+DP00714,Q9BP37,Aragonite protein AP7,33,A,Y,Disordered,2JYP,A,T,S
+DP00714,Q9BP37,Aragonite protein AP7,34,S,Y,Disordered,2JYP,A,S,Y
+DP00714,Q9BP37,Aragonite protein AP7,35,V,Y,Disordered,2JYP,A,,T
+DP00714,Q9BP37,Aragonite protein AP7,36,R,Y,Disordered,2JYP,A,,N
+DP00714,Q9BP37,Aragonite protein AP7,37,T,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,38,Q,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,39,G,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,40,N,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,41,T,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,42,Y,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,43,D,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,44,D,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,45,L,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,46,A,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,47,S,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,48,L,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,49,I,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,50,S,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,51,Y,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,52,L,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,53,T,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,54,R,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,55,H,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,56,S,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,57,F,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,58,R,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,59,R,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,60,P,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,61,F,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,62,H,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,63,E,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,64,C,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,65,A,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,66,L,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,67,C,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,68,Y,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,69,S,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,70,I,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,71,T,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,72,D,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,73,P,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,74,G,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,75,E,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,76,R,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,77,Q,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,78,R,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,79,C,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,80,I,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,81,D,Y,Disordered,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,82,M,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,83,Y,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,84,C,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,85,S,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,86,Y,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,87,T,Y,Disordered w/ Residual Structure,2JYP,A,,
+DP00714,Q9BP37,Aragonite protein AP7,88,N,Y,Disordered w/ Residual Structure,2JYP,A,,

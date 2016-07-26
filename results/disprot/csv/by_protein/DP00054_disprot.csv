@@ -1,0 +1,417 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,1,M,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,2,S,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,3,S,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,4,N,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,5,C,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,6,T,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,7,S,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,8,T,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,9,T,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,10,A,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,11,V,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,12,A,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,13,V,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,14,A,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,15,P,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,16,L,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,17,S,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,18,A,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,19,S,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,20,K,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,21,T,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,22,K,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,23,T,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,24,K,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,25,K,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,26,K,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,27,H,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,28,F,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,29,V,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,30,C,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,31,Q,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,32,K,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,33,V,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,34,K,N,,1BO1,A,,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,35,L,N,,1BO1,A,,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,36,F,N,,1BO1,A,,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,37,R,N,,1BO1,A,,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,38,A,N,,1BO1,A,,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,39,S,N,,1BO1,A,S,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,40,E,N,,1BO1,A,S,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,41,P,N,,1BO1,A,H,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,42,I,N,,1BO1,A,H,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,43,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,44,S,N,,1BO1,A,H,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,45,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,46,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,47,M,N,,1BO1,A,H,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,48,W,N,,1BO1,A,H,W
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,49,G,N,,1BO1,A,H,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,50,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,51,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,52,H,N,,1BO1,A,H,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,53,T,N,,1BO1,A,H,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,54,I,N,,1BO1,A,H,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,55,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,56,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,57,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,58,S,N,,1BO1,A,T,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,59,N,N,,1BO1,A,T,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,60,V,N,,1BO1,A,S,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,61,P,N,,1BO1,A,,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,62,V,N,,1BO1,A,,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,63,P,N,,1BO1,A,,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,64,V,N,,1BO1,A,S,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,65,M,N,,1BO1,A,S,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,66,L,N,,1BO1,A,,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,67,M,N,,1BO1,A,,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,68,P,N,,1BO1,A,G,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,69,D,N,,1BO1,A,G,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,70,D,N,,1BO1,A,G,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,71,F,N,,1BO1,A,G,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,72,K,N,,1BO1,A,T,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,73,A,N,,1BO1,A,,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,74,Y,N,,1BO1,A,E,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,75,S,N,,1BO1,A,E,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,76,K,N,,1BO1,A,E,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,77,I,N,,1BO1,A,E,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,78,K,N,,1BO1,A,E,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,79,V,N,,1BO1,A,E,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,80,D,N,,1BO1,A,E,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,81,N,N,,1BO1,A,,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,82,H,N,,1BO1,A,B,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,83,L,N,,1BO1,A,S,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,84,F,N,,1BO1,A,S,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,85,N,N,,1BO1,A,S,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,86,K,N,,1BO1,A,,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,87,E,N,,1BO1,A,S,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,88,N,N,,1BO1,A,S,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,89,L,N,,1BO1,A,S,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,90,P,N,,1BO1,A,,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,91,S,N,,1BO1,A,S,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,92,R,N,,1BO1,A,E,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,93,F,N,,1BO1,A,E,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,94,K,N,,1BO1,A,E,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,95,F,N,,1BO1,A,E,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,96,K,N,,1BO1,A,E,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,97,E,N,,1BO1,A,E,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,98,Y,N,,1BO1,A,E,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,99,C,N,,1BO1,A,,C
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,100,P,N,,1BO1,A,H,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,101,M,N,,1BO1,A,H,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,102,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,103,F,N,,1BO1,A,H,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,104,R,N,,1BO1,A,H,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,105,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,106,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,107,R,N,,1BO1,A,H,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,108,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,109,R,N,,1BO1,A,H,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,110,F,N,,1BO1,A,T,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,111,G,N,,1BO1,A,T,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,112,I,N,,1BO1,A,,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,113,D,N,,1BO1,A,,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,114,D,N,,1BO1,A,H,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,115,Q,N,,1BO1,A,H,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,116,D,N,,1BO1,A,H,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,117,Y,N,,1BO1,A,H,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,118,Q,N,,1BO1,A,H,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,119,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,120,S,N,,1BO1,A,H,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,121,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,122,T,N,,1BO1,A,H,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,123,R,N,,1BO1,A,S,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,124,S,N,,1BO1,A,S,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,125,A,N,,1BO1,A,,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,126,P,N,,1BO1,A,,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,127,I,N,,1BO1,A,E,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,128,N,N,,1BO1,A,E,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,129,S,N,,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,130,D,Y,Disordered - Extended,1BO1,A,,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,131,S,Y,Disordered - Extended,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,132,Q,Y,Disordered - Extended,1BO1,A,,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,133,G,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,134,R,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,135,C,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,136,G,Y,Disordered - Extended,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,137,T,Y,Disordered - Extended,1BO1,A,,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,138,R,N,,1BO1,A,,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,139,F,N,,1BO1,A,E,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,140,L,N,,1BO1,A,E,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,141,T,N,,1BO1,A,E,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,142,T,N,,1BO1,A,,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,143,Y,N,,1BO1,A,T,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,144,D,N,,1BO1,A,T,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,145,R,N,,1BO1,A,S,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,146,R,N,,1BO1,A,S,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,147,F,N,,1BO1,A,E,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,148,V,N,,1BO1,A,E,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,149,I,N,,1BO1,A,E,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,150,K,N,,1BO1,A,E,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,151,T,N,,1BO1,A,,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,152,V,N,,1BO1,A,,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,153,S,N,,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,154,S,N,,1BO1,A,H,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,155,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,156,D,N,,1BO1,A,H,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,157,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,158,A,N,,1BO1,A,H,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,159,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,160,M,N,,1BO1,A,H,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,161,H,N,,1BO1,A,H,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,162,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,163,I,N,,1BO1,A,H,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,164,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,165,K,N,,1BO1,A,H,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,166,K,N,,1BO1,A,H,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,167,Y,N,,1BO1,A,H,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,168,H,N,,1BO1,A,H,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,169,Q,N,,1BO1,A,H,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,170,F,N,,1BO1,A,H,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,171,I,N,,1BO1,A,H,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,172,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,173,E,N,,1BO1,A,T,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,174,C,N,,1BO1,A,T,C
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,175,H,N,,1BO1,A,T,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,176,G,N,,1BO1,A,T,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,177,N,N,,1BO1,A,,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,178,T,N,,1BO1,A,,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,179,L,N,,1BO1,A,S,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,180,L,N,,1BO1,A,S,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,181,P,N,,1BO1,A,,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,182,Q,N,,1BO1,A,,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,183,F,N,,1BO1,A,E,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,184,L,N,,1BO1,A,E,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,185,G,N,,1BO1,A,E,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,186,M,N,,1BO1,A,E,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,187,Y,N,,1BO1,A,E,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,188,R,N,,1BO1,A,E,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,189,L,N,,1BO1,A,E,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,190,T,N,,1BO1,A,E,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,191,V,N,,1BO1,A,E,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,192,D,N,,1BO1,A,T,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,193,G,N,,1BO1,A,T,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,194,V,N,,1BO1,A,E,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,195,E,N,,1BO1,A,E,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,196,T,N,,1BO1,A,E,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,197,Y,N,,1BO1,A,E,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,198,M,N,,1BO1,A,E,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,199,V,N,,1BO1,A,E,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,200,V,N,,1BO1,A,E,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,201,T,N,,1BO1,A,E,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,202,R,N,,1BO1,A,E,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,203,N,N,,1BO1,A,,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,204,V,N,,1BO1,A,S,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,205,F,N,,1BO1,A,S,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,206,S,N,,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,207,H,N,,1BO1,A,S,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,208,R,N,,1BO1,A,S,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,209,L,N,,1BO1,A,S,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,210,T,N,,1BO1,A,,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,211,V,N,,1BO1,A,,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,212,H,N,,1BO1,A,S,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,213,R,N,,1BO1,A,E,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,214,K,N,,1BO1,A,E,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,215,Y,N,,1BO1,A,E,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,216,D,N,,1BO1,A,E,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,217,L,N,,1BO1,A,E,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,218,K,N,,1BO1,A,,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,219,G,N,,1BO1,A,,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,220,S,N,,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,221,T,N,,1BO1,A,S,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,222,V,N,,1BO1,A,S,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,223,A,N,,1BO1,A,S,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,224,R,N,,1BO1,A,S,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,225,E,N,,1BO1,A,,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,226,A,N,,1BO1,A,S,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,227,S,N,,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,228,D,N,,1BO1,A,S,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,229,K,N,,1BO1,A,G,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,230,E,N,,1BO1,A,G,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,231,K,N,,1BO1,A,G,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,232,A,N,,1BO1,A,S,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,233,K,N,,1BO1,A,S,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,234,D,N,,1BO1,A,S,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,235,L,N,,1BO1,A,,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,236,P,N,,1BO1,A,,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,237,T,N,,1BO1,A,E,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,238,F,N,,1BO1,A,E,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,239,K,N,,1BO1,A,,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,240,D,N,,1BO1,A,H,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,241,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,242,D,N,,1BO1,A,H,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,243,F,N,,1BO1,A,H,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,244,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,245,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,246,E,N,,1BO1,A,T,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,247,G,N,,1BO1,A,T,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,248,Q,N,,1BO1,A,,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,249,K,N,,1BO1,A,,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,250,L,N,,1BO1,A,,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,251,H,N,,1BO1,A,,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,252,V,N,,1BO1,A,,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,253,G,N,,1BO1,A,,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,254,E,N,,1BO1,A,S,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,255,E,N,,1BO1,A,S,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,256,S,N,,1BO1,A,H,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,257,K,N,,1BO1,A,H,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,258,K,N,,1BO1,A,H,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,259,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,260,F,N,,1BO1,A,H,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,261,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,262,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,263,K,N,,1BO1,A,H,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,264,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,265,K,N,,1BO1,A,H,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,266,R,N,,1BO1,A,H,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,267,D,N,,1BO1,A,H,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,268,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,269,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,270,F,N,,1BO1,A,H,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,271,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,272,A,N,,1BO1,A,H,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,273,Q,N,,1BO1,A,H,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,274,L,N,,1BO1,A,H,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,275,K,N,,1BO1,A,T,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,276,I,N,,1BO1,A,,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,277,M,N,,1BO1,A,,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,278,D,N,,1BO1,A,S,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,279,Y,N,,1BO1,A,,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,280,S,N,,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,281,L,N,,1BO1,A,E,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,282,L,N,,1BO1,A,E,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,283,V,N,,1BO1,A,E,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,284,G,N,,1BO1,A,E,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,285,I,N,,1BO1,A,E,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,286,H,N,,1BO1,A,E,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,287,D,N,,1BO1,A,E,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,288,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,289,D,N,,1BO1,A,H,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,290,R,N,,1BO1,A,H,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,291,A,N,,1BO1,A,H,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,292,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,293,Q,N,,1BO1,A,H,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,294,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,295,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,296,M,N,,1BO1,A,H,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,297,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,298,V,N,,1BO1,A,H,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,299,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,300,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,301,R,N,,1BO1,A,H,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,302,A,N,,1BO1,A,T,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,303,E,N,,1BO1,A,T,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,304,D,N,,1BO1,A,T,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,305,E,N,,1BO1,A,T,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,306,E,N,,1BO1,A,,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,307,C,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,308,E,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,309,N,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,310,D,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,311,G,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,312,V,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,313,G,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,314,G,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,315,N,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,316,L,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,317,L,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,318,C,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,319,S,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,320,Y,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,321,G,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,322,T,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,323,P,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,324,P,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,325,D,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,326,S,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,327,P,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,328,G,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,329,N,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,330,L,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,331,L,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,332,S,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,333,F,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,334,P,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,335,R,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,336,F,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,337,F,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,338,G,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,339,P,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,340,G,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,341,E,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,342,F,N,,1BO1,A,,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,343,D,N,,1BO1,A,,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,344,P,N,,1BO1,A,S,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,345,S,N,,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,346,V,N,,1BO1,A,,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,347,D,N,,1BO1,A,T,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,348,V,N,,1BO1,A,T,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,349,Y,N,,1BO1,A,T,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,350,A,N,,1BO1,A,S,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,351,M,N,,1BO1,A,T,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,352,K,N,,1BO1,A,T,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,353,S,N,,1BO1,A,E,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,354,H,N,,1BO1,A,E,H
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,355,E,N,,1BO1,A,E,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,356,S,N,,1BO1,A,,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,357,S,N,,1BO1,A,S,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,358,P,N,,1BO1,A,S,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,359,K,N,,1BO1,A,T,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,360,K,N,,1BO1,A,T,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,361,E,N,,1BO1,A,E,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,362,V,N,,1BO1,A,E,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,363,Y,N,,1BO1,A,E,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,364,F,N,,1BO1,A,E,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,365,M,N,,1BO1,A,E,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,366,A,N,,1BO1,A,E,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,367,I,N,,1BO1,A,E,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,368,I,N,,1BO1,A,,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,369,D,N,,1BO1,A,,D
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,370,I,N,,1BO1,A,S,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,371,L,N,,1BO1,A,,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,372,T,N,,1BO1,A,,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,373,P,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,374,Y,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,375,D,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,376,T,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,377,K,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,378,K,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,379,K,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,380,A,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,381,A,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,382,H,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,383,A,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,384,A,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,385,K,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,386,T,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,387,V,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,388,K,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,389,H,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,390,G,Y,Disordered,1BO1,A,,
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,391,A,N,,1BO1,A,,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,392,G,N,,1BO1,A,,G
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,393,A,N,,1BO1,A,,A
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,394,E,N,,1BO1,A,S,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,395,I,N,,1BO1,A,S,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,396,S,N,,1BO1,A,S,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,397,T,N,,1BO1,A,,T
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,398,V,N,,1BO1,A,,V
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,399,N,N,,1BO1,A,,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,400,P,N,,1BO1,A,H,P
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,401,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,402,Q,N,,1BO1,A,H,Q
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,403,Y,N,,1BO1,A,H,Y
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,404,S,N,,1BO1,A,H,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,405,K,N,,1BO1,A,H,K
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,406,R,N,,1BO1,A,H,R
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,407,F,N,,1BO1,A,H,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,408,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,409,E,N,,1BO1,A,H,E
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,410,F,N,,1BO1,A,H,F
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,411,M,N,,1BO1,A,H,M
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,412,S,N,,1BO1,A,H,S
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,413,N,N,,1BO1,A,H,N
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,414,I,N,,1BO1,A,H,I
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,415,L,N,,1BO1,A,,L
+DP00054,P78356,Phosphatidylinositol-4-phosphate 5-kinase type II beta,416,T,N,,1BO1,A,,T

@@ -1,0 +1,411 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,1,M,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,2,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,3,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,4,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,5,N,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,6,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,7,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,8,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,9,Y,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,10,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,11,L,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,12,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,13,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,14,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,15,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,16,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,17,F,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,18,Y,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,19,T,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,20,F,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,21,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,22,F,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,23,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,24,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,25,L,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,26,M,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,27,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,28,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,29,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,30,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,31,N,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,32,M,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,33,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,34,V,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,35,V,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,36,N,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,37,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,38,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,39,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,40,M,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,41,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,42,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,43,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,44,V,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,45,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,46,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,47,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,48,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,49,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,50,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,51,Q,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,52,E,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,53,P,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,54,V,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,55,Q,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,56,E,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,57,A,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,58,P,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,59,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,60,G,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,61,R,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,62,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,63,R,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,64,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,65,P,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,66,R,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,67,T,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,68,T,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,69,E,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,70,P,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,71,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,72,Q,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,73,P,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,74,V,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,75,E,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,76,P,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,77,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,78,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,79,P,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,80,V,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,81,E,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,82,S,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,83,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,84,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,85,S,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,86,G,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,87,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,88,S,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,89,A,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,90,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,91,S,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,92,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,93,E,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,94,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,95,Q,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,96,E,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,97,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,98,I,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,99,T,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,100,D,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,101,T,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,102,F,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,103,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,104,V,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,105,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,106,R,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,107,K,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,108,V,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,109,D,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,110,R,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,111,F,Y,Disordered w/ Residual Structure,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,112,N,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,113,G,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,114,V,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,115,S,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,116,E,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,117,A,N,,1WYW,A,,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,118,E,N,,1WYW,A,,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,119,L,N,,1WYW,A,G,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,120,L,N,,1WYW,A,G,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,121,T,N,,1WYW,A,G,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,122,K,N,,1WYW,A,,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,123,T,N,,1WYW,A,,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,124,L,N,,1WYW,A,,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,125,P,N,,1WYW,A,,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,126,D,N,,1WYW,A,,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,127,I,N,,1WYW,A,B,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,128,L,N,,1WYW,A,,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,129,T,N,,1WYW,A,,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,130,F,N,,1WYW,A,S,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,131,N,N,,1WYW,A,S,N
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,132,L,N,,1WYW,A,,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,133,D,N,,1WYW,A,S,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,134,I,N,,1WYW,A,E,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,135,V,N,,1WYW,A,E,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,136,I,N,,1WYW,A,E,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,137,I,N,,1WYW,A,E,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,138,G,N,,1WYW,A,E,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,139,I,N,,1WYW,A,S,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,140,N,N,,1WYW,A,S,N
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,141,P,N,,1WYW,A,,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,142,G,N,,1WYW,A,,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,143,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,144,M,N,,1WYW,A,H,M
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,145,A,N,,1WYW,A,H,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,146,A,N,,1WYW,A,H,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,147,Y,N,,1WYW,A,H,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,148,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,149,G,N,,1WYW,A,T,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,150,H,N,,1WYW,A,S,H
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,151,H,N,,1WYW,A,S,H
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,152,Y,N,,1WYW,A,S,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,153,P,N,,1WYW,A,,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,154,G,N,,1WYW,A,S,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,155,P,N,,1WYW,A,S,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,156,G,N,,1WYW,A,S,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,157,N,N,,1WYW,A,B,N
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,158,H,N,,1WYW,A,,H
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,159,F,N,,1WYW,A,H,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,160,W,N,,1WYW,A,H,W
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,161,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,162,C,N,,1WYW,A,H,C
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,163,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,164,F,N,,1WYW,A,H,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,165,M,N,,1WYW,A,H,M
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,166,S,N,,1WYW,A,T,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,167,G,N,,1WYW,A,T,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,168,L,N,,1WYW,A,S,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,169,S,N,,1WYW,A,S,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,170,E,N,,1WYW,A,S,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,171,V,N,,1WYW,A,S,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,172,Q,N,,1WYW,A,,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,173,L,N,,1WYW,A,,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,174,N,N,,1WYW,A,,N
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,175,H,N,,1WYW,A,G,H
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,176,M,N,,1WYW,A,G,M
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,177,D,N,,1WYW,A,G,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,178,D,N,,1WYW,A,G,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,179,H,N,,1WYW,A,G,H
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,180,T,N,,1WYW,A,G,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,181,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,182,P,N,,1WYW,A,H,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,183,G,N,,1WYW,A,H,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,184,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,185,Y,N,,1WYW,A,H,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,186,G,N,,1WYW,A,S,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,187,I,N,,1WYW,A,E,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,188,G,N,,1WYW,A,E,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,189,F,N,,1WYW,A,E,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,190,T,N,,1WYW,A,E,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,191,N,N,,1WYW,A,E,N
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,192,M,N,,1WYW,A,S,M
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,193,V,N,,1WYW,A,,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,194,E,N,,1WYW,A,,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,195,R,N,,1WYW,A,S,R
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,196,T,N,,1WYW,A,,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,197,T,N,,1WYW,A,,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,198,P,N,,1WYW,A,S,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,199,G,N,,1WYW,A,,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,200,S,N,,1WYW,A,G,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,201,K,N,,1WYW,A,G,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,202,D,N,,1WYW,A,G,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,203,L,N,,1WYW,A,,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,204,S,N,,1WYW,A,,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,205,S,N,,1WYW,A,H,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,206,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,207,E,N,,1WYW,A,H,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,208,F,N,,1WYW,A,H,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,209,R,N,,1WYW,A,H,R
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,210,E,N,,1WYW,A,H,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,211,G,N,,1WYW,A,H,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,212,G,N,,1WYW,A,H,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,213,R,N,,1WYW,A,H,R
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,214,I,N,,1WYW,A,H,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,215,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,216,V,N,,1WYW,A,H,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,217,Q,N,,1WYW,A,H,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,218,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,219,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,220,Q,N,,1WYW,A,H,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,221,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,222,Y,N,,1WYW,A,H,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,223,Q,N,,1WYW,A,,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,224,P,N,,1WYW,A,,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,225,R,N,,1WYW,A,S,R
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,226,I,N,,1WYW,A,E,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,227,A,N,,1WYW,A,E,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,228,V,N,,1WYW,A,E,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,229,F,N,,1WYW,A,E,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,230,N,N,,1WYW,A,E,N
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,231,G,N,,1WYW,A,S,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,232,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,233,C,N,,1WYW,A,H,C
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,234,I,N,,1WYW,A,H,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,235,Y,N,,1WYW,A,H,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,236,E,N,,1WYW,A,H,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,237,I,N,,1WYW,A,H,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,238,F,N,,1WYW,A,H,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,239,S,N,,1WYW,A,I,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,240,K,N,,1WYW,A,I,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,241,E,N,,1WYW,A,I,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,242,V,N,,1WYW,A,I,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,243,F,N,,1WYW,A,I,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,244,G,N,,1WYW,A,,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,245,V,N,,1WYW,A,,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,246,K,N,,1WYW,A,,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,247,V,N,,1WYW,A,,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,248,K,N,,1WYW,A,S,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,249,N,N,,1WYW,A,S,N
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,250,L,N,,1WYW,A,,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,251,E,N,,1WYW,A,,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,252,F,N,,1WYW,A,S,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,253,G,N,,1WYW,A,E,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,254,L,N,,1WYW,A,E,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,255,Q,N,,1WYW,A,,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,256,P,N,,1WYW,A,S,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,257,H,N,,1WYW,A,,H
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,258,K,N,,1WYW,A,,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,259,I,N,,1WYW,A,S,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,260,P,N,,1WYW,A,T,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,261,D,N,,1WYW,A,T,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,262,T,N,,1WYW,A,S,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,263,E,N,,1WYW,A,,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,264,T,N,,1WYW,A,,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,265,L,N,,1WYW,A,E,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,266,C,N,,1WYW,A,E,C
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,267,Y,N,,1WYW,A,E,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,268,V,N,,1WYW,A,E,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,269,M,N,,1WYW,A,E,M
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,270,P,N,,1WYW,A,,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,271,S,N,,1WYW,A,,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,272,S,N,,1WYW,A,,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,273,S,N,,1WYW,A,B,S
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,274,A,N,,1WYW,A,T,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,275,R,N,,1WYW,A,T,R
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,276,C,N,,1WYW,A,,C
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,277,A,N,,1WYW,A,S,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,278,Q,N,,1WYW,A,S,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,279,F,N,,1WYW,A,,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,280,P,N,,1WYW,A,,P
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,281,R,N,,1WYW,A,S,R
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,282,A,N,,1WYW,A,G,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,283,Q,N,,1WYW,A,G,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,284,D,N,,1WYW,A,G,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,285,K,N,,1WYW,A,T,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,286,V,N,,1WYW,A,H,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,287,H,N,,1WYW,A,H,H
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,288,Y,N,,1WYW,A,H,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,289,Y,N,,1WYW,A,H,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,290,I,N,,1WYW,A,H,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,291,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,292,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,293,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,294,D,N,,1WYW,A,H,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,295,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,296,R,N,,1WYW,A,H,R
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,297,D,N,,1WYW,A,H,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,298,Q,N,,1WYW,A,H,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,299,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,300,K,N,,1WYW,A,T,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,301,G,N,,1WYW,A,T,G
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,302,I,N,,1WYW,A,,I
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,303,E,N,,1WYW,A,,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,304,R,N,,1WYW,A,,R
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,305,N,N,,1WYW,A,,N
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,306,M,N,,1WYW,A,T,M
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,307,D,N,,1WYW,A,T,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,308,V,N,,1WYW,A,E,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,309,Q,N,,1WYW,A,E,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,310,E,N,,1WYW,A,E,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,311,V,N,,1WYW,A,E,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,312,Q,N,,1WYW,A,E,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,313,Y,N,,1WYW,A,E,Y
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,314,T,N,,1WYW,A,E,T
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,315,F,N,,1WYW,A,,F
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,316,D,N,,1WYW,A,,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,317,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,318,Q,N,,1WYW,A,H,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,319,L,N,,1WYW,A,H,L
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,320,A,N,,1WYW,A,H,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,321,Q,N,,1WYW,A,H,Q
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,322,E,N,,1WYW,A,H,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,323,D,N,,1WYW,A,H,D
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,324,A,N,,1WYW,A,H,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,325,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,326,K,N,,1WYW,A,H,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,327,M,N,,1WYW,A,H,M
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,328,A,N,,1WYW,A,H,A
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,329,V,N,,1WYW,A,H,V
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,330,K,N,,1WYW,A,S,K
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,331,E,N,,1WYW,A,,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,332,E,N,,1WYW,A,,E
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,333,K,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,334,Y,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,335,D,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,336,P,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,337,G,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,338,Y,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,339,E,N,,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,340,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,341,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,342,Y,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,343,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,344,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,345,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,346,Y,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,347,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,348,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,349,N,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,350,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,351,C,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,352,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,353,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,354,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,355,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,356,C,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,357,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,358,F,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,359,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,360,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,361,N,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,362,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,363,L,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,364,I,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,365,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,366,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,367,V,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,368,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,369,L,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,370,R,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,371,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,372,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,373,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,374,A,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,375,F,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,376,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,377,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,378,I,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,379,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,380,N,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,381,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,382,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,383,W,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,384,M,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,385,T,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,386,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,387,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,388,F,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,389,T,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,390,D,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,391,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,392,I,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,393,P,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,394,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,395,F,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,396,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,397,N,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,398,H,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,399,C,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,400,G,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,401,T,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,402,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,403,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,404,Q,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,405,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,406,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,407,E,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,408,S,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,409,H,Y,Disordered,1WYW,A,,
+DP00719,Q13569,G/T mismatch-specific thymine DNA glycosylase,410,A,Y,Disordered,1WYW,A,,

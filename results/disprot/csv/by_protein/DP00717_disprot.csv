@@ -1,0 +1,236 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00717,P35521,Methylosome subunit pICln,1,M,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,2,S,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,3,F,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,4,L,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,5,K,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,6,S,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,7,F,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,8,P,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,9,P,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,10,P,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,11,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,12,S,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,13,A,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,14,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,15,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,16,L,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,17,R,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,18,Q,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,19,Q,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,20,Q,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,21,P,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,22,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,23,T,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,24,E,N,,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,25,A,N,,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,26,V,N,,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,27,L,N,,1ZYI,A,,Q
+DP00717,P35521,Methylosome subunit pICln,28,N,Y,Disordered,1ZYI,A,B,Q
+DP00717,P35521,Methylosome subunit pICln,29,G,Y,Disordered,1ZYI,A,,Q
+DP00717,P35521,Methylosome subunit pICln,30,K,Y,Disordered,1ZYI,A,S,P
+DP00717,P35521,Methylosome subunit pICln,31,G,Y,Disordered,1ZYI,A,S,E
+DP00717,P35521,Methylosome subunit pICln,32,L,Y,Disordered,1ZYI,A,E,T
+DP00717,P35521,Methylosome subunit pICln,33,G,Y,Disordered,1ZYI,A,E,E
+DP00717,P35521,Methylosome subunit pICln,34,T,Y,Disordered,1ZYI,A,E,A
+DP00717,P35521,Methylosome subunit pICln,35,G,N,,1ZYI,A,E,V
+DP00717,P35521,Methylosome subunit pICln,36,T,N,,1ZYI,A,B,L
+DP00717,P35521,Methylosome subunit pICln,37,L,N,,1ZYI,A,T,N
+DP00717,P35521,Methylosome subunit pICln,38,Y,N,,1ZYI,A,T,G
+DP00717,P35521,Methylosome subunit pICln,39,I,N,,1ZYI,A,B,K
+DP00717,P35521,Methylosome subunit pICln,40,A,N,,1ZYI,A,,G
+DP00717,P35521,Methylosome subunit pICln,41,E,Y,Disordered,1ZYI,A,,L
+DP00717,P35521,Methylosome subunit pICln,42,S,Y,Disordered,1ZYI,A,,G
+DP00717,P35521,Methylosome subunit pICln,43,R,Y,Disordered,1ZYI,A,E,T
+DP00717,P35521,Methylosome subunit pICln,44,L,N,,1ZYI,A,E,G
+DP00717,P35521,Methylosome subunit pICln,45,S,N,,1ZYI,A,E,T
+DP00717,P35521,Methylosome subunit pICln,46,W,N,,1ZYI,A,E,L
+DP00717,P35521,Methylosome subunit pICln,47,L,N,,1ZYI,A,E,Y
+DP00717,P35521,Methylosome subunit pICln,48,D,Y,Disordered,1ZYI,A,E,I
+DP00717,P35521,Methylosome subunit pICln,49,G,Y,Disordered,1ZYI,A,E,A
+DP00717,P35521,Methylosome subunit pICln,50,S,Y,Disordered,1ZYI,A,T,E
+DP00717,P35521,Methylosome subunit pICln,51,G,Y,Disordered,1ZYI,A,T,S
+DP00717,P35521,Methylosome subunit pICln,52,L,Y,Disordered,1ZYI,A,E,R
+DP00717,P35521,Methylosome subunit pICln,53,G,N,,1ZYI,A,E,L
+DP00717,P35521,Methylosome subunit pICln,54,F,N,,1ZYI,A,E,S
+DP00717,P35521,Methylosome subunit pICln,55,S,N,,1ZYI,A,E,W
+DP00717,P35521,Methylosome subunit pICln,56,L,Y,Disordered,1ZYI,A,E,L
+DP00717,P35521,Methylosome subunit pICln,57,E,Y,Disordered,1ZYI,A,E,D
+DP00717,P35521,Methylosome subunit pICln,58,Y,Y,Disordered,1ZYI,A,T,G
+DP00717,P35521,Methylosome subunit pICln,59,P,Y,Disordered,1ZYI,A,T,S
+DP00717,P35521,Methylosome subunit pICln,60,T,Y,Disordered,1ZYI,A,T,G
+DP00717,P35521,Methylosome subunit pICln,61,I,Y,Disordered,1ZYI,A,E,L
+DP00717,P35521,Methylosome subunit pICln,62,S,Y,Disordered,1ZYI,A,E,G
+DP00717,P35521,Methylosome subunit pICln,63,L,N,,1ZYI,A,E,F
+DP00717,P35521,Methylosome subunit pICln,64,H,N,,1ZYI,A,E,S
+DP00717,P35521,Methylosome subunit pICln,65,A,N,,1ZYI,A,E,L
+DP00717,P35521,Methylosome subunit pICln,66,V,Y,Disordered,1ZYI,A,S,E
+DP00717,P35521,Methylosome subunit pICln,67,S,Y,Disordered,1ZYI,A,S,Y
+DP00717,P35521,Methylosome subunit pICln,68,R,Y,Disordered,1ZYI,A,,P
+DP00717,P35521,Methylosome subunit pICln,69,D,Y,Disordered,1ZYI,A,,T
+DP00717,P35521,Methylosome subunit pICln,70,L,Y,Disordered,1ZYI,A,,I
+DP00717,P35521,Methylosome subunit pICln,71,N,Y,Disordered,1ZYI,A,S,S
+DP00717,P35521,Methylosome subunit pICln,72,A,Y,Disordered,1ZYI,A,E,L
+DP00717,P35521,Methylosome subunit pICln,73,Y,Y,Disordered,1ZYI,A,E,H
+DP00717,P35521,Methylosome subunit pICln,74,P,Y,Disordered,1ZYI,A,E,A
+DP00717,P35521,Methylosome subunit pICln,75,R,Y,Disordered,1ZYI,A,,V
+DP00717,P35521,Methylosome subunit pICln,76,E,Y,Disordered,1ZYI,A,,S
+DP00717,P35521,Methylosome subunit pICln,77,H,N,,1ZYI,A,S,R
+DP00717,P35521,Methylosome subunit pICln,78,L,N,,1ZYI,A,S,D
+DP00717,P35521,Methylosome subunit pICln,79,Y,N,,1ZYI,A,,L
+DP00717,P35521,Methylosome subunit pICln,80,V,N,,1ZYI,A,S,N
+DP00717,P35521,Methylosome subunit pICln,81,M,N,,1ZYI,A,S,A
+DP00717,P35521,Methylosome subunit pICln,82,V,N,,1ZYI,A,,Y
+DP00717,P35521,Methylosome subunit pICln,83,N,N,,1ZYI,A,,P
+DP00717,P35521,Methylosome subunit pICln,84,A,Y,Disordered,1ZYI,A,S,R
+DP00717,P35521,Methylosome subunit pICln,85,K,Y,Disordered,1ZYI,A,,E
+DP00717,P35521,Methylosome subunit pICln,86,F,Y,Disordered,1ZYI,A,,H
+DP00717,P35521,Methylosome subunit pICln,87,G,Y,Disordered,1ZYI,A,E,L
+DP00717,P35521,Methylosome subunit pICln,88,E,Y,Disordered,1ZYI,A,E,Y
+DP00717,P35521,Methylosome subunit pICln,89,E,Y,Disordered,1ZYI,A,E,V
+DP00717,P35521,Methylosome subunit pICln,90,S,Y,Disordered,1ZYI,A,E,M
+DP00717,P35521,Methylosome subunit pICln,91,K,Y,Disordered,1ZYI,A,E,V
+DP00717,P35521,Methylosome subunit pICln,92,E,Y,Disordered,1ZYI,A,E,N
+DP00717,P35521,Methylosome subunit pICln,93,S,Y,Disordered,1ZYI,A,,A
+DP00717,P35521,Methylosome subunit pICln,94,V,Y,Disordered,1ZYI,A,,K
+DP00717,P35521,Methylosome subunit pICln,95,A,Y,Disordered,1ZYI,A,,F
+DP00717,P35521,Methylosome subunit pICln,96,E,Y,Disordered,1ZYI,A,,G
+DP00717,P35521,Methylosome subunit pICln,97,E,Y,Disordered,1ZYI,A,S,E
+DP00717,P35521,Methylosome subunit pICln,98,E,Y,Disordered,1ZYI,A,S,E
+DP00717,P35521,Methylosome subunit pICln,99,D,Y,Disordered,1ZYI,A,,S
+DP00717,P35521,Methylosome subunit pICln,100,S,Y,Disordered,1ZYI,A,S,K
+DP00717,P35521,Methylosome subunit pICln,101,D,Y,Disordered,1ZYI,A,S,E
+DP00717,P35521,Methylosome subunit pICln,102,D,Y,Disordered,1ZYI,A,S,S
+DP00717,P35521,Methylosome subunit pICln,103,D,Y,Disordered,1ZYI,A,,V
+DP00717,P35521,Methylosome subunit pICln,104,V,Y,Disordered,1ZYI,A,,A
+DP00717,P35521,Methylosome subunit pICln,105,E,Y,Disordered,1ZYI,A,,E
+DP00717,P35521,Methylosome subunit pICln,106,P,Y,Disordered,1ZYI,A,S,E
+DP00717,P35521,Methylosome subunit pICln,107,I,N,,1ZYI,A,,E
+DP00717,P35521,Methylosome subunit pICln,108,A,N,,1ZYI,A,,D
+DP00717,P35521,Methylosome subunit pICln,109,E,N,,1ZYI,A,S,S
+DP00717,P35521,Methylosome subunit pICln,110,F,N,,1ZYI,A,S,D
+DP00717,P35521,Methylosome subunit pICln,111,R,N,,1ZYI,A,,D
+DP00717,P35521,Methylosome subunit pICln,112,F,N,,1ZYI,A,,D
+DP00717,P35521,Methylosome subunit pICln,113,V,N,,1ZYI,A,S,V
+DP00717,P35521,Methylosome subunit pICln,114,P,Y,Disordered,1ZYI,A,,E
+DP00717,P35521,Methylosome subunit pICln,115,S,Y,Disordered,1ZYI,A,S,P
+DP00717,P35521,Methylosome subunit pICln,116,D,Y,Disordered,1ZYI,A,E,I
+DP00717,P35521,Methylosome subunit pICln,117,K,Y,Disordered,1ZYI,A,E,A
+DP00717,P35521,Methylosome subunit pICln,118,S,Y,Disordered,1ZYI,A,E,E
+DP00717,P35521,Methylosome subunit pICln,119,A,N,,1ZYI,A,E,F
+DP00717,P35521,Methylosome subunit pICln,120,L,N,,1ZYI,A,E,R
+DP00717,P35521,Methylosome subunit pICln,121,E,N,,1ZYI,A,E,F
+DP00717,P35521,Methylosome subunit pICln,122,A,N,,1ZYI,A,E,V
+DP00717,P35521,Methylosome subunit pICln,123,M,N,,1ZYI,A,E,P
+DP00717,P35521,Methylosome subunit pICln,124,F,N,,1ZYI,A,S,S
+DP00717,P35521,Methylosome subunit pICln,125,T,N,,1ZYI,A,,D
+DP00717,P35521,Methylosome subunit pICln,126,A,N,,1ZYI,A,H,K
+DP00717,P35521,Methylosome subunit pICln,127,M,N,,1ZYI,A,H,S
+DP00717,P35521,Methylosome subunit pICln,128,C,N,,1ZYI,A,H,A
+DP00717,P35521,Methylosome subunit pICln,129,E,N,,1ZYI,A,H,L
+DP00717,P35521,Methylosome subunit pICln,130,C,N,,1ZYI,A,H,E
+DP00717,P35521,Methylosome subunit pICln,131,Q,N,,1ZYI,A,H,A
+DP00717,P35521,Methylosome subunit pICln,132,A,N,,1ZYI,A,H,M
+DP00717,P35521,Methylosome subunit pICln,133,L,N,,1ZYI,A,H,F
+DP00717,P35521,Methylosome subunit pICln,134,H,Y,Disordered,1ZYI,A,H,T
+DP00717,P35521,Methylosome subunit pICln,135,P,Y,Disordered,1ZYI,A,H,A
+DP00717,P35521,Methylosome subunit pICln,136,D,Y,Disordered,1ZYI,A,H,M
+DP00717,P35521,Methylosome subunit pICln,137,P,Y,Disordered,1ZYI,A,H,C
+DP00717,P35521,Methylosome subunit pICln,138,E,Y,Disordered,1ZYI,A,H,E
+DP00717,P35521,Methylosome subunit pICln,139,D,Y,Disordered,1ZYI,A,H,C
+DP00717,P35521,Methylosome subunit pICln,140,E,Y,Disordered,1ZYI,A,H,Q
+DP00717,P35521,Methylosome subunit pICln,141,D,Y,Disordered,1ZYI,A,H,A
+DP00717,P35521,Methylosome subunit pICln,142,S,Y,Disordered,1ZYI,A,,L
+DP00717,P35521,Methylosome subunit pICln,143,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,144,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,145,Y,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,146,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,147,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,148,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,149,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,150,Y,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,151,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,152,V,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,153,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,154,A,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,155,H,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,156,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,157,Q,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,158,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,159,Q,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,160,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,161,D,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,162,I,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,163,P,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,164,T,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,165,F,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,166,Y,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,167,T,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,168,Y,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,169,E,N,,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,170,E,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,171,G,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,172,L,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,173,S,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,174,H,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,175,L,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,176,T,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,177,A,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,178,E,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,179,G,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,180,Q,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,181,A,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,182,T,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,183,L,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,184,E,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,185,R,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,186,L,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,187,E,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,188,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,189,M,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,190,L,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,191,S,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,192,Q,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,193,S,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,194,V,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,195,S,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,196,S,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,197,Q,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,198,Y,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,199,N,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,200,M,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,201,A,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,202,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,203,V,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,204,R,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,205,T,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,206,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,207,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,208,S,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,209,T,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,210,R,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,211,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,212,Y,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,213,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,214,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,215,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,216,M,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,217,E,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,218,V,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,219,D,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,220,T,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,221,T,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,222,P,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,223,T,Y,Disordered w/ Residual Structure,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,224,V,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,225,A,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,226,G,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,227,Q,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,228,F,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,229,E,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,230,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,231,A,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,232,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,233,V,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,234,D,Y,Disordered,1ZYI,A,,
+DP00717,P35521,Methylosome subunit pICln,235,H,Y,Disordered,1ZYI,A,,

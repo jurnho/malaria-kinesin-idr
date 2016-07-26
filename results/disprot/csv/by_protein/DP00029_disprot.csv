@@ -1,0 +1,212 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,1,M,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,2,K,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,3,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,4,W,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,5,D,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,6,V,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,7,V,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,8,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,9,V,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,10,C,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,11,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,12,V,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,13,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,14,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,15,H,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,16,T,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,17,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,18,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,19,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,20,F,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,21,P,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,22,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,23,P,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,24,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,25,G,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,26,K,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,27,R,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,28,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,29,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,30,E,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,31,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,32,P,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,33,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,34,E,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,35,D,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,36,H,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,37,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,38,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,39,G,N,,1AGQ,A,,N
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,40,H,N,,1AGQ,A,T,R
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,41,R,N,,1AGQ,A,T,G
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,42,R,N,,1AGQ,A,S,a
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,43,V,N,,1AGQ,A,E,V
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,44,P,N,,1AGQ,A,E,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,45,F,N,,1AGQ,A,E,T
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,46,A,N,,1AGQ,A,E,A
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,47,L,N,,1AGQ,A,E,I
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,48,T,N,,1AGQ,A,E,H
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,49,S,N,,1AGQ,A,E,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,50,D,N,,1AGQ,A,E,N
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,51,S,N,,1AGQ,A,G,V
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,52,N,N,,1AGQ,A,G,T
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,53,M,N,,1AGQ,A,G,D
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,54,P,N,,1AGQ,A,G,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,55,E,N,,1AGQ,A,,G
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,56,D,N,,1AGQ,A,S,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,57,Y,N,,1AGQ,A,S,G
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,58,P,N,,1AGQ,A,,Y
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,59,D,N,,1AGQ,A,,E
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,60,Q,N,,1AGQ,A,,T
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,61,F,N,,1AGQ,A,,K
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,62,D,N,,1AGQ,A,,E
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,63,D,N,,1AGQ,A,E,E
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,64,V,N,,1AGQ,A,E,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,65,M,N,,1AGQ,A,E,I
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,66,D,N,,1AGQ,A,E,F
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,67,F,N,,1AGQ,A,E,R
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,68,I,N,,1AGQ,A,E,Y
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,69,Q,N,,1AGQ,A,E,b
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,70,A,N,,1AGQ,A,E,S
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,71,T,N,,1AGQ,A,S,G
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,72,I,N,,1AGQ,A,,S
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,73,K,N,,1AGQ,A,,c
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,74,R,N,,1AGQ,A,,E
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,75,L,N,,1AGQ,A,S,A
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,76,K,N,,1AGQ,A,,A
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,77,R,Y,Disordered - Extended,1AGQ,A,,E
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,78,S,Y,Disordered - Extended,1AGQ,A,S,T
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,79,P,Y,Disordered - Extended,1AGQ,A,H,M
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,80,D,Y,Disordered - Extended,1AGQ,A,H,Y
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,81,K,Y,Disordered - Extended,1AGQ,A,H,D
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,82,Q,Y,Disordered - Extended,1AGQ,A,H,K
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,83,A,Y,Disordered - Extended,1AGQ,A,H,I
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,84,A,Y,Disordered - Extended,1AGQ,A,H,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,85,A,Y,Disordered - Extended,1AGQ,A,H,K
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,86,L,Y,Disordered - Extended,1AGQ,A,H,N
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,87,P,Y,Disordered - Extended,1AGQ,A,H,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,88,R,Y,Disordered - Extended,1AGQ,A,H,S
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,89,R,Y,Disordered - Extended,1AGQ,A,H,R
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,90,E,Y,Disordered - Extended,1AGQ,A,H,S
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,91,R,Y,Disordered - Extended,1AGQ,A,,R
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,92,N,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,93,R,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,94,Q,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,95,A,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,96,A,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,97,A,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,98,A,Y,Disordered - Extended,1AGQ,A,,V
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,99,S,Y,Disordered - Extended,1AGQ,A,,G
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,100,P,Y,Disordered - Extended,1AGQ,A,,Q
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,101,E,Y,Disordered - Extended,1AGQ,A,,A
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,102,N,Y,Disordered - Extended,1AGQ,A,,d
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,103,S,Y,Disordered - Extended,1AGQ,A,E,a
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,104,R,Y,Disordered - Extended,1AGQ,A,E,R
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,105,G,Y,Disordered - Extended,1AGQ,A,E,P
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,106,K,Y,Disordered - Extended,1AGQ,A,E,V
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,107,G,Y,Disordered - Extended,1AGQ,A,E,A
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,108,R,Y,Disordered - Extended,1AGQ,A,E,F
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,109,R,Y,Disordered - Extended,1AGQ,A,,D
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,110,G,Y,Disordered - Extended,1AGQ,A,,D
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,111,Q,Y,Disordered - Extended,1AGQ,A,,D
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,112,R,Y,Disordered - Extended,1AGQ,A,E,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,113,G,Y,Disordered - Extended,1AGQ,A,E,S
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,114,K,N,,1AGQ,A,E,F
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,115,N,N,,1AGQ,A,E,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,116,R,N,,1AGQ,A,,D
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,117,G,N,,1AGQ,A,T,D
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,118,C,N,,1AGQ,A,T,S
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,119,V,N,,1AGQ,A,S,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,120,L,N,,1AGQ,A,,V
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,121,T,N,,1AGQ,A,E,Y
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,122,A,N,,1AGQ,A,E,H
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,123,I,N,,1AGQ,A,E,I
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,124,H,N,,1AGQ,A,E,L
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,125,L,N,,1AGQ,A,,R
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,126,N,N,,1AGQ,A,S,K
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,127,V,N,,1AGQ,A,,H
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,128,T,N,,1AGQ,A,S,S
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,129,D,N,,1AGQ,A,E,A
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,130,L,N,,1AGQ,A,E,K
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,131,G,N,,1AGQ,A,E,R
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,132,L,N,,1AGQ,A,E,b
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,133,G,N,,1AGQ,A,E,G
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,134,Y,N,,1AGQ,A,E,c
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,135,E,N,,1AGQ,A,,I
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,136,T,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,137,K,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,138,E,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,139,E,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,140,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,141,I,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,142,F,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,143,R,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,144,Y,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,145,C,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,146,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,147,G,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,148,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,149,C,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,150,E,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,151,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,152,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,153,E,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,154,T,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,155,M,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,156,Y,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,157,D,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,158,K,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,159,I,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,160,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,161,K,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,162,N,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,163,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,164,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,165,R,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,166,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,167,R,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,168,R,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,169,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,170,T,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,171,S,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,172,D,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,173,K,Y,Disordered - Extended,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,174,V,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,175,G,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,176,Q,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,177,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,178,C,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,179,C,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,180,R,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,181,P,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,182,V,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,183,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,184,F,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,185,D,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,186,D,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,187,D,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,188,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,189,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,190,F,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,191,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,192,D,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,193,D,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,194,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,195,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,196,V,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,197,Y,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,198,H,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,199,I,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,200,L,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,201,R,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,202,K,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,203,H,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,204,S,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,205,A,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,206,K,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,207,R,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,208,C,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,209,G,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,210,C,N,,1AGQ,A,,
+DP00029,Q07731,Glial cell line-derived neurotrophic factor,211,I,N,,1AGQ,A,,

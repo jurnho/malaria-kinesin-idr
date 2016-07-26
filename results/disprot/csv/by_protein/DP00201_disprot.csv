@@ -1,0 +1,109 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",1,M,N,,1VZS,A,,N
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",2,I,N,,1VZS,A,,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",3,L,N,,1VZS,A,S,E
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",4,Q,N,,1VZS,A,,L
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",5,R,N,,1VZS,A,,D
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",6,L,N,,1VZS,A,T,P
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",7,F,N,,1VZS,A,T,V
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",8,R,N,,1VZS,A,H,Q
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",9,L,N,,1VZS,A,H,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",10,S,N,,1VZS,A,H,L
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",11,S,N,,1VZS,A,H,F
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",12,A,N,,1VZS,A,H,V
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",13,V,N,,1VZS,A,H,D
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",14,Q,N,,1VZS,A,H,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",15,S,N,,1VZS,A,H,I
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",16,A,N,,1VZS,A,H,R
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",17,I,N,,1VZS,A,H,E
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",18,S,N,,1VZS,A,H,Y
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",19,V,N,,1VZS,A,H,R
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",20,S,N,,1VZS,A,H,T
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",21,W,N,,1VZS,A,H,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",22,R,N,,1VZS,A,H,R
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",23,R,N,,1VZS,A,H,Q
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",24,N,N,,1VZS,A,T,T
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",25,I,N,,1VZS,A,T,S
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",26,G,N,,1VZS,A,,G
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",27,I,N,,1VZS,A,,G
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",28,T,N,,1VZS,A,S,P
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",29,A,N,,1VZS,A,S,V
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",30,V,N,,1VZS,A,,D
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",31,A,N,,1VZS,A,,A
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",32,F,N,,1VZS,A,,G
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",33,N,Y,Disordered - Extended,1VZS,A,T,P
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",34,K,Y,Disordered - Extended,1VZS,A,T,E
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",35,E,Y,Disordered - Extended,1VZS,A,T,Y
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",36,L,Y,Disordered - Extended,1VZS,A,H,Q
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",37,D,Y,Disordered - Extended,1VZS,A,H,Q
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",38,P,Y,Disordered - Extended,1VZS,A,H,D
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",39,V,Y,Disordered - Extended,1VZS,A,H,L
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",40,Q,Y,Disordered - Extended,1VZS,A,H,D
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",41,K,Y,Disordered - Extended,1VZS,A,H,R
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",42,L,Y,Disordered - Extended,1VZS,A,H,E
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",43,F,Y,Disordered - Extended,1VZS,A,H,L
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",44,V,Y,Disordered - Extended,1VZS,A,H,F
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",45,D,Y,Disordered - Extended,1VZS,A,H,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",46,K,Y,Disordered - Extended,1VZS,A,H,L
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",47,I,Y,Disordered - Extended,1VZS,A,H,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",48,R,Y,Disordered - Extended,1VZS,A,H,Q
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",49,E,Y,Disordered - Extended,1VZS,A,H,M
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",50,Y,Y,Disordered - Extended,1VZS,A,H,Y
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",51,R,Y,Disordered - Extended,1VZS,A,H,G
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",52,T,Y,Disordered - Extended,1VZS,A,H,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",53,K,Y,Disordered - Extended,1VZS,A,H,A
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",54,R,Y,Disordered - Extended,1VZS,A,T,D
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",55,Q,Y,Disordered - Extended,1VZS,A,T,M
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",56,T,Y,Disordered - Extended,1VZS,A,S,N
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",57,S,Y,Disordered - Extended,1VZS,A,S,T
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",58,G,Y,Disordered - Extended,1VZS,A,,F
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",59,G,Y,Disordered - Extended,1VZS,A,S,P
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",60,P,Y,Disordered - Extended,1VZS,A,S,N
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",61,V,Y,Disordered - Extended,1VZS,A,,F
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",62,D,Y,Disordered - Extended,1VZS,A,,T
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",63,A,Y,Disordered - Extended,1VZS,A,S,F
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",64,G,Y,Disordered - Extended,1VZS,A,S,E
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",65,P,Y,Disordered - Extended,1VZS,A,S,D
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",66,E,Y,Disordered - Extended,1VZS,A,G,P
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",67,Y,Y,Disordered - Extended,1VZS,A,G,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",68,Q,Y,Disordered - Extended,1VZS,A,G,F
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",69,Q,Y,Disordered - Extended,1VZS,A,T,E
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",70,D,Y,Disordered - Extended,1VZS,A,T,V
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",71,L,Y,Disordered - Extended,1VZS,A,S,V
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",72,D,Y,Disordered - Extended,1VZS,A,,E
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",73,R,Y,Disordered - Extended,1VZS,A,,K
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",74,E,Y,Disordered - Extended,1VZS,A,S,P
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",75,L,Y,Disordered - Extended,1VZS,A,,Q
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",76,F,Y,Disordered - Extended,1VZS,A,,S
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",77,K,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",78,L,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",79,K,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",80,Q,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",81,M,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",82,Y,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",83,G,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",84,K,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",85,A,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",86,D,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",87,M,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",88,N,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",89,T,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",90,F,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",91,P,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",92,N,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",93,F,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",94,T,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",95,F,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",96,E,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",97,D,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",98,P,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",99,K,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",100,F,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",101,E,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",102,V,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",103,V,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",104,E,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",105,K,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",106,P,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",107,Q,Y,Disordered - Extended,1VZS,A,,
+DP00201,P02721,"ATP synthase-coupling factor 6, mitochondrial",108,S,Y,Disordered - Extended,1VZS,A,,

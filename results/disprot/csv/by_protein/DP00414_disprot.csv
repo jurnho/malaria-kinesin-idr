@@ -1,0 +1,152 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00414,P0ABS1,DnaK suppressor protein,1,M,Y,Disordered,1TJL,A,,
+DP00414,P0ABS1,DnaK suppressor protein,2,Q,Y,Disordered,1TJL,A,,
+DP00414,P0ABS1,DnaK suppressor protein,3,E,Y,Disordered,1TJL,A,,
+DP00414,P0ABS1,DnaK suppressor protein,4,G,Y,Disordered,1TJL,A,,
+DP00414,P0ABS1,DnaK suppressor protein,5,Q,Y,Disordered,1TJL,A,,
+DP00414,P0ABS1,DnaK suppressor protein,6,N,Y,Disordered,1TJL,A,,
+DP00414,P0ABS1,DnaK suppressor protein,7,R,Y,Disordered - Molten Globule,1TJL,A,,R
+DP00414,P0ABS1,DnaK suppressor protein,8,K,Y,Disordered - Molten Globule,1TJL,A,,K
+DP00414,P0ABS1,DnaK suppressor protein,9,T,Y,Disordered - Molten Globule,1TJL,A,,T
+DP00414,P0ABS1,DnaK suppressor protein,10,S,Y,Disordered - Molten Globule,1TJL,A,S,S
+DP00414,P0ABS1,DnaK suppressor protein,11,S,Y,Disordered - Molten Globule,1TJL,A,S,S
+DP00414,P0ABS1,DnaK suppressor protein,12,L,Y,Disordered - Molten Globule,1TJL,A,,L
+DP00414,P0ABS1,DnaK suppressor protein,13,S,Y,Disordered - Molten Globule,1TJL,A,H,S
+DP00414,P0ABS1,DnaK suppressor protein,14,I,Y,Disordered - Molten Globule,1TJL,A,H,I
+DP00414,P0ABS1,DnaK suppressor protein,15,L,Y,Disordered - Molten Globule,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,16,A,Y,Disordered - Molten Globule,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,17,I,Y,Disordered - Molten Globule,1TJL,A,H,I
+DP00414,P0ABS1,DnaK suppressor protein,18,A,Y,Disordered - Molten Globule,1TJL,A,T,A
+DP00414,P0ABS1,DnaK suppressor protein,19,G,Y,Disordered - Molten Globule,1TJL,A,T,G
+DP00414,P0ABS1,DnaK suppressor protein,20,V,Y,Disordered - Molten Globule,1TJL,A,,V
+DP00414,P0ABS1,DnaK suppressor protein,21,E,Y,Disordered - Molten Globule,1TJL,A,,E
+DP00414,P0ABS1,DnaK suppressor protein,22,P,Y,Disordered - Molten Globule,1TJL,A,,P
+DP00414,P0ABS1,DnaK suppressor protein,23,Y,Y,Disordered - Molten Globule,1TJL,A,,Y
+DP00414,P0ABS1,DnaK suppressor protein,24,Q,Y,Disordered - Molten Globule,1TJL,A,,Q
+DP00414,P0ABS1,DnaK suppressor protein,25,E,Y,Disordered - Molten Globule,1TJL,A,,E
+DP00414,P0ABS1,DnaK suppressor protein,26,K,Y,Disordered - Molten Globule,1TJL,A,,K
+DP00414,P0ABS1,DnaK suppressor protein,27,P,Y,Disordered - Molten Globule,1TJL,A,T,P
+DP00414,P0ABS1,DnaK suppressor protein,28,G,Y,Disordered - Molten Globule,1TJL,A,T,G
+DP00414,P0ABS1,DnaK suppressor protein,29,E,Y,Disordered - Molten Globule,1TJL,A,,E
+DP00414,P0ABS1,DnaK suppressor protein,30,E,Y,Disordered - Molten Globule,1TJL,A,,E
+DP00414,P0ABS1,DnaK suppressor protein,31,Y,Y,Disordered - Molten Globule,1TJL,A,T,Y
+DP00414,P0ABS1,DnaK suppressor protein,32,M,Y,Disordered - Molten Globule,1TJL,A,T,M
+DP00414,P0ABS1,DnaK suppressor protein,33,N,Y,Disordered - Molten Globule,1TJL,A,,N
+DP00414,P0ABS1,DnaK suppressor protein,34,E,Y,Disordered - Extended,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,35,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,36,Q,N,,1TJL,A,H,Q
+DP00414,P0ABS1,DnaK suppressor protein,37,L,N,,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,38,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,39,H,N,,1TJL,A,H,H
+DP00414,P0ABS1,DnaK suppressor protein,40,F,N,,1TJL,A,H,F
+DP00414,P0ABS1,DnaK suppressor protein,41,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,42,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,43,I,N,,1TJL,A,H,I
+DP00414,P0ABS1,DnaK suppressor protein,44,L,N,,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,45,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,46,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,47,W,N,,1TJL,A,H,W
+DP00414,P0ABS1,DnaK suppressor protein,48,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,49,N,N,,1TJL,A,H,N
+DP00414,P0ABS1,DnaK suppressor protein,50,Q,N,,1TJL,A,H,Q
+DP00414,P0ABS1,DnaK suppressor protein,51,L,N,,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,52,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,53,D,N,,1TJL,A,H,D
+DP00414,P0ABS1,DnaK suppressor protein,54,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,55,V,N,,1TJL,A,H,V
+DP00414,P0ABS1,DnaK suppressor protein,56,D,N,,1TJL,A,H,D
+DP00414,P0ABS1,DnaK suppressor protein,57,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,58,T,N,,1TJL,A,H,T
+DP00414,P0ABS1,DnaK suppressor protein,59,V,N,,1TJL,A,H,V
+DP00414,P0ABS1,DnaK suppressor protein,60,T,N,,1TJL,A,H,T
+DP00414,P0ABS1,DnaK suppressor protein,61,H,N,,1TJL,A,H,H
+DP00414,P0ABS1,DnaK suppressor protein,62,M,N,,1TJL,A,H,M
+DP00414,P0ABS1,DnaK suppressor protein,63,Q,N,,1TJL,A,H,Q
+DP00414,P0ABS1,DnaK suppressor protein,64,D,N,,1TJL,A,H,D
+DP00414,P0ABS1,DnaK suppressor protein,65,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,66,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,67,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,68,N,N,,1TJL,A,S,N
+DP00414,P0ABS1,DnaK suppressor protein,69,F,Y,Disordered - Extended,1TJL,A,,F
+DP00414,P0ABS1,DnaK suppressor protein,70,P,Y,Disordered - Extended,1TJL,A,,P
+DP00414,P0ABS1,DnaK suppressor protein,71,D,Y,Disordered w/ Residual Structure,1TJL,A,,D
+DP00414,P0ABS1,DnaK suppressor protein,72,P,Y,Disordered w/ Residual Structure,1TJL,A,G,P
+DP00414,P0ABS1,DnaK suppressor protein,73,V,Y,Disordered w/ Residual Structure,1TJL,A,G,V
+DP00414,P0ABS1,DnaK suppressor protein,74,D,Y,Disordered w/ Residual Structure,1TJL,A,G,D
+DP00414,P0ABS1,DnaK suppressor protein,75,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,76,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,77,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,78,Q,N,,1TJL,A,H,Q
+DP00414,P0ABS1,DnaK suppressor protein,79,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,80,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,81,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,82,F,N,,1TJL,A,H,F
+DP00414,P0ABS1,DnaK suppressor protein,83,S,N,,1TJL,A,H,S
+DP00414,P0ABS1,DnaK suppressor protein,84,L,N,,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,85,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,86,L,N,,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,87,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,88,N,N,,1TJL,A,H,N
+DP00414,P0ABS1,DnaK suppressor protein,89,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,90,D,N,,1TJL,A,H,D
+DP00414,P0ABS1,DnaK suppressor protein,91,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,92,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,93,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,94,K,N,,1TJL,A,H,K
+DP00414,P0ABS1,DnaK suppressor protein,95,L,N,,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,96,I,N,,1TJL,A,H,I
+DP00414,P0ABS1,DnaK suppressor protein,97,K,N,,1TJL,A,H,K
+DP00414,P0ABS1,DnaK suppressor protein,98,K,N,,1TJL,A,H,K
+DP00414,P0ABS1,DnaK suppressor protein,99,I,N,,1TJL,A,H,I
+DP00414,P0ABS1,DnaK suppressor protein,100,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,101,K,N,,1TJL,A,H,K
+DP00414,P0ABS1,DnaK suppressor protein,102,T,N,,1TJL,A,H,T
+DP00414,P0ABS1,DnaK suppressor protein,103,L,N,,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,104,K,N,,1TJL,A,H,K
+DP00414,P0ABS1,DnaK suppressor protein,105,K,N,,1TJL,A,H,K
+DP00414,P0ABS1,DnaK suppressor protein,106,V,N,,1TJL,A,H,V
+DP00414,P0ABS1,DnaK suppressor protein,107,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,108,D,N,,1TJL,A,T,D
+DP00414,P0ABS1,DnaK suppressor protein,109,E,N,,1TJL,A,T,E
+DP00414,P0ABS1,DnaK suppressor protein,110,D,Y,Disordered - Molten Globule,1TJL,A,,D
+DP00414,P0ABS1,DnaK suppressor protein,111,F,Y,Disordered - Molten Globule,1TJL,A,,F
+DP00414,P0ABS1,DnaK suppressor protein,112,G,Y,Disordered - Molten Globule,1TJL,A,S,G
+DP00414,P0ABS1,DnaK suppressor protein,113,Y,Y,Disordered - Molten Globule,1TJL,A,B,Y
+DP00414,P0ABS1,DnaK suppressor protein,114,C,Y,Disordered - Molten Globule,1TJL,A,,C
+DP00414,P0ABS1,DnaK suppressor protein,115,E,Y,Disordered - Molten Globule,1TJL,A,S,E
+DP00414,P0ABS1,DnaK suppressor protein,116,S,Y,Disordered - Molten Globule,1TJL,A,S,S
+DP00414,P0ABS1,DnaK suppressor protein,117,C,Y,Disordered - Molten Globule,1TJL,A,S,C
+DP00414,P0ABS1,DnaK suppressor protein,118,G,Y,Disordered - Molten Globule,1TJL,A,S,G
+DP00414,P0ABS1,DnaK suppressor protein,119,V,Y,Disordered - Molten Globule,1TJL,A,,V
+DP00414,P0ABS1,DnaK suppressor protein,120,E,Y,Disordered - Molten Globule,1TJL,A,B,E
+DP00414,P0ABS1,DnaK suppressor protein,121,I,Y,Disordered - Molten Globule,1TJL,A,,I
+DP00414,P0ABS1,DnaK suppressor protein,122,G,Y,Disordered - Molten Globule,1TJL,A,,G
+DP00414,P0ABS1,DnaK suppressor protein,123,I,Y,Disordered - Molten Globule,1TJL,A,H,I
+DP00414,P0ABS1,DnaK suppressor protein,124,R,Y,Disordered - Molten Globule,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,125,R,Y,Disordered - Molten Globule,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,126,L,Y,Disordered - Molten Globule,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,127,E,Y,Disordered - Molten Globule,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,128,A,Y,Disordered - Molten Globule,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,129,R,Y,Disordered - Molten Globule,1TJL,A,,R
+DP00414,P0ABS1,DnaK suppressor protein,130,P,Y,Disordered - Molten Globule,1TJL,A,T,P
+DP00414,P0ABS1,DnaK suppressor protein,131,T,Y,Disordered - Molten Globule,1TJL,A,T,T
+DP00414,P0ABS1,DnaK suppressor protein,132,A,Y,Disordered - Extended,1TJL,A,,A
+DP00414,P0ABS1,DnaK suppressor protein,133,D,Y,Disordered - Extended,1TJL,A,,D
+DP00414,P0ABS1,DnaK suppressor protein,134,L,Y,Disordered - Extended,1TJL,A,S,L
+DP00414,P0ABS1,DnaK suppressor protein,135,C,N,,1TJL,A,,C
+DP00414,P0ABS1,DnaK suppressor protein,136,I,N,,1TJL,A,H,I
+DP00414,P0ABS1,DnaK suppressor protein,137,D,N,,1TJL,A,H,D
+DP00414,P0ABS1,DnaK suppressor protein,138,C,N,,1TJL,A,H,C
+DP00414,P0ABS1,DnaK suppressor protein,139,K,N,,1TJL,A,H,K
+DP00414,P0ABS1,DnaK suppressor protein,140,T,N,,1TJL,A,H,T
+DP00414,P0ABS1,DnaK suppressor protein,141,L,N,,1TJL,A,H,L
+DP00414,P0ABS1,DnaK suppressor protein,142,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,143,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,144,I,N,,1TJL,A,H,I
+DP00414,P0ABS1,DnaK suppressor protein,145,R,N,,1TJL,A,H,R
+DP00414,P0ABS1,DnaK suppressor protein,146,E,N,,1TJL,A,H,E
+DP00414,P0ABS1,DnaK suppressor protein,147,K,N,,1TJL,A,H,K
+DP00414,P0ABS1,DnaK suppressor protein,148,Q,N,,1TJL,A,H,Q
+DP00414,P0ABS1,DnaK suppressor protein,149,M,N,,1TJL,A,H,M
+DP00414,P0ABS1,DnaK suppressor protein,150,A,N,,1TJL,A,H,A
+DP00414,P0ABS1,DnaK suppressor protein,151,G,N,,1TJL,A,,G

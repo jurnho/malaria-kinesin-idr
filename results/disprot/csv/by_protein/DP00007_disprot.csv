@@ -1,0 +1,319 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,1,M,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,2,P,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,3,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,4,R,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,5,G,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,6,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,7,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,8,G,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,9,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,10,V,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,11,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,12,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,13,D,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,14,G,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,15,D,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,16,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,17,L,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,18,R,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,19,T,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,20,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,21,P,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,22,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,23,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,24,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,25,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,26,S,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,27,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,28,T,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,29,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,30,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,31,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,32,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,33,N,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,34,D,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,35,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,36,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,37,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,38,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,39,G,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,40,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,41,G,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,42,P,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,43,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,44,L,N,,1HD7,A,,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,45,Y,N,,1HD7,A,,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,46,E,N,,1HD7,A,,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,47,D,N,,1HD7,A,,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,48,P,N,,1HD7,A,,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,49,P,N,,1HD7,A,,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,50,D,N,,1HD7,A,,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,51,Q,N,,1HD7,A,,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,52,K,N,,1HD7,A,,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,53,T,N,,1HD7,A,B,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,54,S,N,,1HD7,A,,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,55,P,N,,1HD7,A,T,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,56,S,N,,1HD7,A,T,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,57,G,N,,1HD7,A,S,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,58,K,N,,1HD7,A,,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,59,P,N,,1HD7,A,B,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,60,A,N,,1HD7,A,,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,61,T,N,,1HD7,A,,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,62,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,63,K,N,,1HD7,A,E,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,64,I,N,,1HD7,A,E,I
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,65,C,N,,1HD7,A,E,C
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,66,S,N,,1HD7,A,E,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,67,W,N,,1HD7,A,E,W
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,68,N,N,,1HD7,A,E,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,69,V,N,,1HD7,A,,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,70,D,N,,1HD7,A,S,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,71,G,N,,1HD7,A,S,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,72,L,N,,1HD7,A,H,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,73,R,N,,1HD7,A,H,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,74,A,N,,1HD7,A,H,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,75,W,N,,1HD7,A,H,W
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,76,I,N,,1HD7,A,H,I
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,77,K,N,,1HD7,A,H,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,78,K,N,,1HD7,A,T,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,79,K,N,,1HD7,A,T,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,80,G,N,,1HD7,A,H,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,81,L,N,,1HD7,A,H,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,82,D,N,,1HD7,A,H,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,83,W,N,,1HD7,A,H,W
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,84,V,N,,1HD7,A,H,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,85,K,N,,1HD7,A,H,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,86,E,N,,1HD7,A,H,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,87,E,N,,1HD7,A,H,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,88,A,N,,1HD7,A,,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,89,P,N,,1HD7,A,,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,90,D,N,,1HD7,A,S,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,91,I,N,,1HD7,A,E,I
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,92,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,93,C,N,,1HD7,A,E,C
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,94,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,95,Q,N,,1HD7,A,E,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,96,E,N,,1HD7,A,,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,97,T,N,,1HD7,A,,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,98,K,N,,1HD7,A,,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,99,C,N,,1HD7,A,,C
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,100,S,Y,Disordered,1HD7,A,,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,101,E,Y,Disordered,1HD7,A,,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,102,N,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,103,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,104,L,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,105,P,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,106,A,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,107,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,108,L,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,109,Q,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,110,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,111,L,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,112,P,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,113,G,N,,1HD7,A,,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,114,L,N,,1HD7,A,,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,115,S,N,,1HD7,A,,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,116,H,N,,1HD7,A,E,H
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,117,Q,N,,1HD7,A,E,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,118,Y,N,,1HD7,A,E,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,119,W,N,,1HD7,A,E,W
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,120,S,N,,1HD7,A,E,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,121,A,N,,1HD7,A,,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,122,P,N,,1HD7,A,,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,123,S,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,124,D,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,125,K,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,126,E,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,127,G,Y,Disordered - Extended,1HD7,A,,
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,128,Y,N,,1HD7,A,,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,129,S,N,,1HD7,A,,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,130,G,N,,1HD7,A,,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,131,V,N,,1HD7,A,E,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,132,G,N,,1HD7,A,E,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,133,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,134,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,135,S,N,,1HD7,A,E,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,136,R,N,,1HD7,A,S,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,137,Q,N,,1HD7,A,S,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,138,C,N,,1HD7,A,,C
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,139,P,N,,1HD7,A,,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,140,L,N,,1HD7,A,S,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,141,K,N,,1HD7,A,E,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,142,V,N,,1HD7,A,E,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,143,S,N,,1HD7,A,E,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,144,Y,N,,1HD7,A,E,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,145,G,N,,1HD7,A,S,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,146,I,N,,1HD7,A,,I
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,147,G,N,,1HD7,A,S,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,148,D,N,,1HD7,A,,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,149,E,N,,1HD7,A,G,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,150,E,N,,1HD7,A,G,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,151,H,N,,1HD7,A,G,H
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,152,D,N,,1HD7,A,S,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,153,Q,N,,1HD7,A,S,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,154,E,N,,1HD7,A,S,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,155,G,N,,1HD7,A,S,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,156,R,N,,1HD7,A,,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,157,V,N,,1HD7,A,E,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,158,I,N,,1HD7,A,E,I
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,159,V,N,,1HD7,A,E,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,160,A,N,,1HD7,A,E,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,161,E,N,,1HD7,A,E,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,162,F,N,,1HD7,A,,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,163,D,N,,1HD7,A,S,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,164,S,N,,1HD7,A,S,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,165,F,N,,1HD7,A,,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,166,V,N,,1HD7,A,E,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,167,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,168,V,N,,1HD7,A,E,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,169,T,N,,1HD7,A,E,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,170,A,N,,1HD7,A,E,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,171,Y,N,,1HD7,A,E,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,172,V,N,,1HD7,A,,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,173,P,N,,1HD7,A,,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,174,N,N,,1HD7,A,,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,175,A,N,,1HD7,A,,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,176,G,N,,1HD7,A,,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,177,R,N,,1HD7,A,G,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,178,G,N,,1HD7,A,G,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,179,L,N,,1HD7,A,G,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,180,V,N,,1HD7,A,T,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,181,R,N,,1HD7,A,T,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,182,L,N,,1HD7,A,H,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,183,E,N,,1HD7,A,H,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,184,Y,N,,1HD7,A,H,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,185,R,N,,1HD7,A,H,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,186,Q,N,,1HD7,A,H,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,187,R,N,,1HD7,A,H,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,188,W,N,,1HD7,A,H,W
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,189,D,N,,1HD7,A,H,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,190,E,N,,1HD7,A,H,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,191,A,N,,1HD7,A,H,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,192,F,N,,1HD7,A,H,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,193,R,N,,1HD7,A,H,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,194,K,N,,1HD7,A,H,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,195,F,N,,1HD7,A,H,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,196,L,N,,1HD7,A,H,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,197,K,N,,1HD7,A,H,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,198,G,N,,1HD7,A,H,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,199,L,N,,1HD7,A,H,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,200,A,N,,1HD7,A,H,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,201,S,N,,1HD7,A,H,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,202,R,N,,1HD7,A,H,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,203,K,N,,1HD7,A,S,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,204,P,N,,1HD7,A,,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,205,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,206,V,N,,1HD7,A,E,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,207,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,208,C,N,,1HD7,A,E,C
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,209,G,N,,1HD7,A,E,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,210,D,N,,1HD7,A,E,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,211,L,N,,1HD7,A,,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,212,N,N,,1HD7,A,S,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,213,V,N,,1HD7,A,,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,214,A,N,,1HD7,A,,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,215,H,N,,1HD7,A,,H
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,216,E,N,,1HD7,A,S,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,217,E,N,,1HD7,A,G,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,218,I,N,,1HD7,A,G,I
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,219,D,N,,1HD7,A,G,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,220,L,N,,1HD7,A,B,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,221,R,N,,1HD7,A,S,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,222,N,N,,1HD7,A,,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,223,P,N,,1HD7,A,H,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,224,K,N,,1HD7,A,H,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,225,G,N,,1HD7,A,H,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,226,N,N,,1HD7,A,H,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,227,K,N,,1HD7,A,T,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,228,K,N,,1HD7,A,T,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,229,N,N,,1HD7,A,S,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,230,A,N,,1HD7,A,T,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,231,G,N,,1HD7,A,T,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,232,F,N,,1HD7,A,S,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,233,T,N,,1HD7,A,,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,234,P,N,,1HD7,A,H,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,235,Q,N,,1HD7,A,H,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,236,E,N,,1HD7,A,H,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,237,R,N,,1HD7,A,H,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,238,Q,N,,1HD7,A,H,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,239,G,N,,1HD7,A,H,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,240,F,N,,1HD7,A,H,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,241,G,N,,1HD7,A,H,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,242,E,N,,1HD7,A,H,E
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,243,L,N,,1HD7,A,H,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,244,L,N,,1HD7,A,H,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,245,Q,N,,1HD7,A,H,Q
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,246,A,N,,1HD7,A,H,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,247,V,N,,1HD7,A,T,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,248,P,N,,1HD7,A,T,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,249,L,N,,1HD7,A,,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,250,A,N,,1HD7,A,E,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,251,D,N,,1HD7,A,E,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,252,S,N,,1HD7,A,H,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,253,F,N,,1HD7,A,H,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,254,R,N,,1HD7,A,H,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,255,H,N,,1HD7,A,H,H
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,256,L,N,,1HD7,A,H,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,257,Y,N,,1HD7,A,,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,258,P,N,,1HD7,A,T,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,259,N,N,,1HD7,A,T,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,260,T,N,,1HD7,A,,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,261,P,N,,1HD7,A,T,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,262,Y,N,,1HD7,A,T,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,263,A,N,,1HD7,A,,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,264,Y,N,,1HD7,A,,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,265,T,N,,1HD7,A,S,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,266,F,N,,1HD7,A,B,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,267,W,N,,1HD7,A,,W
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,268,T,N,,1HD7,A,,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,269,Y,N,,1HD7,A,S,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,270,M,N,,1HD7,A,G,M
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,271,M,N,,1HD7,A,G,M
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,272,N,N,,1HD7,A,G,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,273,A,N,,1HD7,A,H,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,274,R,N,,1HD7,A,H,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,275,S,N,,1HD7,A,H,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,276,K,N,,1HD7,A,H,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,277,N,N,,1HD7,A,T,N
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,278,V,N,,1HD7,A,,V
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,279,G,N,,1HD7,A,,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,280,W,N,,1HD7,A,B,W
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,281,R,N,,1HD7,A,,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,282,L,N,,1HD7,A,,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,283,D,N,,1HD7,A,E,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,284,Y,N,,1HD7,A,E,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,285,F,N,,1HD7,A,E,F
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,286,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,287,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,288,S,N,,1HD7,A,,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,289,H,N,,1HD7,A,G,H
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,290,S,N,,1HD7,A,G,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,291,L,N,,1HD7,A,G,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,292,L,N,,1HD7,A,G,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,293,P,N,,1HD7,A,G,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,294,A,N,,1HD7,A,G,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,295,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,296,C,N,,1HD7,A,E,C
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,297,D,N,,1HD7,A,E,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,298,S,N,,1HD7,A,E,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,299,K,N,,1HD7,A,E,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,300,I,N,,1HD7,A,E,I
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,301,R,N,,1HD7,A,,R
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,302,S,N,,1HD7,A,T,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,303,K,N,,1HD7,A,T,K
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,304,A,N,,1HD7,A,,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,305,L,N,,1HD7,A,,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,306,G,N,,1HD7,A,S,G
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,307,S,N,,1HD7,A,S,S
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,308,D,N,,1HD7,A,S,D
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,309,H,N,,1HD7,A,B,H
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,310,C,N,,1HD7,A,,C
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,311,P,N,,1HD7,A,,P
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,312,I,N,,1HD7,A,E,I
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,313,T,N,,1HD7,A,E,T
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,314,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,315,Y,N,,1HD7,A,E,Y
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,316,L,N,,1HD7,A,E,L
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,317,A,N,,1HD7,A,,A
+DP00007,P27695,DNA-(apurinic or apyrimidinic site) lyase,318,L,N,,1HD7,A,,L

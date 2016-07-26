@@ -1,0 +1,211 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00166,P19429,"Troponin I, cardiac muscle",1,M,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",2,A,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",3,D,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",4,G,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",5,S,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",6,S,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",7,D,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",8,A,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",9,A,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",10,R,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",11,E,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",12,P,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",13,R,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",14,P,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",15,A,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",16,P,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",17,A,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",18,P,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",19,I,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",20,R,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",21,R,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",22,R,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",23,S,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",24,S,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",25,N,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",26,Y,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",27,R,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",28,A,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",29,Y,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",30,A,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",31,T,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",32,E,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",33,P,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",34,H,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",35,A,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",36,K,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",37,K,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",38,K,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",39,S,N,,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",40,K,N,,1J1E,F,,K
+DP00166,P19429,"Troponin I, cardiac muscle",41,I,N,,1J1E,F,,I
+DP00166,P19429,"Troponin I, cardiac muscle",42,S,N,,1J1E,F,,S
+DP00166,P19429,"Troponin I, cardiac muscle",43,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",44,S,N,,1J1E,F,H,S
+DP00166,P19429,"Troponin I, cardiac muscle",45,R,N,,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",46,K,N,,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",47,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",48,Q,N,,1J1E,F,H,Q
+DP00166,P19429,"Troponin I, cardiac muscle",49,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",50,K,N,,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",51,T,N,,1J1E,F,H,T
+DP00166,P19429,"Troponin I, cardiac muscle",52,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",53,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",54,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",55,Q,N,,1J1E,F,H,Q
+DP00166,P19429,"Troponin I, cardiac muscle",56,I,N,,1J1E,F,H,I
+DP00166,P19429,"Troponin I, cardiac muscle",57,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",58,K,N,,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",59,Q,N,,1J1E,F,H,Q
+DP00166,P19429,"Troponin I, cardiac muscle",60,E,N,,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",61,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",62,E,N,,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",63,R,N,,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",64,E,N,,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",65,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",66,E,Y,Disordered - Extended,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",67,E,Y,Disordered - Extended,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",68,R,Y,Disordered - Extended,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",69,R,Y,Disordered - Extended,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",70,G,Y,Disordered - Extended,1J1E,F,H,G
+DP00166,P19429,"Troponin I, cardiac muscle",71,E,Y,Disordered - Extended,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",72,K,Y,Disordered - Extended,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",73,G,Y,Disordered - Extended,1J1E,F,H,G
+DP00166,P19429,"Troponin I, cardiac muscle",74,R,Y,Disordered - Extended,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",75,A,Y,Disordered - Extended,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",76,L,Y,Disordered - Extended,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",77,S,Y,Disordered - Extended,1J1E,F,H,S
+DP00166,P19429,"Troponin I, cardiac muscle",78,T,Y,Disordered - Extended,1J1E,F,H,T
+DP00166,P19429,"Troponin I, cardiac muscle",79,R,Y,Disordered - Extended,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",80,C,Y,Disordered - Extended,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",81,Q,Y,Disordered - Extended,1J1E,F,S,Q
+DP00166,P19429,"Troponin I, cardiac muscle",82,P,Y,Disordered - Extended,1J1E,F,,P
+DP00166,P19429,"Troponin I, cardiac muscle",83,L,Y,Disordered - Extended,1J1E,F,,L
+DP00166,P19429,"Troponin I, cardiac muscle",84,E,Y,Disordered - Extended,1J1E,F,,E
+DP00166,P19429,"Troponin I, cardiac muscle",85,L,Y,Disordered - Extended,1J1E,F,,L
+DP00166,P19429,"Troponin I, cardiac muscle",86,A,Y,Disordered - Extended,1J1E,F,T,A
+DP00166,P19429,"Troponin I, cardiac muscle",87,G,Y,Disordered - Extended,1J1E,F,T,G
+DP00166,P19429,"Troponin I, cardiac muscle",88,L,Y,Disordered - Extended,1J1E,F,S,L
+DP00166,P19429,"Troponin I, cardiac muscle",89,G,Y,Disordered - Extended,1J1E,F,,G
+DP00166,P19429,"Troponin I, cardiac muscle",90,F,N,,1J1E,F,H,F
+DP00166,P19429,"Troponin I, cardiac muscle",91,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",92,E,N,,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",93,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",94,Q,N,,1J1E,F,H,Q
+DP00166,P19429,"Troponin I, cardiac muscle",95,D,N,,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",96,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",97,C,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",98,R,N,,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",99,Q,N,,1J1E,F,H,Q
+DP00166,P19429,"Troponin I, cardiac muscle",100,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",101,H,N,,1J1E,F,H,H
+DP00166,P19429,"Troponin I, cardiac muscle",102,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",103,R,N,,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",104,V,N,,1J1E,F,H,V
+DP00166,P19429,"Troponin I, cardiac muscle",105,D,N,,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",106,K,N,,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",107,V,N,,1J1E,F,H,V
+DP00166,P19429,"Troponin I, cardiac muscle",108,D,N,,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",109,E,N,,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",110,E,N,,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",111,R,N,,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",112,Y,N,,1J1E,F,H,Y
+DP00166,P19429,"Troponin I, cardiac muscle",113,D,N,,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",114,I,N,,1J1E,F,H,I
+DP00166,P19429,"Troponin I, cardiac muscle",115,E,N,,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",116,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",117,K,N,,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",118,V,N,,1J1E,F,H,V
+DP00166,P19429,"Troponin I, cardiac muscle",119,T,N,,1J1E,F,H,T
+DP00166,P19429,"Troponin I, cardiac muscle",120,K,N,,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",121,N,N,,1J1E,F,H,N
+DP00166,P19429,"Troponin I, cardiac muscle",122,I,N,,1J1E,F,H,I
+DP00166,P19429,"Troponin I, cardiac muscle",123,T,N,,1J1E,F,H,T
+DP00166,P19429,"Troponin I, cardiac muscle",124,E,N,,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",125,I,N,,1J1E,F,H,I
+DP00166,P19429,"Troponin I, cardiac muscle",126,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",127,D,N,,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",128,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",129,T,N,,1J1E,F,H,T
+DP00166,P19429,"Troponin I, cardiac muscle",130,Q,N,,1J1E,F,H,Q
+DP00166,P19429,"Troponin I, cardiac muscle",131,K,N,,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",132,I,N,,1J1E,F,H,I
+DP00166,P19429,"Troponin I, cardiac muscle",133,F,N,,1J1E,F,H,F
+DP00166,P19429,"Troponin I, cardiac muscle",134,D,N,,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",135,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",136,R,N,,1J1E,F,,R
+DP00166,P19429,"Troponin I, cardiac muscle",137,G,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",138,K,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",139,F,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",140,K,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",141,R,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",142,P,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",143,T,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",144,L,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",145,R,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",146,R,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",147,V,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",148,R,Y,Disordered - Extended,1J1E,F,,R
+DP00166,P19429,"Troponin I, cardiac muscle",149,I,N,,1J1E,F,,I
+DP00166,P19429,"Troponin I, cardiac muscle",150,S,N,,1J1E,F,,S
+DP00166,P19429,"Troponin I, cardiac muscle",151,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",152,D,N,,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",153,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",154,M,N,,1J1E,F,H,M
+DP00166,P19429,"Troponin I, cardiac muscle",155,M,N,,1J1E,F,H,M
+DP00166,P19429,"Troponin I, cardiac muscle",156,Q,N,,1J1E,F,H,Q
+DP00166,P19429,"Troponin I, cardiac muscle",157,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",158,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",159,L,N,,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",160,G,N,,1J1E,F,,G
+DP00166,P19429,"Troponin I, cardiac muscle",161,A,N,,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",162,R,N,,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",163,A,Y,Disordered - Extended,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",164,K,Y,Disordered - Extended,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",165,E,Y,Disordered - Extended,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",166,S,Y,Disordered - Extended,1J1E,F,H,S
+DP00166,P19429,"Troponin I, cardiac muscle",167,L,Y,Disordered - Extended,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",168,D,Y,Disordered - Extended,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",169,L,Y,Disordered - Extended,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",170,R,Y,Disordered - Extended,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",171,A,Y,Disordered - Extended,1J1E,F,H,A
+DP00166,P19429,"Troponin I, cardiac muscle",172,H,Y,Disordered - Extended,1J1E,F,H,H
+DP00166,P19429,"Troponin I, cardiac muscle",173,L,Y,Disordered - Extended,1J1E,F,H,L
+DP00166,P19429,"Troponin I, cardiac muscle",174,K,Y,Disordered - Extended,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",175,Q,Y,Disordered - Extended,1J1E,F,H,Q
+DP00166,P19429,"Troponin I, cardiac muscle",176,V,Y,Disordered - Extended,1J1E,F,H,V
+DP00166,P19429,"Troponin I, cardiac muscle",177,K,Y,Disordered - Extended,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",178,K,Y,Disordered - Extended,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",179,E,Y,Disordered - Extended,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",180,D,Y,Disordered - Extended,1J1E,F,H,D
+DP00166,P19429,"Troponin I, cardiac muscle",181,T,Y,Disordered - Extended,1J1E,F,H,T
+DP00166,P19429,"Troponin I, cardiac muscle",182,E,Y,Disordered - Extended,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",183,K,Y,Disordered - Extended,1J1E,F,H,K
+DP00166,P19429,"Troponin I, cardiac muscle",184,E,Y,Disordered - Extended,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",185,N,Y,Disordered - Extended,1J1E,F,H,N
+DP00166,P19429,"Troponin I, cardiac muscle",186,R,Y,Disordered - Extended,1J1E,F,H,R
+DP00166,P19429,"Troponin I, cardiac muscle",187,E,Y,Disordered - Extended,1J1E,F,H,E
+DP00166,P19429,"Troponin I, cardiac muscle",188,V,Y,Disordered - Extended,1J1E,F,H,V
+DP00166,P19429,"Troponin I, cardiac muscle",189,G,Y,Disordered - Extended,1J1E,F,,G
+DP00166,P19429,"Troponin I, cardiac muscle",190,D,Y,Disordered - Extended,1J1E,F,,D
+DP00166,P19429,"Troponin I, cardiac muscle",191,W,Y,Disordered - Extended,1J1E,F,,W
+DP00166,P19429,"Troponin I, cardiac muscle",192,R,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",193,K,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",194,N,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",195,I,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",196,D,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",197,A,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",198,L,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",199,S,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",200,G,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",201,M,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",202,E,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",203,G,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",204,R,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",205,K,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",206,K,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",207,K,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",208,F,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",209,E,Y,Disordered - Extended,1J1E,F,,
+DP00166,P19429,"Troponin I, cardiac muscle",210,S,Y,Disordered - Extended,1J1E,F,,

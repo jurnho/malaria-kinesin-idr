@@ -1,0 +1,184 @@
+protein_id,uniprot_id,name,position,residue,disordered,type,pdb id,pdb chain,dssp ss,dssp aa
+DP00167,P10114,Ras-related protein Rap-2a,1,M,N,,1KAO,A,,M
+DP00167,P10114,Ras-related protein Rap-2a,2,R,N,,1KAO,A,,R
+DP00167,P10114,Ras-related protein Rap-2a,3,E,N,,1KAO,A,E,E
+DP00167,P10114,Ras-related protein Rap-2a,4,Y,N,,1KAO,A,E,Y
+DP00167,P10114,Ras-related protein Rap-2a,5,K,N,,1KAO,A,E,K
+DP00167,P10114,Ras-related protein Rap-2a,6,V,N,,1KAO,A,E,V
+DP00167,P10114,Ras-related protein Rap-2a,7,V,N,,1KAO,A,E,V
+DP00167,P10114,Ras-related protein Rap-2a,8,V,N,,1KAO,A,E,V
+DP00167,P10114,Ras-related protein Rap-2a,9,L,N,,1KAO,A,E,L
+DP00167,P10114,Ras-related protein Rap-2a,10,G,N,,1KAO,A,,G
+DP00167,P10114,Ras-related protein Rap-2a,11,S,N,,1KAO,A,,S
+DP00167,P10114,Ras-related protein Rap-2a,12,G,N,,1KAO,A,T,G
+DP00167,P10114,Ras-related protein Rap-2a,13,G,N,,1KAO,A,T,G
+DP00167,P10114,Ras-related protein Rap-2a,14,V,N,,1KAO,A,S,V
+DP00167,P10114,Ras-related protein Rap-2a,15,G,N,,1KAO,A,S,G
+DP00167,P10114,Ras-related protein Rap-2a,16,K,N,,1KAO,A,H,K
+DP00167,P10114,Ras-related protein Rap-2a,17,S,N,,1KAO,A,H,S
+DP00167,P10114,Ras-related protein Rap-2a,18,A,N,,1KAO,A,H,A
+DP00167,P10114,Ras-related protein Rap-2a,19,L,N,,1KAO,A,H,L
+DP00167,P10114,Ras-related protein Rap-2a,20,T,N,,1KAO,A,H,T
+DP00167,P10114,Ras-related protein Rap-2a,21,V,N,,1KAO,A,H,V
+DP00167,P10114,Ras-related protein Rap-2a,22,Q,N,,1KAO,A,H,Q
+DP00167,P10114,Ras-related protein Rap-2a,23,F,N,,1KAO,A,H,F
+DP00167,P10114,Ras-related protein Rap-2a,24,V,N,,1KAO,A,H,V
+DP00167,P10114,Ras-related protein Rap-2a,25,T,N,,1KAO,A,H,T
+DP00167,P10114,Ras-related protein Rap-2a,26,G,N,,1KAO,A,S,G
+DP00167,P10114,Ras-related protein Rap-2a,27,T,N,,1KAO,A,,T
+DP00167,P10114,Ras-related protein Rap-2a,28,F,N,,1KAO,A,,F
+DP00167,P10114,Ras-related protein Rap-2a,29,I,N,,1KAO,A,,I
+DP00167,P10114,Ras-related protein Rap-2a,30,E,N,,1KAO,A,S,E
+DP00167,P10114,Ras-related protein Rap-2a,31,K,N,,1KAO,A,,K
+DP00167,P10114,Ras-related protein Rap-2a,32,Y,Y,Disordered - Extended,1KAO,A,,Y
+DP00167,P10114,Ras-related protein Rap-2a,33,D,Y,Disordered - Extended,1KAO,A,,D
+DP00167,P10114,Ras-related protein Rap-2a,34,P,Y,Disordered - Extended,1KAO,A,T,P
+DP00167,P10114,Ras-related protein Rap-2a,35,T,Y,Disordered - Extended,1KAO,A,T,T
+DP00167,P10114,Ras-related protein Rap-2a,36,I,Y,Disordered - Extended,1KAO,A,,I
+DP00167,P10114,Ras-related protein Rap-2a,37,E,N,,1KAO,A,,E
+DP00167,P10114,Ras-related protein Rap-2a,38,D,N,,1KAO,A,E,D
+DP00167,P10114,Ras-related protein Rap-2a,39,F,N,,1KAO,A,E,F
+DP00167,P10114,Ras-related protein Rap-2a,40,Y,N,,1KAO,A,E,Y
+DP00167,P10114,Ras-related protein Rap-2a,41,R,N,,1KAO,A,E,R
+DP00167,P10114,Ras-related protein Rap-2a,42,K,N,,1KAO,A,E,K
+DP00167,P10114,Ras-related protein Rap-2a,43,E,N,,1KAO,A,E,E
+DP00167,P10114,Ras-related protein Rap-2a,44,I,N,,1KAO,A,E,I
+DP00167,P10114,Ras-related protein Rap-2a,45,E,Y,Disordered - Extended,1KAO,A,E,E
+DP00167,P10114,Ras-related protein Rap-2a,46,V,Y,Disordered - Extended,1KAO,A,E,V
+DP00167,P10114,Ras-related protein Rap-2a,47,D,Y,Disordered - Extended,1KAO,A,T,D
+DP00167,P10114,Ras-related protein Rap-2a,48,S,Y,Disordered - Extended,1KAO,A,T,S
+DP00167,P10114,Ras-related protein Rap-2a,49,S,Y,Disordered - Extended,1KAO,A,E,S
+DP00167,P10114,Ras-related protein Rap-2a,50,P,Y,Disordered - Extended,1KAO,A,E,P
+DP00167,P10114,Ras-related protein Rap-2a,51,S,Y,Disordered - Extended,1KAO,A,E,S
+DP00167,P10114,Ras-related protein Rap-2a,52,V,Y,Disordered - Extended,1KAO,A,E,V
+DP00167,P10114,Ras-related protein Rap-2a,53,L,Y,Disordered - Extended,1KAO,A,E,L
+DP00167,P10114,Ras-related protein Rap-2a,54,E,Y,Disordered - Extended,1KAO,A,E,E
+DP00167,P10114,Ras-related protein Rap-2a,55,I,Y,Disordered - Extended,1KAO,A,E,I
+DP00167,P10114,Ras-related protein Rap-2a,56,L,N,,1KAO,A,E,L
+DP00167,P10114,Ras-related protein Rap-2a,57,D,N,,1KAO,A,E,D
+DP00167,P10114,Ras-related protein Rap-2a,58,T,N,,1KAO,A,,T
+DP00167,P10114,Ras-related protein Rap-2a,59,A,N,,1KAO,A,,A
+DP00167,P10114,Ras-related protein Rap-2a,60,G,Y,Disordered - Extended,1KAO,A,,G
+DP00167,P10114,Ras-related protein Rap-2a,61,T,Y,Disordered - Extended,1KAO,A,T,T
+DP00167,P10114,Ras-related protein Rap-2a,62,E,Y,Disordered - Extended,1KAO,A,T,E
+DP00167,P10114,Ras-related protein Rap-2a,63,Q,Y,Disordered - Extended,1KAO,A,,Q
+DP00167,P10114,Ras-related protein Rap-2a,64,F,Y,Disordered - Extended,1KAO,A,,F
+DP00167,P10114,Ras-related protein Rap-2a,65,A,Y,Disordered - Extended,1KAO,A,H,A
+DP00167,P10114,Ras-related protein Rap-2a,66,S,Y,Disordered - Extended,1KAO,A,H,S
+DP00167,P10114,Ras-related protein Rap-2a,67,M,N,,1KAO,A,H,M
+DP00167,P10114,Ras-related protein Rap-2a,68,R,N,,1KAO,A,H,R
+DP00167,P10114,Ras-related protein Rap-2a,69,D,N,,1KAO,A,H,D
+DP00167,P10114,Ras-related protein Rap-2a,70,L,N,,1KAO,A,H,L
+DP00167,P10114,Ras-related protein Rap-2a,71,Y,N,,1KAO,A,H,Y
+DP00167,P10114,Ras-related protein Rap-2a,72,I,N,,1KAO,A,H,I
+DP00167,P10114,Ras-related protein Rap-2a,73,K,N,,1KAO,A,H,K
+DP00167,P10114,Ras-related protein Rap-2a,74,N,N,,1KAO,A,H,N
+DP00167,P10114,Ras-related protein Rap-2a,75,G,N,,1KAO,A,,G
+DP00167,P10114,Ras-related protein Rap-2a,76,Q,N,,1KAO,A,S,Q
+DP00167,P10114,Ras-related protein Rap-2a,77,G,N,,1KAO,A,E,G
+DP00167,P10114,Ras-related protein Rap-2a,78,F,N,,1KAO,A,E,F
+DP00167,P10114,Ras-related protein Rap-2a,79,I,N,,1KAO,A,E,I
+DP00167,P10114,Ras-related protein Rap-2a,80,L,N,,1KAO,A,E,L
+DP00167,P10114,Ras-related protein Rap-2a,81,V,N,,1KAO,A,E,V
+DP00167,P10114,Ras-related protein Rap-2a,82,Y,N,,1KAO,A,E,Y
+DP00167,P10114,Ras-related protein Rap-2a,83,S,N,,1KAO,A,E,S
+DP00167,P10114,Ras-related protein Rap-2a,84,L,N,,1KAO,A,T,L
+DP00167,P10114,Ras-related protein Rap-2a,85,V,N,,1KAO,A,T,V
+DP00167,P10114,Ras-related protein Rap-2a,86,N,N,,1KAO,A,,N
+DP00167,P10114,Ras-related protein Rap-2a,87,Q,N,,1KAO,A,H,Q
+DP00167,P10114,Ras-related protein Rap-2a,88,Q,N,,1KAO,A,H,Q
+DP00167,P10114,Ras-related protein Rap-2a,89,S,N,,1KAO,A,H,S
+DP00167,P10114,Ras-related protein Rap-2a,90,F,N,,1KAO,A,H,F
+DP00167,P10114,Ras-related protein Rap-2a,91,Q,N,,1KAO,A,H,Q
+DP00167,P10114,Ras-related protein Rap-2a,92,D,N,,1KAO,A,H,D
+DP00167,P10114,Ras-related protein Rap-2a,93,I,N,,1KAO,A,H,I
+DP00167,P10114,Ras-related protein Rap-2a,94,K,N,,1KAO,A,H,K
+DP00167,P10114,Ras-related protein Rap-2a,95,P,N,,1KAO,A,H,P
+DP00167,P10114,Ras-related protein Rap-2a,96,M,N,,1KAO,A,H,M
+DP00167,P10114,Ras-related protein Rap-2a,97,R,N,,1KAO,A,H,R
+DP00167,P10114,Ras-related protein Rap-2a,98,D,N,,1KAO,A,H,D
+DP00167,P10114,Ras-related protein Rap-2a,99,Q,N,,1KAO,A,H,Q
+DP00167,P10114,Ras-related protein Rap-2a,100,I,N,,1KAO,A,H,I
+DP00167,P10114,Ras-related protein Rap-2a,101,I,N,,1KAO,A,H,I
+DP00167,P10114,Ras-related protein Rap-2a,102,R,N,,1KAO,A,H,R
+DP00167,P10114,Ras-related protein Rap-2a,103,V,N,,1KAO,A,H,V
+DP00167,P10114,Ras-related protein Rap-2a,104,K,N,,1KAO,A,T,K
+DP00167,P10114,Ras-related protein Rap-2a,105,R,N,,1KAO,A,T,R
+DP00167,P10114,Ras-related protein Rap-2a,106,Y,N,,1KAO,A,T,Y
+DP00167,P10114,Ras-related protein Rap-2a,107,E,N,,1KAO,A,S,E
+DP00167,P10114,Ras-related protein Rap-2a,108,K,N,,1KAO,A,,K
+DP00167,P10114,Ras-related protein Rap-2a,109,V,N,,1KAO,A,,V
+DP00167,P10114,Ras-related protein Rap-2a,110,P,N,,1KAO,A,,P
+DP00167,P10114,Ras-related protein Rap-2a,111,V,N,,1KAO,A,E,V
+DP00167,P10114,Ras-related protein Rap-2a,112,I,N,,1KAO,A,E,I
+DP00167,P10114,Ras-related protein Rap-2a,113,L,N,,1KAO,A,E,L
+DP00167,P10114,Ras-related protein Rap-2a,114,V,N,,1KAO,A,E,V
+DP00167,P10114,Ras-related protein Rap-2a,115,G,N,,1KAO,A,E,G
+DP00167,P10114,Ras-related protein Rap-2a,116,N,N,,1KAO,A,E,N
+DP00167,P10114,Ras-related protein Rap-2a,117,K,N,,1KAO,A,,K
+DP00167,P10114,Ras-related protein Rap-2a,118,V,N,,1KAO,A,G,V
+DP00167,P10114,Ras-related protein Rap-2a,119,D,N,,1KAO,A,G,D
+DP00167,P10114,Ras-related protein Rap-2a,120,L,N,,1KAO,A,G,L
+DP00167,P10114,Ras-related protein Rap-2a,121,E,N,,1KAO,A,G,E
+DP00167,P10114,Ras-related protein Rap-2a,122,S,N,,1KAO,A,G,S
+DP00167,P10114,Ras-related protein Rap-2a,123,E,N,,1KAO,A,G,E
+DP00167,P10114,Ras-related protein Rap-2a,124,R,N,,1KAO,A,,R
+DP00167,P10114,Ras-related protein Rap-2a,125,E,N,,1KAO,A,,E
+DP00167,P10114,Ras-related protein Rap-2a,126,V,N,,1KAO,A,S,V
+DP00167,P10114,Ras-related protein Rap-2a,127,S,N,,1KAO,A,,S
+DP00167,P10114,Ras-related protein Rap-2a,128,S,N,,1KAO,A,H,S
+DP00167,P10114,Ras-related protein Rap-2a,129,S,N,,1KAO,A,H,S
+DP00167,P10114,Ras-related protein Rap-2a,130,E,N,,1KAO,A,H,E
+DP00167,P10114,Ras-related protein Rap-2a,131,G,N,,1KAO,A,H,G
+DP00167,P10114,Ras-related protein Rap-2a,132,R,N,,1KAO,A,H,R
+DP00167,P10114,Ras-related protein Rap-2a,133,A,N,,1KAO,A,H,A
+DP00167,P10114,Ras-related protein Rap-2a,134,L,N,,1KAO,A,H,L
+DP00167,P10114,Ras-related protein Rap-2a,135,A,N,,1KAO,A,H,A
+DP00167,P10114,Ras-related protein Rap-2a,136,E,N,,1KAO,A,H,E
+DP00167,P10114,Ras-related protein Rap-2a,137,E,N,,1KAO,A,H,E
+DP00167,P10114,Ras-related protein Rap-2a,138,W,N,,1KAO,A,H,W
+DP00167,P10114,Ras-related protein Rap-2a,139,G,N,,1KAO,A,T,G
+DP00167,P10114,Ras-related protein Rap-2a,140,C,N,,1KAO,A,S,C
+DP00167,P10114,Ras-related protein Rap-2a,141,P,N,,1KAO,A,,P
+DP00167,P10114,Ras-related protein Rap-2a,142,F,N,,1KAO,A,E,F
+DP00167,P10114,Ras-related protein Rap-2a,143,M,N,,1KAO,A,E,M
+DP00167,P10114,Ras-related protein Rap-2a,144,E,N,,1KAO,A,E,E
+DP00167,P10114,Ras-related protein Rap-2a,145,T,N,,1KAO,A,E,T
+DP00167,P10114,Ras-related protein Rap-2a,146,S,N,,1KAO,A,,S
+DP00167,P10114,Ras-related protein Rap-2a,147,A,N,,1KAO,A,T,A
+DP00167,P10114,Ras-related protein Rap-2a,148,K,N,,1KAO,A,T,K
+DP00167,P10114,Ras-related protein Rap-2a,149,S,N,,1KAO,A,,S
+DP00167,P10114,Ras-related protein Rap-2a,150,K,N,,1KAO,A,H,K
+DP00167,P10114,Ras-related protein Rap-2a,151,T,N,,1KAO,A,H,T
+DP00167,P10114,Ras-related protein Rap-2a,152,M,N,,1KAO,A,H,M
+DP00167,P10114,Ras-related protein Rap-2a,153,V,N,,1KAO,A,H,V
+DP00167,P10114,Ras-related protein Rap-2a,154,D,N,,1KAO,A,H,D
+DP00167,P10114,Ras-related protein Rap-2a,155,E,N,,1KAO,A,H,E
+DP00167,P10114,Ras-related protein Rap-2a,156,L,N,,1KAO,A,H,L
+DP00167,P10114,Ras-related protein Rap-2a,157,F,N,,1KAO,A,H,F
+DP00167,P10114,Ras-related protein Rap-2a,158,A,N,,1KAO,A,H,A
+DP00167,P10114,Ras-related protein Rap-2a,159,E,N,,1KAO,A,H,E
+DP00167,P10114,Ras-related protein Rap-2a,160,I,N,,1KAO,A,H,I
+DP00167,P10114,Ras-related protein Rap-2a,161,V,N,,1KAO,A,H,V
+DP00167,P10114,Ras-related protein Rap-2a,162,R,N,,1KAO,A,H,R
+DP00167,P10114,Ras-related protein Rap-2a,163,Q,N,,1KAO,A,H,Q
+DP00167,P10114,Ras-related protein Rap-2a,164,M,N,,1KAO,A,H,M
+DP00167,P10114,Ras-related protein Rap-2a,165,N,N,,1KAO,A,H,N
+DP00167,P10114,Ras-related protein Rap-2a,166,Y,N,,1KAO,A,H,Y
+DP00167,P10114,Ras-related protein Rap-2a,167,A,N,,1KAO,A,,A
+DP00167,P10114,Ras-related protein Rap-2a,168,A,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,169,Q,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,170,P,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,171,D,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,172,K,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,173,D,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,174,D,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,175,P,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,176,C,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,177,C,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,178,S,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,179,A,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,180,C,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,181,N,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,182,I,N,,1KAO,A,,
+DP00167,P10114,Ras-related protein Rap-2a,183,Q,N,,1KAO,A,,
