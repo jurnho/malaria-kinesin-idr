@@ -4,12 +4,12 @@ protein_ids = unique(disprot$protein_id)
 prediction_files = Sys.glob("DP*csv")
 # reduce to big matrix of predictions.
 
-# list of dataframs
+# list of dataframes
 bbb = lapply(prediction_files, function(prediction_file) {
     read.csv(prediction_file, stringsAsFactors=FALSE)
 })
 # https://stat.ethz.ch/pipermail/r-help/2010-September/252046.html
-all_results = do.call("rbind", bbb)
+predictions = do.call("rbind", bbb)
 
 ## output results_summary
 # protein_id, predictor, tp, fn, fp, n
@@ -19,6 +19,7 @@ specificity=numeric(), accuracy=numeric(), pdb_id=character(), actual_disorder_c
 actual_order_count=character()
 )
 
+# threshold is not always 0.5, it depends on the predictor
 is_disorder_predicted = function(predictor, raw_scores) {
     threshold = 0.5
     if (predictor == 'DISEMBL_COILS') {
@@ -50,7 +51,7 @@ for (protein_id in protein_ids) {
     actual_order_count = sum(disprot[disprot$protein_id==protein_id,c('disordered')] == 'N')
 
     disprot_actual = disprot[disprot$protein_id == protein_id,]
-    prediction_results = all_results[all_results$protein_id == protein_id,]
+    prediction_results = predictions[predictions$protein_id == protein_id,]
     predictors = unique(prediction_results$predictor)
     for (predictor in predictors) {
         predictor_results = prediction_results[prediction_results$predictor == predictor,]
@@ -137,9 +138,9 @@ write.csv(predictor_summary_scores, file = "predictor_summary_scores.csv")
 #vector
 correlations = c()
 for (p1 in predictors) {
-    s1 = all_results[all_results$predictor==p1,]
+    s1 = predictions[predictions$predictor==p1,]
     for (p2 in predictors) {
-        s2 = all_results[all_results$predictor==p2,]
+        s2 = predictions[predictions$predictor==p2,]
         j3 = merge(s1,s2,by=c('protein_id','position'))
         correlation = cor(j3$score.x, j3$score.y)
         message(p1)
@@ -158,7 +159,7 @@ disprot = read.csv("disprot.csv", stringsAsFactors=FALSE)
 head(disprot)
 #
 for (p in predictors) {
-    scores = all_results[all_results$predictor==p,c('protein_id', 'position','score')]
+    scores = predictions[predictions$predictor==p,c('protein_id', 'position','score')]
     disprot = merge(disprot,scores,by=c('protein_id','position'))
     new_column_names = c(head(colnames(disprot),-1), p)
     colnames(disprot) = new_column_names
@@ -304,8 +305,8 @@ lm_results = cbind(lm_results, lm_predictions, lm_predictions_YN)
 lm_results = lm_results[order(lm_results["protein_id"], lm_results["position"]),]
 write.csv(lm_results, file = "lm_results.csv")
 
-all_results_sorted = cbind(knn_results_sorted, lm_results$lm_predictions_YN)
-# write.csv(all_results_sorted, file = "all_results_sorted.csv")
+predictions_sorted = cbind(knn_results_sorted, lm_results$lm_predictions_YN)
+# write.csv(predictions_sorted, file = "predictions_sorted.csv")
 # append lm results
 
 true_positive = sum((lm_predictions_YN=='Y') & (lm_test_labels =='Y'))
