@@ -5,11 +5,11 @@ prediction_files = Sys.glob("DP*csv")
 # reduce to big matrix of predictions.
 
 # list of dataframes
-bbb = lapply(prediction_files, function(prediction_file) {
+prediction_dfs = lapply(prediction_files, function(prediction_file) {
     read.csv(prediction_file, stringsAsFactors=FALSE)
 })
 # https://stat.ethz.ch/pipermail/r-help/2010-September/252046.html
-predictions = do.call("rbind", bbb)
+predictions = do.call("rbind", prediction_dfs)
 
 ## output results_summary
 # protein_id, predictor, tp, fn, fp, n
