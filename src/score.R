@@ -126,9 +126,6 @@ predictor_scores
 write.csv(predictor_scores, file = "predictor_scores.csv")
 
 # correlations from results
-
-
-
 #vector
 correlations = c()
 for (p1 in predictors) {
