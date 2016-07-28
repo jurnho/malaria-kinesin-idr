@@ -88,52 +88,42 @@ for (protein_id in protein_ids) {
 }
 
 write.csv(results_summary, file = "predictor_disprot_results_summary.csv")
-# head(results_summary)
-# mean accuracy by predictor
+
+# results_summary contains accuracy by predictor and protein
 
 predictors = unique(results_summary$predictor)
-predictor_summary_scores = data.frame(predictor=character(),
-sensitivity=numeric(), specificity=numeric(), accuracy=numeric(),
-sensitivity.pdb=numeric(), specificity.pdb=numeric(), accuracy.pdb=numeric()
+predictor_scores = data.frame(predictor=character(), test_set=character(),
+sensitivity=numeric(), specificity=numeric(), accuracy=numeric()
 )
 
-for (predictor in predictors) {
-    p = results_summary[results_summary$predictor==predictor,]
-    p_sensitivity = p$sensitivity
-    p_specificity = p$specificity
-    p_accuracy = p$accuracy
+predictor_mean_score = function(protein_scores, test_set_name, predictor) {
+    p_sensitivity = protein_scores$sensitivity
+    p_specificity = protein_scores$specificity
+    p_accuracy = protein_scores$accuracy
 
     mean_sensitivity = mean(p_sensitivity[!is.nan(p_sensitivity)])
     mean_specificity = mean(p_specificity[!is.nan(p_specificity)])
     mean_accuracy = mean(p_accuracy[!is.nan(p_accuracy)])
-    message(predictor)
-    message(mean_sensitivity)
-    message(mean_specificity)
-    message(mean_accuracy)
-    # with pdb only
-    p_pdb = p[p$pdb_id!="",]
-    p_pdb_sensitivity = p_pdb$sensitivity
-    p_pdb_specificity = p_pdb$specificity
-    p_pdb_accuracy = p_pdb$accuracy
-    mean_pdb_sensitivity = mean(p_pdb_sensitivity[!is.nan(p_pdb_sensitivity)])
-    mean_pdb_specificity = mean(p_pdb_specificity[!is.nan(p_pdb_specificity)])
-    mean_pdb_accuracy = mean(p_pdb_accuracy[!is.nan(p_pdb_accuracy)])
-    message(mean_pdb_sensitivity)
-    message(mean_pdb_specificity)
-    message(mean_pdb_accuracy)
-    # add to results
-    predictor_summary_scores = rbind(predictor_summary_scores,
-    data.frame(predictor=predictor,
-    mean_sensitivity=mean_sensitivity,
-    mean_specificity=mean_specificity,
-    mean_accuracy=mean_accuracy,
-    mean_pdb_sensitivity=mean_pdb_sensitivity,
-    mean_pdb_specificity=mean_pdb_specificity,
-    mean_pdb_accuracy=mean_pdb_accuracy)
+    p_result = data.frame(predictor=predictor,
+        test_set=test_set_name,
+        mean_sensitivity=mean_sensitivity,
+        mean_specificity=mean_specificity,
+        mean_accuracy=mean_accuracy
     )
+    return (p_result)
+}
+for (predictor in predictors) {
+    p = results_summary[results_summary$predictor==predictor,]
+    scores = predictor_mean_score(p, 'Disprot all', predictor)
+    predictor_scores = rbind(predictor_scores, scores)
+    p_pdb = p[p$pdb_id!="",]
+    scores = predictor_mean_score(p_pdb, 'Disprot with PDB only', predictor)
+    predictor_scores = rbind(predictor_scores, scores)
 }
 
-write.csv(predictor_summary_scores, file = "predictor_summary_scores.csv")
+predictor_scores
+
+write.csv(predictor_scores, file = "predictor_scores.csv")
 
 # correlations from results
 
