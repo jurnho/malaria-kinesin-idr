@@ -15,8 +15,8 @@ predictions = do.call("rbind", prediction_dfs)
 # protein_id, predictor, tp, fn, fp, n
 results_summary = data.frame(protein_id=character(), uniprot_id=character(), name=character(),
 predictor=character(), TP=numeric(), FN=numeric(), FP=numeric(), TN=numeric(), sensitivity=numeric(),
-specificity=numeric(), accuracy=numeric(), pdb_id=character(), actual_disorder_count=character(),
-actual_order_count=character()
+specificity=numeric(), accuracy=numeric(), pdb_id=character(), disprot_disorder_count=character(),
+disprot_order_count=character()
 )
 
 # threshold is not always 0.5, it depends on the predictor
@@ -47,28 +47,32 @@ for (protein_id in protein_ids) {
     uniprot_id = disprot[disprot$protein_id == protein_id,][1,"uniprot_id"]
     name = disprot[disprot$protein_id == protein_id,][1,"name"]
     pdb_id = disprot[disprot$protein_id == protein_id,][1,"pdb.id"]
-    actual_disorder_count = sum(disprot[disprot$protein_id==protein_id,c('disordered')] == 'Y')
-    actual_order_count = sum(disprot[disprot$protein_id==protein_id,c('disordered')] == 'N')
+    disprot_disorder_count = sum(disprot[disprot$protein_id==protein_id,c('disordered')] == 'Y')
+    disprot_order_count = sum(disprot[disprot$protein_id==protein_id,c('disordered')] == 'N')
 
-    disprot_actual = disprot[disprot$protein_id == protein_id,]
-    prediction_results = predictions[predictions$protein_id == protein_id,]
-    predictors = unique(prediction_results$predictor)
+    disprot_protein_info = disprot[disprot$protein_id == protein_id,]
+#    message(length(disprot_protein_info$disordered))
+    # predictions for a single protein with all predictors
+    protein_prediction_results = predictions[predictions$protein_id == protein_id,]
+    predictors = unique(protein_prediction_results$predictor)
     for (predictor in predictors) {
-        predictor_results = prediction_results[prediction_results$predictor == predictor,]
-        #    message("predictor_results")
-        #    str(predictor_results)
-        #    message("actual")
-        #    str(disprot_actual$disordered)
-        disorder_predicted = is_disorder_predicted(predictor, predictor_results$score)
-        true_positive = sum(disorder_predicted & (disprot_actual$disordered =='Y'))
-        # false negative
-        false_negative = sum((!disorder_predicted) & (disprot_actual$disordered =='Y'))
-        # false positive
-        false_positive = sum(disorder_predicted & (disprot_actual$disordered =='N'))
-        # true negative
-        true_negative = sum((!disorder_predicted) & (disprot_actual$disordered =='N'))
-
         message(predictor)
+        # predictions for a a single protein and single predictor
+        predictor_results = protein_prediction_results[protein_prediction_results$predictor == predictor,]
+#        message(length(predictor_results$score))
+        if (length(disprot_protein_info$disordered) != length(predictor_results$score)) {
+          message("wrong count")
+          next
+        }
+        disorder_predicted = is_disorder_predicted(predictor, predictor_results$score)
+        true_positive = sum(disorder_predicted & (disprot_protein_info$disordered =='Y'))
+        # false negative
+        false_negative = sum((!disorder_predicted) & (disprot_protein_info$disordered =='Y'))
+        # false positive
+        false_positive = sum(disorder_predicted & (disprot_protein_info$disordered =='N'))
+        # true negative
+        true_negative = sum((!disorder_predicted) & (disprot_protein_info$disordered =='N'))
+
         sensitivity = true_positive / (true_positive + false_negative)
         specificity = true_negative / (true_negative + false_positive)
         accuracy = (true_positive + true_negative) / (true_positive + false_positive + false_negative + true_negative)
@@ -78,12 +82,12 @@ for (protein_id in protein_ids) {
         results_summary = rbind(results_summary, data.frame(
         protein_id = protein_id, uniprot_id=uniprot_id, name=name, predictor = predictor, TP = true_positive, FN = false_negative,
         FP = false_positive, TN = true_negative, sensitivity = sensitivity, specificity = specificity, accuracy = accuracy,
-        pdb_id = pdb_id, actual_disorder_count = actual_disorder_count, actual_order_count = actual_order_count
+        pdb_id = pdb_id, disprot_disorder_count = disprot_disorder_count, disprot_order_count = disprot_order_count
         ))
     }
 }
 
-write.csv(results_summary, file = "results_summary.csv")
+write.csv(results_summary, file = "predictor_disprot_results_summary.csv")
 # head(results_summary)
 # mean accuracy by predictor
 
