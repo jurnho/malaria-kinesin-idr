@@ -146,17 +146,17 @@ rownames(m) = predictors;
 colnames(m) = predictors;
 write.csv(m, file = "predictor_correlations.csv")
 
-disprot = read.csv("disprot.csv", stringsAsFactors=FALSE)
-head(disprot)
-#
+disprot_predictor_scores = disprot
 for (p in predictors) {
     scores = predictions[predictions$predictor==p,c('protein_id', 'position','score')]
-    disprot = merge(disprot,scores,by=c('protein_id','position'))
-    new_column_names = c(head(colnames(disprot),-1), p)
-    colnames(disprot) = new_column_names
+    disprot_predictor_scores = merge(disprot_predictor_scores,scores,by=c('protein_id','position'))
+    # update column names with name of predictor
+    new_column_names = c(head(colnames(disprot_predictor_scores),-1), p)
+    colnames(disprot_predictor_scores) = new_column_names
 }
 
-write.csv(disprot,file='disprot_scores.csv')
+write.csv(disprot_predictor_scores,file='disprot_predictor_scores.csv')
+
 
 # only keep proteins with a PDB, these are more simliar to kinesins
 disprot=disprot[disprot$pdb.id!='',]
