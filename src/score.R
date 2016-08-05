@@ -256,7 +256,7 @@ lm_disprot = function(pdb_only, protein_buckets) {
 }
 lm_disprot(pdb_only, protein_buckets)
 
-svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000) {
+svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000, svm_kernel="radial") {
   library("e1071")
   svm_data_set= merge(pdb_only,protein_buckets,by=c('protein_id'))
   svm_train.all = svm_data_set[svm_data_set$bucket==1,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short','disordered')]
@@ -265,7 +265,8 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
   svm_train.data = svm_train.subset[,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
   svm_train.labels = as.factor(svm_train.subset[,c('disordered')])
 
-  svm_model = svm(x=svm_train.data, y=svm_train.labels, probability = TRUE, class.weights=c('Y'=yes_weight, 'N'=1))
+  svm_model = svm(x=svm_train.data, y=svm_train.labels, probability = TRUE, class.weights=c('Y'=yes_weight, 'N'=1),
+                kernel=svm_kernel)
   svm_test_all = svm_data_set[svm_data_set$bucket==2,c('protein_id','position','disordered','DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
   svm_test_all = svm_test_all[order(svm_test_all["protein_id"], svm_test_all["position"]),]
   svm_test_data = svm_test_all[,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
@@ -284,99 +285,48 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
   svm_specificity = true_negative / (true_negative + false_positive)
   svm_accuracy = (true_positive + true_negative) / (true_positive + false_positive + false_negative + true_negative)
 
-  result = c('svm_sensitivity'=svm_sensitivity, 'svm_specificity'=svm_specificity, 'svm_accuracy'=svm_accuracy)
-  return (result)
+  result = c('svm_sensitivity'=round(svm_sensitivity, 3), 'svm_specificity'=round(svm_specificity,3),
+        'svm_accuracy'=round(svm_accuracy,3))
+  return (list(result=result, svm_model=svm_model))
 }
-svm_disprot(pdb_only, protein_buckets)
+svm_disprot_result = svm_disprot(pdb_only, protein_buckets)
+svm_result=svm_disprot_result$result
+svm_model=svm_disprot_result$svm_model
 
-
-
-
-
-# nrow(svm_train.data.all)
-
-
-svm_prediction_filter_lone_Y = apply(svm_results, 1, function(svm_result_row) {
-protein_id = svm_result_row['protein_id']
-position = as.integer(svm_result_row['position'])
-prediction = svm_result_row['svm_prediction_YN']
-prediction_previous = svm_results[svm_results$protein_id == protein_id & svm_results$position == (position - 1), c('svm_prediction_YN')]
-if (length(prediction_previous) == 0) {
-prediction_previous = "_"
-}
-prediction_next = svm_results[svm_results$protein_id == protein_id & svm_results$position == (position + 1), c('svm_prediction_YN')]
-if (length(prediction_next) == 0) {
-prediction_next = "_"
-}
-if (prediction == 'Y' & prediction_previous == 'N' & prediction_next == 'N') {
-return ('N')
-}
-else {
-    return (prediction)
-}
-# check previous prediction, and next prediction
+# plasmodb kinesin files are found in plasmodb/csv/
+plasmodb_kinesins = Sys.glob('plasmodb/csv/*.csv')
+# many dataframes
+plasmodb_ref_dfs = lapply(plasmodb_kinesins, function(plasmo) {
+    read.csv(plasmo, stringsAsFactors=FALSE)
 })
-svm_results = cbind(svm_results, svm_prediction_filter_lone_Y)
+# combine them into one
+plasmodb = do.call("rbind", plasmodb_ref_dfs)
 
-# then filter lone N
-svm_prediction_filtered = apply(svm_results, 1, function(svm_result_row) {
-    protein_id = svm_result_row['protein_id']
-position = as.integer(svm_result_row['position'])
-prediction = svm_result_row['svm_prediction_filter_lone_Y']
-prediction_previous = svm_results[svm_results$protein_id == protein_id & svm_results$position == (position - 1), c('svm_prediction_filter_lone_Y')]
-if (length(prediction_previous) == 0) {
-    prediction_previous = "_"
-}
-prediction_next = svm_results[svm_results$protein_id == protein_id & svm_results$position == (position + 1), c('svm_prediction_filter_lone_Y')]
-if (length(prediction_next) == 0) {
-    prediction_next = "_"
-}
-if (prediction == 'N' & prediction_previous == 'Y' & prediction_next == 'Y') {
-    return ('Y')
-}
-else {
-    return (prediction)
-}
-# check previous prediction, and next prediction
+# load up individual predictions
+
+plasmo_prediction_files = Sys.glob('plasmodb/predictions/*/*.csv')
+plasmo_prediction_dfs = lapply(plasmo_prediction_files, function(plasmo_prediction_file) {
+    read.csv(plasmo_prediction_file, stringsAsFactors=FALSE)
 })
-svm_results = cbind(svm_results, svm_prediction_filtered)
+plasmo_prediction_df = do.call("rbind", plasmo_prediction_dfs)
 
-write.csv(svm_results, file = "svm_results.csv")
+plasmodb_predictions = plasmodb
+for (p in predictors) {
+    # extract scores for the predictor
+    scores = plasmo_prediction_df[plasmo_prediction_df$predictor==p,c('protein_id', 'position','score')]
+    # join
+    plasmodb_predictions = merge(plasmodb_predictions,scores,by=c('protein_id','position'))
+    # update col name
+    new_column_names = c(head(colnames(plasmodb_predictions),-1), p)
+    colnames(plasmodb_predictions) = new_column_names
+}
 
-true_positive = sum((svm_prediction_YN=='Y') & (svm_test_labels =='Y'))
-# false negative
-false_negative = sum((svm_prediction_YN=='N') & (svm_test_labels =='Y'))
-# false positive
-false_positive = sum((svm_prediction_YN =='Y') & (svm_test_labels =='N'))
-# true negative
-true_negative = sum((svm_prediction_YN =='N') & (svm_test_labels =='N'))
-
-svm_sensitivity = true_positive / (true_positive + false_negative)
-svm_specificity = true_negative / (true_negative + false_positive)
-svm_accuracy = (true_positive + true_negative) / (true_positive + false_positive + false_negative + true_negative)
-
-c('svm_sensitivity'=svm_sensitivity, 'svm_specificity'=svm_specificity, 'svm_accuracy'=svm_accuracy)
-
-## filtered scoring
-true_positive = sum((svm_prediction_filtered=='Y') & (svm_test_labels =='Y'))
-# false negative
-false_negative = sum((svm_prediction_filtered=='N') & (svm_test_labels =='Y'))
-# false positive
-false_positive = sum((svm_prediction_filtered =='Y') & (svm_test_labels =='N'))
-# true negative
-true_negative = sum((svm_prediction_filtered =='N') & (svm_test_labels =='N'))
-
-svm_filtered_sensitivity = true_positive / (true_positive + false_negative)
-svm_filtered_specificity = true_negative / (true_negative + false_positive)
-svm_filtered_accuracy = (true_positive + true_negative) / (true_positive + false_positive + false_negative + true_negative)
-
-c('svm_filtered_sensitivity'=svm_filtered_sensitivity, 'svm_filtered_specificity'=svm_filtered_specificity, 'svm_filtered_accuracy'=svm_filtered_accuracy)
-
-
-
-plasmo_svm.test_data = plasmodb[,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
+# svm input
+plasmo_svm.test_data = plasmodb_predictions[,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
+# predict
 plasmo_svm.prediction = predict(svm_model, plasmo_svm.test_data)
+# results
 plasmo_svm.prediction_YN = as.vector(plasmo_svm.prediction)
-plasmo_results = cbind(plasmodb, plasmo_svm.prediction_YN)
+plasmo_results = cbind(plasmodb_predictions, plasmo_svm.prediction_YN)
 plasmo_results = plasmo_results[order(plasmo_results["protein_id"], plasmo_results["position"]),]
-write.csv(plasmo_results, file = "plasmo_results.csv")
+
