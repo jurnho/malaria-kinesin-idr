@@ -260,6 +260,7 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
   library("e1071")
   svm_data_set= merge(pdb_only,protein_buckets,by=c('protein_id'))
   svm_train.all = svm_data_set[svm_data_set$bucket==1,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short','disordered')]
+  # random sample from the training subset
   training_subset = sample(nrow(svm_train.all), num_samples)
   svm_train.subset = svm_train.all[training_subset,]
   svm_train.data = svm_train.subset[,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
@@ -271,9 +272,10 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
   svm_test_all = svm_test_all[order(svm_test_all["protein_id"], svm_test_all["position"]),]
   svm_test_data = svm_test_all[,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
   svm_test_labels = svm_test_all[,c('disordered')]
-  # svm_prediction = predict(svm_model, svm_test_data, decision.values = TRUE, probability = TRUE)
-  svm_prediction = predict(svm_model, svm_test_data)
+  # probability=TRUE doesn't seem to work here.
+  svm_prediction = predict(svm_model, svm_test_data, decision.values = TRUE)
   svm_prediction_YN = as.vector(svm_prediction)
+  svm_prediction_decision_values = attr(svm_prediction, "decision.values")[,'N/Y'] * -1
   svm_results = cbind(svm_test_all, svm_prediction_YN)
 
   true_positive = sum((svm_prediction_YN=='Y') & (svm_test_labels =='Y'))
@@ -287,11 +289,15 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
 
   result = c('svm_sensitivity'=round(svm_sensitivity, 3), 'svm_specificity'=round(svm_specificity,3),
         'svm_accuracy'=round(svm_accuracy,3))
-  return (list(result=result, svm_model=svm_model))
+  return (list(result=result, svm_model=svm_model,
+  svm_prediction_decision_values=svm_prediction_decision_values,
+  svm_prediction_YN = svm_prediction_YN))
 }
 svm_disprot_result = svm_disprot(pdb_only, protein_buckets)
 svm_result=svm_disprot_result$result
 svm_model=svm_disprot_result$svm_model
+svm_prediction_decision_values=svm_disprot_result$svm_prediction_decision_values
+svm_prediction_YN=svm_disprot_result$svm_prediction_YN
 
 # plasmodb kinesin files are found in plasmodb/csv/
 plasmodb_kinesins = Sys.glob('plasmodb/csv/*.csv')
@@ -324,9 +330,37 @@ for (p in predictors) {
 # svm input
 plasmo_svm.test_data = plasmodb_predictions[,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
 # predict
-plasmo_svm.prediction = predict(svm_model, plasmo_svm.test_data)
+plasmo_svm.prediction = predict(svm_model, plasmo_svm.test_data, decision.values = TRUE)
 # results
-plasmo_svm.prediction_YN = as.vector(plasmo_svm.prediction)
-plasmo_results = cbind(plasmodb_predictions, plasmo_svm.prediction_YN)
-plasmo_results = plasmo_results[order(plasmo_results["protein_id"], plasmo_results["position"]),]
+plasmo_svm.disorder = as.vector(plasmo_svm.prediction)
 
+plasmo_svm_decision_values = attr(plasmo_svm.prediction, "decision.values")[,'N/Y'] * -1
+plasmo_results = cbind(plasmodb_predictions, plasmo_svm.disorder)
+plasmo_results = cbind(plasmo_results, plasmo_svm_decision_values)
+plasmo_results = plasmo_results[order(plasmo_results["protein_id"], plasmo_results["position"]),]
+write.csv(plasmo_results, file = "plasmo_results.csv")
+
+# other info
+## percent of predicted disorder in test set
+sum(svm_prediction_decision_values > 0)
+sum(svm_prediction_decision_values < 0)
+test_set_predicted_percent_disorder = sum(svm_prediction_decision_values > 0) / length(svm_prediction_decision_values)
+test_set_predicted_percent_disorder
+## percent of predicted disorder in disprot
+sum(plasmo_svm_decision_values > 0)
+sum(plasmo_svm_decision_values < 0)
+plasmo_predicted_percent_disorder = sum(plasmo_svm_decision_values > 0) / length(plasmo_svm_decision_values)
+plasmo_predicted_percent_disorder
+
+# plots
+breaks = seq(-2, 2, by=0.10 )
+h = hist(svm_prediction_decision_values, breaks=breaks)
+h$counts = h$counts / length(svm_prediction_decision_values)
+
+h2 =hist(plasmo_svm_decision_values, breaks=breaks)
+h2$counts = h2$counts / length(plasmo_svm_decision_values)
+
+a = rbind(h$counts, h2$counts)
+rownames(a) = c('test set','plasmodb kinesins')
+barplot(a, beside=TRUE, xlab = "decision value (distance)", legend=rownames(a),
+main="SVM relative frequency distribution of decision values", names=h$mids)
