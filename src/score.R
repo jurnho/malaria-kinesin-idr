@@ -338,7 +338,7 @@ plasmo_svm_decision_values = attr(plasmo_svm.prediction, "decision.values")[,'N/
 plasmo_results = cbind(plasmodb_predictions, plasmo_svm.disorder)
 plasmo_results = cbind(plasmo_results, plasmo_svm_decision_values)
 plasmo_results = plasmo_results[order(plasmo_results["protein_id"], plasmo_results["position"]),]
-write.csv(plasmo_results, file = "plasmo_results.csv")
+write.csv(plasmo_results, file = "plasmo_svm_prediction.csv")
 
 # other info
 ## percent of predicted disorder in test set
