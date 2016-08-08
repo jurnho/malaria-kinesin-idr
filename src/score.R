@@ -364,3 +364,7 @@ a = rbind(h$counts, h2$counts)
 rownames(a) = c('test set','plasmodb kinesins')
 barplot(a, beside=TRUE, xlab = "decision value (distance)", legend=rownames(a),
 main="SVM relative frequency distribution of decision values", names=h$mids)
+png("svm_relative_frequency.png")
+barplot(a, beside=TRUE, xlab = "decision value (distance)", legend=rownames(a),
+main="SVM relative frequency distribution of decision values", names=h$mids)
+dev.off()
