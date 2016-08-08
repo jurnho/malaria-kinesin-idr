@@ -8,8 +8,6 @@ import csv
 
 __author__ = 'jurn'
 
-OUTPUT_FILE_PREFIX = ""
-
 
 # convert a list of sorted positions into a list of ranges
 def to_ranges(disordered_residue_positions):
@@ -73,7 +71,7 @@ def main():
         output_file_name = protein_id + ".annotation"
         with open(output_file_name, 'w') as annotation_file:
             annotation_file.write("JALVIEW_ANNOTATION\n")
-            annotation_file.write("SEQUENCE_REF\t" + protein_id+"\n")
+            annotation_file.write("SEQUENCE_REF\t" + protein_id + "\n")
             disordered_residue_ranges = to_ranges(prediction_info["disordered_residue_positions"])
             group_counter = 1
             for disordered_residue_range in disordered_residue_ranges:
@@ -81,13 +79,13 @@ def main():
                 group_counter += 1
                 _from = str(disordered_residue_range['from'])
                 to = str(disordered_residue_range['to'])
-                annotation_file.write("SEQUENCE_GROUP\t" + group_name + "\t" + _from + "\t" + \
+                annotation_file.write("SEQUENCE_GROUP\t" + group_name + "\t" + _from + "\t" +
                                       to + "\t*\n")
                 annotation_file.write(
-                    "PROPERTIES\t" + group_name + "\tdescription=disordered region\toutlineColour=red\tcolour=yellow\n")
-            annotation_file.write("LINE_GRAPH\tSVM decision value\t" + "|".join(prediction_info["distances"])+ "\n")
+                        "PROPERTIES\t" + group_name + "\tdescription=disordered region\t"
+                                                      "outlineColour=red\tcolour=yellow\n")
+            annotation_file.write("LINE_GRAPH\tSVM decision value\t" + "|".join(prediction_info["distances"]) + "\n")
             annotation_file.write("COLOUR\tSVM decision value\tblue\n")
-            # annotation_file.write("GRAPHLINE\tSVM decision value\t0\t\t000000\n")
 
 
 if __name__ == "__main__":
