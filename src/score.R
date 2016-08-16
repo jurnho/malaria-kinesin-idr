@@ -368,3 +368,20 @@ png("svm_relative_frequency.png")
 barplot(a, beside=TRUE, xlab = "decision value (distance)", legend=rownames(a),
 main="SVM relative frequency distribution of decision values", names=h$mids)
 dev.off()
+
+png(filename="predictor_score_distributions.png")
+library(RColorBrewer)
+colors = brewer.pal(6, "Dark2")
+#colors = c("red", "blue", "green", "purple", "brown", "orange")
+line_types = c(1,2,3,4,5,6)
+plot(density(pdb_only$DISOPRED, adjust=0.2), col=colors[1], lty=line_types[1], lwd=2,
+main = "Score distribution of individual predictors", xlab='predictor score')
+lines(density(pdb_only$DISEMBL_COILS ), col=colors[2], lty=line_types[2], lwd=2)
+lines(density(pdb_only$DISEMBL_REM465 ), col=colors[3], lty=line_types[3], lwd=2)
+lines(density(pdb_only$DISEMBL_HOTLOOPS ), col=colors[4], lty=line_types[4], lwd=2)
+lines(density(pdb_only$iupred_long), col=colors[5], lty=line_types[5], lwd=2)
+lines(density(pdb_only$iupred_short), col=colors[6], lty=line_types[6], lwd=2)
+legend(x='topright', legend = c('DISOPRED','DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','iupred_long','iupred_short'), lty=line_types, col=colors, lwd=2)
+dev.off()
+
+x11()
