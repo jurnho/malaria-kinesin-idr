@@ -353,7 +353,7 @@ plasmo_predicted_percent_disorder = sum(plasmo_svm_decision_values > 0) / length
 plasmo_predicted_percent_disorder
 
 # plots
-breaks = seq(-2, 2, by=0.10 )
+breaks = seq(-2.5, 2.5, by=0.10 )
 h = hist(svm_prediction_decision_values, breaks=breaks)
 h$counts = h$counts / length(svm_prediction_decision_values)
 
