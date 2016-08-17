@@ -165,8 +165,8 @@ sum(pdb_only$disordered=='Y')
 sum(pdb_only$disordered=='N')
 
 protein_ids = unique(pdb_only$protein_id)
-# randomly select 90% of proteins for training, and 10% for testing
-buckets = sample(2, length(protein_ids), replace=TRUE, prob=c(0.90, 0.10))
+# randomly select 70% of proteins for training, and 30% for testing
+buckets = sample(2, length(protein_ids), replace=TRUE, prob=c(0.70, 0.30))
 protein_buckets = cbind(protein_ids, buckets)
 colnames(protein_buckets) = c('protein_id','bucket')
 
@@ -265,7 +265,6 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
   svm_train.subset = svm_train.all[training_subset,]
   svm_train.data = svm_train.subset[,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
   svm_train.labels = as.factor(svm_train.subset[,c('disordered')])
-
   svm_model = svm(x=svm_train.data, y=svm_train.labels, probability = TRUE, class.weights=c('Y'=yes_weight, 'N'=1),
                 kernel=svm_kernel)
   svm_test_all = svm_data_set[svm_data_set$bucket==2,c('protein_id','position','disordered','DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
@@ -275,7 +274,11 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
   # probability=TRUE doesn't seem to work here.
   svm_prediction = predict(svm_model, svm_test_data, decision.values = TRUE)
   svm_prediction_YN = as.vector(svm_prediction)
-  svm_prediction_decision_values = attr(svm_prediction, "decision.values")[,'N/Y'] * -1
+  svm_prediction_decision_values = attr(svm_prediction, "decision.values")[,1]
+  # sometimes the class label is reversed
+  if (colnames(attr(svm_prediction, "decision.values"))[1] == 'N/Y') {
+      svm_prediction_decision_values = svm_prediction_decision_values * -1
+  }
   svm_results = cbind(svm_test_all, svm_prediction_YN)
 
   true_positive = sum((svm_prediction_YN=='Y') & (svm_test_labels =='Y'))
@@ -384,4 +387,54 @@ lines(density(pdb_only$iupred_short), col=colors[6], lty=line_types[6], lwd=2)
 legend(x='topright', legend = c('DISOPRED','DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','iupred_long','iupred_short'), lty=line_types, col=colors, lwd=2)
 dev.off()
 
-x11()
+# return svm roc data for plotting
+svm_roc = function() {
+  # we can tweak the weight and see the ROC changes.
+  yes_weights=c(1,1.5,2,2.5,3,3.5,4,4.5,5,5.5,6,6.5,7,7.5,8,9,10,15,20)
+  sensitivities=c()
+  specificities=c()
+  for (yes_weight in yes_weights) {
+    s = svm_disprot(pdb_only, protein_buckets, yes_weight=yes_weight, num_samples=5000)
+    sensitivities = c(sensitivities, s$result['svm_sensitivity'])
+    specificities = c(specificities, s$result['svm_specificity'])
+  }
+  return (list(sensitivities=as.vector(sensitivities), specificities=as.vector(specificities), yes_weights=yes_weights))
+}
+
+predictor_test_data_scores = function() {
+  test_data_set = merge(pdb_only,protein_buckets,by=c('protein_id'))
+  test_data_set = test_data_set[test_data_set$bucket==2,c('protein_id','position','disordered','DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short')]
+  sensitivities=c()
+  specificities=c()
+  for (predictor in predictors) {
+    predictions = is_disorder_predicted(predictor, test_data_set[,c(predictor)])
+    actuals = (test_data_set$disordered == 'Y')
+    true_positive = sum(predictions & actuals)
+    false_positive = sum(predictions & !actuals)
+    true_negative = sum(!predictions & !actuals)
+    false_negative = sum(!predictions & actuals)
+    sensitivity = true_positive / (true_positive + false_negative)
+    specificity = true_negative / (true_negative + false_positive)
+    sensitivities = c(sensitivities, sensitivity)
+    specificities = c(specificities, specificity)
+  }
+  return (list(sensitivities=sensitivities, specificities = specificities, predictors = as.vector(predictors)))
+}
+roc_predictor = predictor_test_data_scores()
+roc = svm_roc()
+
+png(filename="svm_roc.png", width = 800, height = 600)
+plot(1-roc$specificities, roc$sensitivities, xlim=c(0,1), ylim=c(0,1),
+main="ROC curve for SVM trained with various disorder class weights", type="l", col="blue",ylab='sensitivity',
+xlab='1-specificity')
+points(1-roc$specificities, roc$sensitivities,pch=1, col="blue")
+standalone_sensitivities = roc_predictor$sensitivities
+standalone_specificities = roc_predictor$specificities
+# pch=4 cross
+points(1-standalone_specificities, standalone_sensitivities, pch=4, col="darkgreen")
+abline(0, 1,col="red")
+legend(x='bottomright', legend = c('SVM consensus predictor','individual predictors','random predictor'),
+col=c('blue','darkgreen','red'), lty=c(1,NA,1), lwd=2, pch=c(1,4,NA))
+dev.off()
+
+#x11()
