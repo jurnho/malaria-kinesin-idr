@@ -300,7 +300,8 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
   svm_prediction_YN = svm_prediction_YN,
   training_subset = training_subset))
 }
-svm_disprot_result = svm_disprot(pdb_only, protein_buckets)
+
+svm_disprot_result = svm_disprot(pdb_only, protein_buckets, yes_weight = 4.5)
 svm_result=svm_disprot_result$result
 svm_model=svm_disprot_result$svm_model
 svm_prediction_decision_values=svm_disprot_result$svm_prediction_decision_values
@@ -360,7 +361,7 @@ plasmo_predicted_percent_disorder = sum(plasmo_svm_decision_values > 0) / length
 plasmo_predicted_percent_disorder
 
 # plots
-breaks = seq(-2.5, 2.5, by=0.10 )
+breaks = seq(-2.4, 2.4, by=0.10 )
 h = hist(svm_prediction_decision_values, breaks=breaks)
 h$counts = h$counts / length(svm_prediction_decision_values)
 
@@ -371,7 +372,7 @@ a = rbind(h$counts, h2$counts)
 rownames(a) = c('test set','plasmodb kinesins')
 barplot(a, beside=TRUE, xlab = "decision value (distance)", legend=rownames(a),
 main="SVM relative frequency distribution of decision values", names=h$mids)
-png("svm_relative_frequency.png")
+png("svm_relative_frequency.png", width = 800, height = 600)
 barplot(a, beside=TRUE, xlab = "decision value (distance)", legend=rownames(a),
 main="SVM relative frequency distribution of decision values", names=h$mids)
 dev.off()
