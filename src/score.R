@@ -288,7 +288,7 @@ smooth_regions = function(predictions) {
       window = c(lone_disorder_removed[i-1], lone_disorder_removed[i], lone_disorder_removed[i+1])
       # if it is inbetween disordered regions, set it as disordered
       if (identical(window, c('Y','N','Y'))) {
-        results = c(results,'N')
+        results = c(results,'Y')
       }
       else {
         results = c(results, lone_disorder_removed[i])
@@ -393,6 +393,51 @@ plasmo_svm_decision_values = attr(plasmo_svm.prediction, "decision.values")[,'N/
 plasmo_results = cbind(plasmodb_predictions, plasmo_svm.disorder)
 plasmo_results = cbind(plasmo_results, plasmo_svm_decision_values)
 plasmo_results = plasmo_results[order(plasmo_results["protein_id"], plasmo_results["position"]),]
+
+# sorted vector of protein names with repeats, return a matrix of start and end indexes.
+# e.g. c("
+find_plasmo_protein_start_and_end_indexes = function(proteins) {
+  if (length(proteins) == 0) {
+    return (matrix())
+  }
+  current_protein = proteins[1]
+  start = 1
+  end = 1
+  results = NULL
+  for (i in seq(1:length(proteins))) {
+    # we have moved onto the next protein.. add previous.
+    if (current_protein != proteins[i]) {
+      # add previous protein
+      results = rbind(results, c(start, end))
+      start = i
+      end = i
+      current_protein=proteins[i]
+    }
+    else {
+      # bump end
+      end = i
+    }
+  }
+  results = rbind(results, c(start, end))
+  return (results)
+}
+
+plasmo_protein_start_ends = find_plasmo_protein_start_and_end_indexes(plasmo_results[,c('protein_id')])
+extract_predictions = function(start_end, predictions) {
+  protein_disorder_predictions = predictions[start_end[1]: start_end[2]]
+  smoothed = smooth_regions(protein_disorder_predictions)
+  return ( smoothed )
+}
+predictions = apply(plasmo_protein_start_ends,1 , extract_predictions, predictions = as.vector(plasmo_results[,c('plasmo_svm.disorder')]))
+
+# concat all them
+plasmo_svm.disorder.smoothed = c()
+for (p in predictions) {
+    plasmo_svm.disorder.smoothed = c(plasmo_svm.disorder.smoothed, p)
+}
+# add a new column into our results
+plasmo_results = cbind(plasmo_results, plasmo_svm.disorder.smoothed)
+
 write.csv(plasmo_results, file = "plasmo_svm_prediction.csv")
 
 # other info
