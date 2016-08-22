@@ -256,8 +256,52 @@ lm_disprot = function(pdb_only, protein_buckets) {
 }
 lm_disprot(pdb_only, protein_buckets)
 
+# results is a vector of Y or N
+# remove lone residue predictions of disorder and order.
+smooth_regions = function(predictions) {
+  # loop through each residue.
+  lone_disorder_removed = c()
+  for (i in seq(1, length(predictions))) {
+    if (i==1 | i==length(predictions)) {
+      lone_disorder_removed = c(lone_disorder_removed, predictions[i])
+    }
+    # else look at +1 either side
+    else {
+      window = c(predictions[i-1], predictions[i], predictions[i+1])
+      # if it is inbetween disordered regions, set it as disordered
+      if (identical(window, c('N','Y','N'))) {
+        lone_disorder_removed = c(lone_disorder_removed,'N')
+      }
+      else {
+        lone_disorder_removed = c(lone_disorder_removed, predictions[i])
+      }
+    }
+  }
+  # again but this time for ordered residues (N)
+  results = c()
+  for (i in seq(1, length(lone_disorder_removed))) {
+    if (i==1 | i==length(lone_disorder_removed)) {
+      results = c(results, lone_disorder_removed[i])
+    }
+    # else look at +1 either side
+    else {
+      window = c(lone_disorder_removed[i-1], lone_disorder_removed[i], lone_disorder_removed[i+1])
+      # if it is inbetween disordered regions, set it as disordered
+      if (identical(window, c('Y','N','Y'))) {
+        results = c(results,'N')
+      }
+      else {
+        results = c(results, lone_disorder_removed[i])
+      }
+    }
+  }
+  return (results)
+}
+
+
 # create a SVM and evaluate the results.
-svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000, svm_kernel="radial", training_subset=NULL) {
+svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000, svm_kernel="radial",
+training_subset=NULL, filter_lone_regions=TRUE) {
   library("e1071")
   svm_data_set= merge(pdb_only,protein_buckets,by=c('protein_id'))
   svm_train.all = svm_data_set[svm_data_set$bucket==1,c('DISEMBL_COILS','DISEMBL_REM465','DISEMBL_HOTLOOPS','DISOPRED','iupred_long','iupred_short','disordered')]
@@ -283,7 +327,10 @@ svm_disprot = function(pdb_only, protein_buckets, yes_weight=4, num_samples=5000
       svm_prediction_decision_values = svm_prediction_decision_values * -1
   }
   svm_results = cbind(svm_test_all, svm_prediction_YN)
-
+  if (filter_lone_regions) {
+    svm_prediction_YN = smooth_regions(svm_prediction_YN);
+  }
+  # filter svm_prediction_YN
   true_positive = sum((svm_prediction_YN=='Y') & (svm_test_labels =='Y'))
   false_negative = sum((svm_prediction_YN=='N') & (svm_test_labels =='Y'))
   false_positive = sum((svm_prediction_YN =='Y') & (svm_test_labels =='N'))
@@ -353,12 +400,12 @@ write.csv(plasmo_results, file = "plasmo_svm_prediction.csv")
 sum(svm_prediction_decision_values > 0)
 sum(svm_prediction_decision_values < 0)
 test_set_predicted_percent_disorder = sum(svm_prediction_decision_values > 0) / length(svm_prediction_decision_values)
-test_set_predicted_percent_disorder
+round(test_set_predicted_percent_disorder,3)
 ## percent of predicted disorder in disprot
 sum(plasmo_svm_decision_values > 0)
 sum(plasmo_svm_decision_values < 0)
 plasmo_predicted_percent_disorder = sum(plasmo_svm_decision_values > 0) / length(plasmo_svm_decision_values)
-plasmo_predicted_percent_disorder
+round(plasmo_predicted_percent_disorder,3)
 
 # plots
 breaks = seq(-2.4, 2.4, by=0.10 )
@@ -469,5 +516,8 @@ legend(x='bottomright', legend = c('radial','polynomial','linear','sigmoid'),
  col=colors, lty = line_types, lwd=2)
 dev.off()
 
+# check difference between filter and no filter
+no_filter = svm_disprot(pdb_only, protein_buckets, yes_weight=4.5, filter_lone_regions=FALSE)
+svm_disprot(pdb_only, protein_buckets, yes_weight=4.5, training_subset=no_filter$training_subset)$result
 
 x11()
