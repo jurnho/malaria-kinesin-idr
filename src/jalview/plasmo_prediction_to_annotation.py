@@ -109,6 +109,7 @@ def main():
                 end = prediction_info['motor_domain_end']
                 motor_domain_length = int(end) - int(start)
                 annotation_file.write("H|" * (motor_domain_length-6))
+                annotation_file.write("\n")
 
 if __name__ == "__main__":
     main()
