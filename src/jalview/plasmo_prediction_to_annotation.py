@@ -37,12 +37,12 @@ def to_ranges(disordered_residue_positions):
 
 
 def main():
-    if len(sys.argv) != 3:
-        print "usage: " + sys.argv[0] + " [plasmodb_svm_results.csv] [motor_domains.csv]"
+    if len(sys.argv) != 4:
+        print "usage: " + sys.argv[0] + " [plasmodb_svm_results.csv] [motor_domains.csv] [atp_binding_domains.csv]"
         return
     csv_results_file = sys.argv[1]
     motor_domains_file = sys.argv[2]
-
+    apt_binding_domains_file = sys.argv[3]
     # state held in here
     annotations = {}
     # add disorder predictions
@@ -78,6 +78,20 @@ def main():
             protein_annotation = annotations[protein_id]
             protein_annotation['motor_domain_start'] = motor_domain_start
             protein_annotation['motor_domain_end'] = motor_domain_end
+    with open(apt_binding_domains_file, 'rb') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        for row in csv_reader:
+            protein_id = row['protein id']
+            print row
+            atp_binding_domain_start = row['atp binding domain start']
+            atp_binding_domain_end = row['atp binding domain end']
+            protein_annotation = annotations[protein_id]
+            if "atp_binding" not in protein_annotation:
+                protein_annotation['atp_binding'] = []
+            protein_annotation['atp_binding'].append({
+                "start": atp_binding_domain_start,
+                "end": atp_binding_domain_end
+            })
     # dump annotations
     for protein_id, prediction_info in annotations.iteritems():
         print protein_id
@@ -100,16 +114,39 @@ def main():
             annotation_file.write("LINE_GRAPH\tSVM decision value\t" + "|".join(prediction_info["distances"]) + "\n")
             annotation_file.write("COLOUR\tSVM decision value\tblue\n")
             if 'motor_domain_start' in prediction_info:
-                annotation_file.write('NO_GRAPH\tMotor Domain\t')
+                # annotation_file.write('NO_GRAPH\tMotor Domain\t')
+                # start = prediction_info['motor_domain_start']
+                # # gaps, then H*
+                # annotation_file.write("|" * (int(start) -1))
+                # # move the label a bit further on.. jalview doesn't align it properlyy otherwise.
+                # annotation_file.write("H|H|H|H|H|H,motor domain|")
+                # end = prediction_info['motor_domain_end']
+                # motor_domain_length = int(end) - int(start)
+                # annotation_file.write("H|" * (motor_domain_length-6))
+                # annotation_file.write("\n")
+                annotation_file.write("LINE_GRAPH\tMotor Domain\t")
                 start = prediction_info['motor_domain_start']
-                # gaps, then H*
-                annotation_file.write("|" * (int(start) -1))
-                # move the label a bit further on.. jalview doesn't align it properlyy otherwise.
-                annotation_file.write("H|H|H|H|H|H,motor domain|")
                 end = prediction_info['motor_domain_end']
+                annotation_file.write("|" * (int(start) - 1))
                 motor_domain_length = int(end) - int(start)
-                annotation_file.write("H|" * (motor_domain_length-6))
+                annotation_file.write("1,,|" * (motor_domain_length + 1))
                 annotation_file.write("\n")
+                annotation_file.write("COLOUR\tMotor Domain\tred\n")
+            if 'atp_binding' in prediction_info:
+                annotation_file.write("LINE_GRAPH\tATP Binding Domain\t")
+                atp_binding_info = prediction_info['atp_binding']
+                i=0
+                for region in atp_binding_info:
+                    start = int(region['start'])
+                    end = int(region['end'])
+                    # catch up to start
+                    annotation_file.write("|" * (start- i - 1))
+                    annotation_file.write("0.8|" * (end - start + 1))
+                    i=end
+                annotation_file.write("\n")
+                annotation_file.write("COLOUR\tATP Binding Domain\tgreen\n")
+                annotation_file.write("COMBINE\tMotor Domain\tATP Binding Domain\n")
+                annotation_file.write("GRAPHLINE\tATP Binding Domain\t3\tthreshold\twhite\n")
 
 if __name__ == "__main__":
     main()
