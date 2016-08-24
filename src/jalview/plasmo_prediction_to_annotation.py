@@ -99,20 +99,7 @@ def main():
         with open(output_file_name, 'w') as annotation_file:
             annotation_file.write("JALVIEW_ANNOTATION\n")
             annotation_file.write("SEQUENCE_REF\t" + protein_id + "\n")
-            disordered_residue_ranges = to_ranges(prediction_info["disordered_residue_positions"])
-            group_counter = 1
-            for disordered_residue_range in disordered_residue_ranges:
-                group_name = "Region_" + str(group_counter)
-                group_counter += 1
-                _from = str(disordered_residue_range['from'])
-                to = str(disordered_residue_range['to'])
-                annotation_file.write("SEQUENCE_GROUP\t" + group_name + "\t" + _from + "\t" +
-                                      to + "\t*\n")
-                annotation_file.write(
-                        "PROPERTIES\t" + group_name + "\tdescription=disordered region\t"
-                                                      "outlineColour=blue\tcolour=yellow\n")
-            annotation_file.write("LINE_GRAPH\tSVM decision value\t" + "|".join(prediction_info["distances"]) + "\n")
-            annotation_file.write("COLOUR\tSVM decision value\tblue\n")
+
             if 'motor_domain_start' in prediction_info:
                 # annotation_file.write('NO_GRAPH\tMotor Domain\t')
                 # start = prediction_info['motor_domain_start']
@@ -129,7 +116,7 @@ def main():
                 end = prediction_info['motor_domain_end']
                 annotation_file.write("|" * (int(start) - 1))
                 motor_domain_length = int(end) - int(start)
-                annotation_file.write("1,,|" * (motor_domain_length + 1))
+                annotation_file.write("0.8,,|" * (motor_domain_length + 1))
                 annotation_file.write("\n")
                 annotation_file.write("COLOUR\tMotor Domain\tred\n")
             if 'atp_binding' in prediction_info:
@@ -141,12 +128,26 @@ def main():
                     end = int(region['end'])
                     # catch up to start
                     annotation_file.write("|" * (start- i - 1))
-                    annotation_file.write("0.8|" * (end - start + 1))
+                    annotation_file.write("1|" * (end - start + 1))
                     i=end
                 annotation_file.write("\n")
                 annotation_file.write("COLOUR\tATP Binding Domain\tgreen\n")
                 annotation_file.write("COMBINE\tMotor Domain\tATP Binding Domain\n")
                 annotation_file.write("GRAPHLINE\tATP Binding Domain\t3\tthreshold\twhite\n")
 
+            disordered_residue_ranges = to_ranges(prediction_info["disordered_residue_positions"])
+            group_counter = 1
+            for disordered_residue_range in disordered_residue_ranges:
+                group_name = "Region_" + str(group_counter)
+                group_counter += 1
+                _from = str(disordered_residue_range['from'])
+                to = str(disordered_residue_range['to'])
+                annotation_file.write("SEQUENCE_GROUP\t" + group_name + "\t" + _from + "\t" +
+                                      to + "\t*\n")
+                annotation_file.write(
+                        "PROPERTIES\t" + group_name + "\tdescription=disordered region\t"
+                                                      "outlineColour=blue\tcolour=yellow\n")
+            annotation_file.write("LINE_GRAPH\tSVM decision value\t" + "|".join(prediction_info["distances"]) + "\n")
+            annotation_file.write("COLOUR\tSVM decision value\tblue\n")
 if __name__ == "__main__":
     main()
