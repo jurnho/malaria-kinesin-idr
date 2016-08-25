@@ -1,3 +1,5 @@
+## R script for intrinsically disordered region consensus prediction.
+
 disprot = read.csv("disprot.csv", stringsAsFactors=FALSE)
 protein_ids = unique(disprot$protein_id)
 
