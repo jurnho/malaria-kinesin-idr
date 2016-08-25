@@ -82,7 +82,6 @@ def main():
         csv_reader = csv.DictReader(csv_file)
         for row in csv_reader:
             protein_id = row['protein id']
-            print row
             atp_binding_domain_start = row['atp binding domain start']
             atp_binding_domain_end = row['atp binding domain end']
             protein_annotation = annotations[protein_id]
